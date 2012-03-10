@@ -1,0 +1,1035 @@
+Wondering why recovering stolen mobiles is so rare. Maybe instead of barring IMEI it should be traced by network for swift recovery action?	2012-03-09 11:02:26	178073252185374720
+RT @codeinthehole: Fatherhood: http://t.co/BP8Vx5KC (from #reddit)	2012-03-09 08:28:14	178034445524275200
+RT @ARCHOSNews: Download ICS for your G9 tablet: http://t.co/nBqun68E	2012-03-08 18:11:05	177818736361881601
+Protip: when you manually comment out a cronjob directly on server, always leave a note inside why/when it was done, so next dev won't WTF.	2012-03-08 15:52:34	177783880596721665
+Fatboy Slim on @mixcloud is making my day so far. This set is srsly cool. http://t.co/GNR4rMwK	2012-03-08 13:10:43	177743150297784321
+Holy shitballs, Xperia S just £369.99 on PAYG from @ThreeUK http://t.co/4UGP9zYW	2012-03-08 11:24:46	177716485207236608
+RT @bergie: OH: Paper is copy protection against lazy people	2012-03-07 17:48:54	177450768436178945
+You know that you're getting old when you meet someone who doesn't know what ZX Spectrum is.	2012-03-07 12:59:14	177377870992244737
+Watched second episode of The Tube last night, good stuff again. New rolling stock on Metropolitan Line is cool too! http://t.co/dYKrig8Z	2012-03-07 10:08:13	177334832152592384
+Every Londoner should watch The Tube. Instantly makes you feel more respectful abt the Underground. http://t.co/avGuwKu4 via @codeinthehole	2012-03-06 01:03:11	176835281645862912
+Is there a way of temporarily muting tweets with certain hashtag in the timeline?	2012-03-05 10:50:57	176620811166298112
+Wife's Xperia Arc S got stolen today, just 2 months after buying, ffs!	2012-03-03 19:02:53	176019835694759936
+Apparently @O2 has UK-wide data issues, namely mobile internet is not working which also affects @giffgaff and Tesco Mobile. Anyone confirm?	2012-03-03 14:51:52	175956662421696512
+.@giffgaff is really great newtork - but only when it actually works.	2012-03-03 14:24:37	175949805523185664
+Had a look at Xperia S dummy unit @phones4u, looks really nice but bigger than anticipated - roughly as Galaxy Nexus. :-o hmmm..	2012-03-03 12:07:13	175915226984747008
+Sweet price if you ask me! RT @coolsmartphone: Xperia S O2 PAYG Price Revealed: http://t.co/S2lbpThC	2012-03-03 11:25:23	175904702096097280
+RT @codeinthehole: Slides for "Migrating from PHP to Python and Django" are up: http://t.co/YSjAHgIj #confoo	2012-03-02 21:38:38	175696643092512769
+RT @codeinthehole: Slides for 'Writing an e-commerce framework in Django" are up: http://t.co/LdBKeKUJ	2012-03-02 21:38:30	175696609345159169
+Seriously impressed with Banshee player. Amazon mp3 purchases and library mngmnt on Android phone completely seamless. http://t.co/Wy0qKzYu	2012-03-02 16:23:43	175617390523056128
+Aaah, Google's new privacy policy a.k.a. everything what was being done for ages, now just officially legit, right?	2012-03-01 08:49:57	175140808792616961
+RT @jwomack: Banksy on advertising: http://t.co/3n71qGtf	2012-03-01 00:21:28	175012845921112064
+My thoughts on MWC 2012 announcements and what should I get next. http://t.co/zdZjGwnl #mwc2012	2012-02-29 10:01:48	174796500814147584
+.@github blog pwned? http://t.co/umYHwgMs	2012-02-29 08:29:58	174773390517870592
+RT @PaulOBrien: Nice! http://t.co/i0htWbhL RT @kas206: @PaulOBrien Bargain alert: Galaxy Nexus £399 @ amazon and expansys	2012-02-28 17:46:36	174551085699174400
+Hi @Spotify, thanks for "10 hours of free music" but without Linux/Fedora client (even unsupported) I won't be able to use it.	2012-02-28 10:18:35	174438340425293824
+If @nokia released PureView device running WP7 that would be something. With Belle it's "meh" at best.	2012-02-27 10:38:26	174080945148788737
+Pseudo-41MP camera in a pregnant-backwards phone running Symbian. Well done Nokia.	2012-02-27 08:52:46	174054352422584320
+.@htc, could you stop making Sensation/Legend clones please? I'd really like to see something genuinely fresh here.	2012-02-26 23:15:15	173909015682756608
+Right, no new qwerty models from either HTC or Sony-not-Ericsson. Species to extinct, I guess. Sad panda.	2012-02-26 23:13:28	173908568238592001
+Since when application forms to vote by post in mayoral election are sent by Boris Johnson rather than my local council? // @LBofHounslow	2012-02-25 12:45:49	173388228487950336
+Phing stops being so interesting once you discover fabric. #justsayin #phpuk2012	2012-02-24 16:44:57	173086017753071617
+Surprisngly interesting talk on fraud detection at #phpuk2012	2012-02-24 16:39:25	173084626313674752
+On meritorical side of things, #phpuk2012 seems more boring than previous ones so far. #sadpanda	2012-02-24 15:19:48	173064591448870912
+RT @_gump: Shame @kuramanga isn't doing the talk on distributing workload instead at #phpuk2012 would be more fun and in-depth me thinks...	2012-02-24 15:18:11	173064185872252930
+"Non-meritorical", ffs. Bloody perfectionism. #phpuk2012	2012-02-24 15:17:19	173063964832448514
+Non-meroterical observation from #phpuk2012 - wifi access is much better than in previous years but aircon isn't. Bloody hot here!	2012-02-24 15:11:42	173062553600135169
+http://t.co/YGwYdvPZ talk on scaling with "we commit everything to the trunk and deploy" part was def. the highlight of #phpuk2012 today.	2012-02-24 14:50:37	173057244622098432
+RT @davegardnerisme: Becoming increasingly *amazed* that http://t.co/dC911q8p actually works at all. #phpuk2012	2012-02-24 14:42:56	173055313879109634
+Wow, http://t.co/3sJHGZp8 guys apparently don't get the idea of branching and develop new features directly in trunk. Wtf?! #phpuk2012	2012-02-24 14:39:54	173054547965640704
+Django on fire at data abstraction talk - wish @codeinthehole was around for a little rant. ;) #phpuk2012	2012-02-24 12:34:34	173023009106436096
+Yeah, data mapper pattern ftw! Really surprised it wasn't mentioned at all during the talk. #phpuk2012	2012-02-24 12:31:00	173022110942380032
+RT @tangent_labs: Our team in Labs T-shirts clearly visible at #phpuk2012 http://t.co/39EhBYBF Check out what we do on our stand	2012-02-24 12:28:35	173021504760586240
+authoriseUser() method doesn't belong to User_Model but separate service object in the domain, does it? #phpuk2012	2012-02-24 12:26:39	173021016833003523
+RT @AlanHungover: I changed all my passwords to "incorrect". So whenever I forget, it will tell me "Your password is incorrect."	2012-02-23 10:53:10	172635101342089216
+Successfully tackled troublesome south migration (both data- and schemamigration) all by myself. I'm so proud of myself.	2012-02-22 16:00:19	172350011407994880
+Great gem for your bashrc if using git on daily basis: alias g='git status -sb' via @codeinthehole	2012-02-22 11:03:52	172275407456976896
+Fascinating story about GitHub. http://t.co/h0KXdnjc	2012-02-22 00:10:26	172110965540794368
+RT @g__j: Why people pirate. In pictures. Very very true and easier to read than an essay http://t.co/ZGKkuBHe	2012-02-21 15:40:38	171982670090338305
+RT @expansysUK: We've got the Galaxy Nexus at £399.99 - but limited stock at this price; once it's gone, it's gone! http://t.co/DE9OyFfC	2012-02-20 12:20:33	171569928539881472
+RT @handtec: Nokia N9 64GB - OPEN BOX (SIM Free/Unlocked, Black) £329.99 exc Vat http://t.co/kyKF0wuS	2012-02-20 11:59:58	171564749316825089
+Let's make it official. I'm 30-years-old and totally in love with Peppa Pig.	2012-02-19 13:41:51	171228002988982272
+RT @AtulChitnis: If your 2012 phone model requires 4 CPU cores to give the user experience of a competitor's 2009 single core model, you ...	2012-02-18 09:54:04	170808290635296769
+I wonder how many Linux kernel iterations are still needed to make wifi adapter work without a glitch for one day. Or at least half day.	2012-02-17 10:14:31	170451050657095680
+Went through Bootstrap last night. Seems to solve my congenital html/css/js impairment to create nice looking web UIs. http://t.co/mZBR2IwT	2012-02-17 09:48:17	170444447199399938
+I really like the point about private offices for developers which Joel Spolsky is making in this book: http://t.co/1j1KRdd2	2012-02-16 16:58:29	170190321177722880
+RT @27bslash6: "YOU HAVE TO DO YOUR TIMESHEETS. EVERYONE DOES." http://t.co/XYrmT1bD	2012-02-16 16:15:40	170179545427750912
+Grooveshark is great for music discovery and ad-hoc listening but is utter pile of music mess otherwise.	2012-02-16 11:19:37	170105041888354304
+RT @vladsavov: I assure you, you've never seen a cat video like this before http://t.co/NapwXErD	2012-02-16 11:07:31	170101999411531776
+How come I've been working with php for approx. 10 years and I only found end() function today?	2012-02-15 17:04:35	169829470742650880
+Running SSH daemon in Windows 7 - howto. http://t.co/6LLwecF2	2012-02-15 09:44:57	169718833186222080
+Thank you NHS for wasting 3.5h of my time today, just in order to convince us that c-section is the source of all diseases around the world.	2012-02-14 18:26:51	169487786775289856
+I reckon timekeeping is not a part of staff trainings at NHS. Appointment running 50 minutes late and counting.	2012-02-14 16:31:44	169458816675618817
+Bose AE2 headphones - great sound quality and exceptionally comfy to wear all day long. Can't feel any fatigue to ears after ~8hrs straight.	2012-02-13 19:23:05	169139550432673794
+RT @_L_M_C_: I was disappointed when the book '1001 Things You Never Knew About Binary' turned out to only have nine pages.	2012-02-13 18:45:30	169130088695214081
+One could say Google was good at search once. http://t.co/Dse89fdD	2012-02-13 11:05:26	169014301275852800
+Could someone explain why are eBooks so expensive, please?	2012-02-13 10:54:20	169011518946553856
+RT @One_Cornwall: All private parking offences are just business contracts - so play them at their own game: attach this to your car.. h ...	2012-02-12 08:25:25	168611653049532417
+The US patent system is seriously sick. http://t.co/fWgIwaGT via @verge	2012-02-11 22:06:03	168455786652110848
+RT @jp_hero: Haha nice one. RT @Jimblobb HOT NEWS: HTC Branching out into new product areas!  http://t.co/hVNgv171	2012-02-11 12:24:27	168309420411994112
+RT @handtec: http://t.co/VxjuLuAI, Knockout Nokia N9 16gb Deal @ £264.99 exc Vat #Nokia #MeeGo	2012-02-10 13:15:58	167959999132348417
+Almost forgot to enter today's Hello @ThreeUK comp. #GoodByeDataLimits	2012-02-08 15:56:03	167275506658582529
+RT @g__j: The superbowl ad may have been borderline racist, but there's nothing borderline about the HTML: http://t.co/D0Zddjmh	2012-02-07 13:42:53	166879609311342593
+RT @jp_hero: http://t.co/oDKneEu9 weird sign my wife came across in dubai.	2012-02-06 09:58:44	166460808589615104
+Oh, come on @ThreeUK, how many times I need to hello you to win?! #GoodByeDataLimits :)	2012-02-06 09:58:02	166460635419394049
+Speaking of django-tastypie, this is worth read re security. http://t.co/5Y6G0sef // @igniteflow	2012-02-04 22:51:47	165930577499914240
+Really nice experience out there at Emirates Stadium, only the game could be a bit less one-sided.	2012-02-04 16:53:04	165840304161816576
+C'mon Szczesny, you could do better. #arsenal	2012-02-04 13:34:40	165790373908721664
+RT @TMobileUKhelp: Hi guys, sorry- just to confirm, our Full Monty plans do NOT have a max speed of 1MB/s. We give all our customers the ...	2012-02-04 13:14:02	165785182274719744
+Looking smart casual and en route to Emirates Stadium to see what a proper football is about.	2012-02-04 09:53:59	165734839516004352
+This is hilarious. http://t.co/3YUlYoRv PS. I even know one such "IT professional" myself.	2012-02-03 22:18:07	165559716561428481
+DesktopLinux.com changes hands and goes down, apparently. http://t.co/JF9rbbyG	2012-02-03 22:13:21	165558517980344320
+Updating nVidia driver in Acer Revo RL100 and Windows 7 is surprisingly tricky job. http://t.co/opQuMPeT	2012-02-03 09:45:33	165370329844297728
+RT @g__j: Never mind roads and tubes, London's mobile networks are going to totally meltdown for the Olympics. #bettergetalandlinenow	2012-02-03 08:29:05	165351087002497025
+Full SSH access to the Windows 7 machine and all hard drives in it - priceless. Thank you cygwin, you made my evening. http://t.co/pRu6p1Le	2012-02-03 00:00:50	165223179604860928
+RT @HotUKDeals: Is this the worst Valentine's Day card ever? - Telegraph http://t.co/xPxlr7qR via @Telegraph #lovedontcostathing #hukd	2012-02-02 12:44:31	165052980821901314
+Loving naming scheme of tracks in this album. http://t.co/DMj8hKs9	2012-02-02 12:39:02	165051600354807808
+Will now put @ThreeUK mobile broadband to the test instead of @giffgaff gigabag, thx to @mobilemandan. Btw, #GoodByeDataLimits ftw!	2012-02-02 10:49:43	165024089038266368
+One thing I def. won't miss after leaving London one day is fuckin' Oxford Circus station slapping gates shut in front of my face at 6:15pm.	2012-02-01 18:49:57	164782556267552770
+Interesting microsite by TfL that visualises how your commute might be affected during the Olympic Games. http://t.co/IWGbYgYm	2012-02-01 14:45:24	164721010875183105
+RT @giffgaff: 250 mins, unlimited texts and data, free gg to gg calls, and BlackBerry services. All for £13 on giffgaff. Woohoo. http:// ...	2012-02-01 14:36:10	164718690846244865
+RT @handtec: #Sony #Xperia S (SIM Free/Unlocked, Black) Expected Week Commencing 5th March REQUIRES MICRO SIM CARD http://t.co/f2Bw4QGN	2012-02-01 14:35:26	164718505940361217
+If you like ambient/chill-out music, then you'll like Jan Jelinek. http://t.co/sHAOnYIq	2012-01-31 14:22:07	164352766897160192
+RT @handtec: New Low Price #Nokia N9 16GB (SIM Free/Unlocked, Black) http://t.co/Ay6uWVtt #Meego	2012-01-31 14:12:47	164350416128192512
+I've set Peppa Pig theme tune as my default ringtone today. I'm 30yo and absolutely love it apparently. http://t.co/faL0bprp	2012-01-31 09:46:08	164283311496232960
+RT @DEVOPS_BORAT: Cloud expert are only 1% of devops ! Rest of 99% are actual know how use rsync.	2012-01-31 08:49:09	164268970768203777
+Thinking of building bespoke e-commerce website in django? Django-oscar is for you. http://t.co/WULZNLkS	2012-01-30 17:25:42	164036577222336512
+RT @g__j: Tube tip: train doors usually align with 'mind the gap' words on the platform, so stand on M or P and you'll likely get on 1st ...	2012-01-30 10:32:06	163932493383352320
+Kernel 3.1, bells, whistles and all that faff, yet still rmmod && modprobe iwlwifi is the quickest work around misbehaving wifi in Linux. :|	2012-01-29 13:07:21	163609175539187712
+RT @ThreeUK: #ThreeRTComp Save £49 on iPhone 4 8GB, now with no upfront for £30pm! Want? Head in store before end Jan to buy or RT befor ...	2012-01-27 16:00:34	162927989787607041
+RT @edent: Sky News stole my copyrighted work & distributed it without credit or payment.
+I asked them to pay.
+They refused.
+http://t.co ...	2012-01-27 15:58:09	162927379969359872
+RT @igniteflow: Cat facts! http://t.co/tPS0tLUf	2012-01-26 10:58:14	162489518686089217
+Brilliant! RT “@andrefsp: http://t.co/2CD0HHS6 If #php were British”	2012-01-26 10:17:59	162479389689380864
+RT @tracyandmatt Im hoping to win an iCrado Neo - Find out how you can enter too http://t.co/g0rUxbgU	2012-01-26 07:53:16	162442970933628928
+Paracetamol - an equivalent to WD-40 and duct tape for front-line medical staff in the UK. Bloody hate this.	2012-01-25 13:48:21	162169940756004864
+RT @giffgaff: Many of you have asked about the number-disclosure issue affecting networks who use O2. We'll be updating you here: http:/ ...	2012-01-25 12:42:44	162153428892647424
+RT @davey_lad: RAF 1 Police 0 http://t.co/zmWSzAzo	2012-01-25 11:10:28	162130207325691904
+Seriously @O2 and @giffgaff? My full number in every http header?! WTF?!?!? http://t.co/g66W34Nv	2012-01-25 10:59:58	162127567330082816
+RT @lewispeckover: So, @O2 send my phone no in an HTTP header to every site I browse. WTF? Is this normal? Check if your network does to ...	2012-01-25 10:57:49	162127023286927360
+That's not very often I'm reviewing something different than a mobile device. Acer Revo RL100 media centre PC review. http://t.co/q59tBFzr	2012-01-25 10:39:58	162122530583351298
+Nice and simple reStructuredText (RST) file viewer - restview. http://t.co/EOc250ow	2012-01-24 16:57:11	161855074455400448
+Laugh or cry, unsure... RT @boygenius: RT @ganson: We're doomed. #walmart http://t.co/5G0zX8Rf	2012-01-24 14:51:33	161823457762480128
+RT @shawty_ds: BBC News - Polish sites hit in Acta hack attack http://t.co/Cag8xhro	2012-01-24 14:28:56	161817765185982467
+Look ma! Another booooooring handset from @htc. These guys really need to fire all of their "design" team. http://t.co/UO9Lvuf5	2012-01-24 14:16:06	161814536066826241
+Anyone else annoyed with the way @verge truncates articles in rss feeds? See: http://t.co/CSLvVFAG and http://t.co/EAWRd6B7 // @vergesupport	2012-01-24 14:03:24	161811341378719744
+Wow, Sony Xperia S now just £426 in pre-order at @handtec. Really looking forward to it. http://t.co/JmGFn3uK	2012-01-23 21:49:10	161566167750807553
+Brilliant! http://t.co/hMOyMqQH (nyan cat lovers will love this too! // @rhapsody88)	2012-01-23 17:41:41	161503887117914114
+RT @gears: Epic! :-)  :-)  http://t.co/H1e5ATFi	2012-01-23 17:33:16	161501768101003264
+RT @mobilemandan: Top Spec MacBook Air, worth £1,399.11 inch model, 1.6Ghz i5, 4GB, 128GB SSD.  £750 including delivery to UK. Please DM	2012-01-23 15:11:13	161466021029494784
+Nokia Lumia 800 wrapped up to return back to @Nokia_Connects tomorrow. Sad panda.	2012-01-22 21:30:56	161199188762308608
+RT @anidel: Oh, with latest firmware, remove old Diagnostic if any, dial ##634# and put up new one. You can now change APN settings for  ...	2012-01-20 21:45:05	160477975073128448
+RT @coolsmartphone: Insane. Who's next? Dropbox? "@wired: Feds shut down Megaupload and arrest executives in massive copyright case. htt ...	2012-01-19 23:34:47	160143195374747648
+Not sure if that is related to yesterday's software update but charging Lumia's battery via USB cable is extremely and painfully slow.	2012-01-19 16:26:38	160035446741676032
+I've put my main SIM back into #Lumia 800 before returning @Nokia_Connects just to remind myself how nice it is. I wouldn't mind keeping it!	2012-01-19 10:22:56	159943919847743488
+Laugh A Lot at WAT in Ruby and JS. https://t.co/SS03EWPr // via @shawty_ds	2012-01-18 13:57:28	159635518034935808
+Sadly, my Nokia Lumia 800 trial came to an end. Woah, that 2 months passed quick as hell! @nokia_connects anything else up in your sleeve?	2012-01-18 12:26:38	159612659409502208
+Hmm, CyanogenMod has been whiteouted too. Damn you, SOPA. http://t.co/N2fvXUAw	2012-01-18 10:20:35	159580937603121152
+There's nothing that would describe threat behind #SOPA better than this little animated gif from @theoatmeal http://t.co/yFs0s081	2012-01-18 08:49:25	159557996349894657
+On the general note, I hate when staff in phone shops fails to answer basic questions about industry they're representing. // @phones4u	2012-01-17 14:21:54	159279282005344256
+I presume post-it notes glued on the monitor screen during lunch break is equivalent of an email with 12 exclamation marks in subject line?	2012-01-16 14:31:42	158919361191624705
+After couple of months involving Nokia N9, Lumia 800, SE Xperia pro and iPhone 3GS, now @htc Desire Z feels sooo dated and clunky.	2012-01-16 09:15:49	158839865495134208
+Flashed ICS on Desire Z (Virtuous Quattro beta 9). Looking sweet!	2012-01-15 18:36:18	158618526561738753
+With Archos confirming ICS upgrade availability early Feb, I'm now thinking to get one again, but Turbo model this time. #firstworldproblems	2012-01-13 15:21:33	157844742271549440
+HTC Flyer vs. Archos 80 G9 - thoughts and impressions. http://t.co/4eOdVRL5	2012-01-12 13:57:39	157461240082481152
+Having said that, rumours about my imminent death after swallowing a dry cough syrup are mostly exaggerated.	2012-01-12 10:16:32	157405591336271873
+Hahaha, I am a illiterate twat! :D Sorry for confusion :)	2012-01-12 10:13:44	157404889968947202
+For those who don't quite believe // @wkd2639 http://t.co/lQSN1mXI	2012-01-12 10:10:01	157403949782155264
+OK, I swallowed it anyway. Awaiting the worst to happen.	2012-01-12 10:07:23	157403288839524352
+Bought a dry cough relief syrup, the label reads: "This medicine should not be swallowed". WTF?!	2012-01-12 10:01:20	157401766370091008
+Just had first experience ever with iTunes and I already have strong opinion of it: utter piece of shit. Deleted most apps without asking.	2012-01-11 17:06:56	157146485325180928
+Life suddenly becomes dull and boring once you get to visit and see Google offices for real.	2012-01-11 14:25:52	157105952301129729
+RT @holman: I wish Twitter had a view that showed all your tweets that didn't start with "@". I want to see what it'd be like to follow you.	2012-01-10 19:01:01	156812807181049857
+Sony Ericsson Xperia pro - thoughts and review http://t.co/pnce2um3	2012-01-10 10:32:20	156684795290730496
+BT Tower http://t.co/lt7QJsKl	2012-01-10 09:54:30	156675271490142209
+RT @hackernewsbot: UK Government Betrayal of Open Standards Confirmed... http://t.co/qdSIEIjo	2012-01-09 19:10:14	156452739369541632
+My another contribution to @coolsmartphone - Sony Xperia pro review. Please enjoy responsibly. http://t.co/bxjo6jZ0	2012-01-09 14:09:16	156377000192385025
+WTF is Netflix? Website looks sooo 2004 and doesn't even have basic search. Not sure what's the hype about.	2012-01-09 11:11:06	156332161476214784
+RT @djm_: "Shades of grey" http://t.co/qNnkyZto	2012-01-07 21:02:17	155756161902182400
+RT @g__j: Hey, Facebook! Nice ad targeting. How did you know I wanted STRAWS OF BULL SEMEN?! http://t.co/qAguPcqq	2012-01-06 15:59:54	155317678050000896
+RT @holman: I think programming riddles, games, and brain teasers are a great way to hire. First one to say "fuck this" and walk out get ...	2012-01-05 18:05:39	154986937118232577
+I hate being ill because it makes me out of sync with pretty much everything.	2012-01-05 17:42:29	154981104191938560
+RT @kerri9494: My son just jokingly asked me to sudo make him a sandwich. I informed him that he is certainly not listed in this house's ...	2012-01-05 09:44:21	154860777935880192
+Achievement unlocked: went out from walk-in centre with prescription for an actual antibiotic, rather than paracetamol.	2012-01-04 18:59:09	154638009235550208
+Just received this case for HTC Flyer. Couldn't ask for more at just £6.89 delivered! Really nice.  http://t.co/Q2tGjyzg // @jp_hero	2012-01-04 12:36:47	154541785396420608
+Archos 80 G9 tablet for sale, Honeycomb 3.2 (ICS soon), just 3 months old, comes with the case. £180 delivered. Pls RT https://t.co/p4n21jos	2012-01-02 12:36:15	153816875762065409
+Country park http://t.co/RYGlbdGi	2012-01-01 21:34:13	153589869770313728
+Highways Act 1980 http://t.co/wSeDkp4g	2012-01-01 21:33:05	153589584138211328
+RT @twitter: Twitter is now available in four new languages: Danish, Finnish, Norwegian and Polish.	2012-01-01 20:25:09	153572488041865217
+Let's make it official - I'm leaving my workplace now and won't be back until next year.	2011-12-30 16:22:01	152786525808103425
+Breaking: my primary SIM card has landed in an iPhone.	2011-12-30 14:04:55	152752025044647936
+Decided to keep Windows 7 on my new media centre PC just to see how bearable it is nowadays.	2011-12-30 00:48:06	152551500722356224
+...although still HTC Sense'd Honeycomb.	2011-12-29 16:30:42	152426324470923265
+HTC Flyer is now flying Honeycomb. Relief.	2011-12-29 16:30:17	152426219151958016
+RT @Oatmeal: I've been boycotting Godaddy since they started sucking, which was like 11 years ago	2011-12-29 08:37:35	152307259593072640
+HTC Flyer seems really nice hardware- and performance-wise but Gingerbread with HTC Sense on a tablet is just plain and utter shit.	2011-12-29 00:31:48	152185009783054336
+10 mins with @HTC Flyer: much smaller than anticipated and some proprietary shit instead of typical micro-USB slot for data/charging. :|	2011-12-28 23:00:06	152161932554665984
+RT @ashalynd: If the programmers like each other, they play a game called "pair programming". And if not, then the game is called "peer  ...	2011-12-28 22:45:29	152158253332168704
+Now that I have HTC Flyer WiFi I learned that official Honeycomb OTA update is just for 3G+WiFi model so far. Doh!	2011-12-28 22:44:32	152158013594144768
+RT @nacin: BREAKING: 2012 will actually be the 2011S, analyst suggests.	2011-12-28 18:29:39	152093873236213761
+Yeah, narrowly bagged the very last stock unit of HTC Flyer at Dixons nearby.	2011-12-28 17:04:23	152072415357304832
+Utter shame that I've initially ignored the HTC Flyer fire sale. It is way too late now to find stock anywhere. #firstworldproblems	2011-12-28 10:26:08	151972192865890304
+Oops, bought Acer Aspire Revo RL100 to replace the old Dell laptop acting as HTPC and home server for over a year.	2011-12-27 21:23:18	151775182711816194
+Becoming art photography expert after discovering Instagram in borrowed iPhone.	2011-12-25 19:54:04	151027952719638528
+Discovered Instagram http://t.co/kKaJ5q0F	2011-12-25 12:18:40	150913349004169216
+RT @verge: A good smartphone comes but once a year http://t.co/6XcrF2aN	2011-12-24 12:33:40	150554733881462785
+Nothing improves the festive spirit more than fat, grey clouds and pouring rain over London.	2011-12-23 15:18:38	150233863069773825
+Wow, Nexus S £199 sim-free at CPW. Seriously tempted. http://t.co/HFsvjsgQ	2011-12-23 13:30:07	150206553977397248
+WTF is that SOPA thing? Start here: "@verge: The Stop Online Piracy Act: what SOPA is, what it does, and how it works http://t.co/nOQTVV8t"	2011-12-23 09:03:15	150139393930309633
+Regarding my previous tweet regarding infographic regarding xmas shopping - I really have to proof-read before hitting that "Tweet" button.	2011-12-22 14:59:08	149866567914631168
+A spot-on infographic regarding my previous tweet regarding "a perfect christmas gift" http://t.co/Oe52Ftbe	2011-12-22 14:57:45	149866216717160448
+Crawling through womenswear shops to find "a perfect christmas gift" is probably the most depressing part of the year.	2011-12-22 13:51:35	149849568731869184
+Win a @Nokia #Lumia 800 with @coolsmartphone http://t.co/D0f2QOXC // @nokia_connects	2011-12-22 12:25:46	149827972545789953
+Lesson learned: book Tesco Groceries xmas delivery slots at least a week or so in advance. :|	2011-12-21 10:02:28	149429518820581376
+RT @ARCHOSNews: ARCHOS unveils the ARCHOS 70b internet tablet, the first Android Honeycomb tablet under 200€ http://t.co/VGJrKGJT	2011-12-20 16:35:34	149166059407147009
+RT @Nokia_Connects: Nokia Lumia 800 review: inside out - http://t.co/KynIAd55 ^PC	2011-12-20 14:56:35	149141149116932097
+Samsung's ICS upgrade strategy is disappointing, to say the least. Seems like cheap Galaxys just don't deserve it. http://t.co/Ax9mdJNR	2011-12-20 13:47:07	149123667186548737
+Writing for @coolsmartphone http://t.co/joB0EsQ0 // @jp_hero @nokia_connects	2011-12-20 09:44:32	149062620119441408
+RT @coolsmartphone: Just a few days remaining to enter our Nokia Lumia competition!!  http://t.co/a1og7IYL	2011-12-19 15:55:26	148793571238088706
+Primary SIM card into SE Xperia pro. Impressions are pretty well so far, qwerty keyboard is one of the best I've ever used, that's for sure.	2011-12-16 09:11:06	147604654577037312
+RT @g__j: Direct Line's claims handler: "It takes 3 days to receive email with attachment as it goes for filing first". Suspect telex wo ...	2011-12-15 17:38:12	147369882877571072
+RT @verge: Windows Live Messenger adopts XMPP http://t.co/E2AQ1cDS	2011-12-15 15:24:26	147336219502723072
+Here's what I think of Motorola Pro+ http://t.co/xQC5rQbR // @coolsmartphone	2011-12-15 15:03:28	147330940824326145
+Just received a brand new SE Xperia pro for a review and it turns out it has @cyanogen wallpaper set as default. WTF?! http://t.co/oAeVkWE0	2011-12-15 12:55:25	147298708978008064
+RT @tracyandmatt Im hoping to win a Sony Ericsson Arc S - Find out how you can enter too http://t.co/Vpcfltk0	2011-12-15 11:48:34	147281893694513152
+Unlock Orange Monte Carlo free http://t.co/Tjbfj3ZD #UnlockOrangeMonteCarlo // @giffgaff	2011-12-15 10:08:17	147256656944832512
+.@nokia N8's battery went flat in normal use and now doesn't react to charger or power button. Any chance to resurrect without sending away?	2011-12-15 00:58:21	147118260058456065
+Look ma, my DesireZ's back panel got a fix! Shame it took so long to convince @htc support to send that through. http://t.co/awPoycOZ	2011-12-14 12:35:48	146931388749316096
+RT @codeinthehole: First major site for django-oscar now live: http://t.co/JOMrlLP2	2011-12-14 12:11:53	146925373320466432
+RT @_gump: Congrats to the entire project team at @tangent_labs for launching Landmark India's largest bookstore online http://t.co/yGDhPR9s	2011-12-14 12:11:48	146925354819387393
+Anyone else using @TweetDeck Chrome web-app is experiencing AssertionError issue preventing sign in today?	2011-12-14 11:21:51	146912783957639168
+The first London mayor candidate who will officially ban Italian school trips from travelling on the Tube will get my vote. Or even two.	2011-12-13 18:48:15	146662734866554881
+Is it just me or @nokia #Lumia 800 has serious autofocus issues in video recording mode?	2011-12-13 09:11:36	146517615542681600
+Had brief play with AndyPad Pro last weekend and was really pleased that I've ended up with Archos 80 G9 instead. // @AndyPadUK	2011-12-12 16:41:14	146268383212609536
+RT @Oatmeal: How different age groups celebrate Christmas http://t.co/rO1MFWhM	2011-12-12 14:58:38	146242562334797824
+RT @anidel: GNOME Project suffering the NIH disease: http://t.co/nMBTwN40	2011-12-11 00:58:49	145668825671667713
+Out of the sudden http://t.co/RNbJXLJn became my favourite website on all over the interwebs thx @stevelosh	2011-12-09 17:50:27	145198637952155648
+I've heard lots of good things about @symfony php framework but their "Symfony in 5 minutes" featured page is a joke. http://t.co/1AhECuS0	2011-12-09 17:09:18	145188280776916993
+Nice to see @Tweetdeck is being developed *at all* (its Chrome plugin, that is) but some changes are retarded, to say the least.	2011-12-08 22:59:45	144914086172434432
+RT @tsctweets I'm hoping to win a HTC Sensation XE from The Smartphone Centre - Find out more: http://t.co/bypZYfcS #win	2011-12-07 17:27:35	144468107447107584
+This is epic. http://t.co/AwrusyDU (via @haerwu)	2011-12-07 16:27:30	144452986691796993
+Had really high expectations towards #Motorola Pro+ but in many ways taking my default SIM out of it is a relief.	2011-12-06 19:45:26	144140409671659520
+RT @ARCHOSNews: Ice Cream Sandwich preview on Archos G9 http://t.co/Pu9dG5IC	2011-12-06 19:14:07	144132531124572160
+I just entered Win a Paid GitHub Account for Life (worth $8,000!!)! http://t.co/idBaFbfv via @appsumo	2011-12-06 14:13:18	144056827775164416
+Protip#2: javascript lists with comma after last element (ie. [item,item,]) is a big, yet very silent no-no in IE.	2011-12-06 11:42:11	144018796527624192
+Want to get rich quick? Protip: introduce penalty fee for sending in screenshots within MS Word files.	2011-12-06 11:14:09	144011740080902144
+Lorem ipsum is so XX century. Hipster ipsum is so last summer. Time to meet cupcake ipsum. http://t.co/Gd0S2pzq	2011-12-06 10:44:38	144004312572510208
+I always knew Paypal are bunch of sick thieves enoying monopoly, but not to this point. http://t.co/3LiOjk0F	2011-12-06 08:58:07	143977508474322944
+Totally amusing and cool greeting cards from @Oatmeal http://t.co/aKZg31nb	2011-12-05 22:27:18	143818756861333505
+Look ma', my @Nokia #Lumia 800 review is up @coolsmartphone http://t.co/wQPuFuKK // @Nokia_Connects	2011-12-05 10:11:58	143633706941296642
+Discovering that indie music has nothing to do with India, thanks to @nokia mix radio.	2011-12-03 23:41:34	143112670789382144
+My thoughts on @Nokia #Lumia 800 and @windowsphone. http://t.co/GEZxe0Xa // @nokia_connects @anidel	2011-12-03 11:52:57	142934341289394176
+RT @PaulOBrien: OMG cool licence plate eh @chainsdd?!?  http://t.co/6Trd4N4m	2011-12-03 11:37:32	142930462539657216
+I keep getting Waterstones' newsletters with "Hi Greg" heading. Presumably @g__j is one to blame.	2011-12-02 11:52:23	142571813665378304
+RT @DEVOPS_BORAT: For get job in ours startup is not enough sufficient of be rockstar. We are only hire Lady Gaga devops.	2011-12-02 08:28:52	142520596515921920
+Is it just me or Google's 8.8.8.8 DNS server is down?	2011-11-29 12:57:15	141500971015602176
+Is there a js library of some sort that does in-line commenting like this? http://t.co/CYl05B5o	2011-11-29 10:38:02	141465939270049793
+RT @DEVOPS_BORAT: Single point of failure in private cloud is of usually Unix guy with neckbeard.	2011-11-29 08:49:10	141438540218241024
+Unscientific set of tests I carried out recently proved that Motorola Pro+ does slightly better photos than Nokia Lumia 800. Weird, eh?	2011-11-28 15:58:41	141184241907142656
+My IQ level fails to comprehend why on Earth a recruiter would offer me a Perl Developer position via LinkedIn.	2011-11-28 15:16:27	141173614685855747
+I'd rather say: "you might still kill someone". http://t.co/0vQShrL2	2011-11-28 13:02:19	141139861821333504
+First impressions of Moto Pro+ are quite positive, however as @tracyandmatt pointed out in their review - hw keyboard is a bit stiff.	2011-11-25 13:54:52	140065921355091969
+Looks who's in da hauzzz - thanks to fantastic service at @handtec! // @coolsmartphone http://t.co/uvytL6x1	2011-11-25 11:38:44	140031661176922112
+RT @trochej: "I don't change my password. I just SHA it. I only have to remember the initial password and number of times it went throug ...	2011-11-24 10:44:03	139655511028137984
+RT @DEVOPS_BORAT: In Kazakhstan we are pepperspray router only if it drop packet.	2011-11-24 09:06:11	139630884381917184
+Dirty workaround for missing USB mass storage mode in @windowsphone & Linux hosts.  http://t.co/wdm5upkH	2011-11-23 21:41:41	139458624211791873
+We all love Windows, don't we?  http://t.co/zHuHILVD	2011-11-23 20:52:16	139446189329358851
+Another bug/feature/WTF situation in @windowsphone - how do I manually configure MMS settings??!	2011-11-23 20:09:51	139435510773972992
+Is lack of Bluetooth status icon in the notification bar a bug in #Lumia800 or a feature of @windowsphone?	2011-11-23 19:18:09	139422500248502272
+RT @Kling73: 100% humor! http://t.co/KcRvx3x5	2011-11-23 12:46:58	139324056251019265
+ZOMG, today's Google Doodle is fucking brilliant!!!!11!!1!!!111!!!	2011-11-23 10:21:06	139287346930651136
+When I grow up, I'll buy myself an @ASUS #TransformerPrime	2011-11-22 17:30:29	139033020735823872
+Having said that, I'm going back to @tweetdeck which obviously sucks too, just a bit nicer than @seesmic.	2011-11-22 14:45:09	138991413177233409
+After using @seesmic for couple of days my stance is that *every single* Twitter client out there sucks. Each differently, yet still sucks.	2011-11-22 14:42:56	138990855087329280
+Disclaimer to my previous tweet: I'm not sure but assuming that #chansefail &gt;&gt; #fail. // @rcadden	2011-11-21 23:29:30	138760982343331840
+Seems like there's no freakin' way of swapping data with #Lumia800 over USB if you're not using Windows/Zune. #chansefail	2011-11-21 23:23:40	138759512487239681
+Installing Zune software in Win7: download 100MB installer, then installer downloads "updates" and finally Windows must be restarted. Lovely	2011-11-21 22:46:16	138750099265298432
+Hang on... @nokia #Lumia800 doesn't work as USB mass storage device? WTF?!?	2011-11-21 17:45:42	138674460445253632
+I tend to tap #Lumia800's screen twice to resume from standby. Wondering where that habit came from...	2011-11-21 16:52:48	138661147485278211
+First impressions of @nokia #Lumia 800 and WP7 are really positive! Looking forward to discover its hidden gems further. // @Nokia_Connects	2011-11-21 14:19:23	138622537876770816
+Added @scanditwitchen to the "Work From Cafe" project as a friendly place to work in with a laptop.  http://t.co/SNbryp6g // @kaaes	2011-11-21 10:58:47	138572054709551104
+Regretfully cleared and packaged up my #N9 trial unit to return to @Nokia_Connects. Wondering if #Lumia800 is going to impress me as much.	2011-11-20 12:49:47	138237604872204289
+This splendid photo accidentally revealed that @Nokia #N9 camera is able to shoot nice depth of field stills. http://t.co/MatMvSNT	2011-11-20 12:08:23	138227181171122176
+Another hidden gem of @Nokia #N9: while typing text, swipe keyboard from the edge of screen to swap input method or input language.	2011-11-20 09:37:05	138189106277654528
+.@tangent_labs task force team of @mmoravcik @igniteflow and @rhapsody88 cracking in @scanditwitchen for a change. http://t.co/Xr6VvqzS	2011-11-18 12:43:02	137511130481430528
+.@Nokia #N9 review on @coolsmartphone. I guess it's becoming a habit to me. ;) http://t.co/F8xTGmqv	2011-11-18 12:03:22	137501144804106240
+Achievement unlocked: NHS hospital appointment started just 5 minutes late and we've got out within 1 hour. Time to play lottery, methinks.	2011-11-17 16:09:50	137200783631466496
+RT @grapefrugten: Pro tip # 1 to speed up meetings: Forbid sitting down.
+
+Pro tip # 2: Hold meetings in burning buildings with tigers an ...	2011-11-17 16:04:40	137199482201845760
+My humble take on Nokia #N9, the "disruptive" device. http://t.co/ztx3mUa6 // @nokia_connects @nokia	2011-11-17 09:52:53	137105920122552320
+...guess that's just @nokia making sure #N9 won't become accidentally successful (also limited availability and virtually no marketing).	2011-11-16 16:41:24	136846337730809856
+#Lumia 800 is bearing an OS that require royalty fees, yet costs significantly less than same-hardware #N9 having free, open-source OS...	2011-11-16 16:40:11	136846032834281472
+An hour wasted to reach conclusion that nested switch { case ... } blocks in php are evil.	2011-11-15 12:12:47	136416351853092864
+RT @codeinthehole: Patterns of toddler discipline include: Redirection, RemovalOfPrivilege, TimeOut, Ignore, IfThenWarning, NaturalConse ...	2011-11-15 09:34:42	136376570406379520
+My personal @Nokia #N9 review is near complete - exceptionally positive all the way through, yet with bitter conclusion. // @nokia_connects	2011-11-15 00:16:24	136236069921357824
+Going off sleep with strong expectation that my Desire Z will start flashing available update to CM8/ICS in the morning, right @cyanogen? ;)	2011-11-15 00:13:32	136235344977870848
+RT @kate_bowman: "Masturbation in the library toilets is a violation of...University regulations" - hilarious! http://t.co/R8T5VbQk	2011-11-13 23:14:50	135858188410040320
+I am 36% addicted to Twitter http://t.co/ilw0pAxE from the enchanting @oatmeal	2011-11-11 21:21:03	135104775879528448
+RT @yieldthought: How to switch to an iPad+Linode combination: http://t.co/bDWtigAn	2011-11-11 12:41:54	134974127235792896
+My Desire Z has pretty common "peeling rear panel" defect and @htc CS is asking to send it to repair centre to "diagnose" a problem. Joke.	2011-11-11 11:21:53	134953990499745792
+Turns out I am a brazen whore when it comes to social competitions (aka profile suckers) where I could win another shiny gadget. Sad.	2011-11-10 11:35:40	134595071168360448
+Looks like someone made a debut among @coolsmartphone writers :-) http://t.co/waRWE3cS	2011-11-10 08:45:33	134552259601248256
+RT @codeinthehole: Me: someone tried to talk to me on the tube. Wife: were they foreign?	2011-11-09 20:10:30	134362248125759488
+Got an email from recruiter looking for a developer working in "PHP or similar". Oh, he mentioned £500 referral fee too. So typical.	2011-11-09 10:32:39	134216824920350720
+RT @igniteflow: The best Git cheatsheet I've seen so far http://t.co/7xhIzdfO	2011-11-08 13:08:29	133893655030280192
+Blackberry support coming to @giffgaff for just £3pm from 24th Nov. Nice one. http://t.co/j6O7PwRy	2011-11-08 10:04:59	133847473931288576
+RT @holman: Recruiters are funny creatures. On the one hand, they're really annoying, on the other hand, uh….
+
+Anyway, read this: http:/ ...	2011-11-07 19:57:38	133634231854309377
+RT @xilo: There are major UK-internet issues currently due to problems with Level3. This will be affecting many providers alike.	2011-11-07 15:27:45	133566312323620864
+Pretty cool and unusual recruitment ad from @Truphone. http://t.co/o9M4mXVD	2011-11-07 11:09:15	133501261340360705
+Looking for a budget Honeycomb tablet? Read on my Archos 80 G9 review. http://t.co/RxPK6tpd	2011-11-07 10:13:22	133487196534620160
+Nokia #N9's display is easily the most amazing I've seen to date. Can't stop looking at it.	2011-11-05 15:16:10	132838622872354817
+RT @hann0: function to get tomorrow's date:
+
+
+sub tomorrow_date
+{
+ sleep 86400;
+ return localtime();
+}	2011-11-04 21:02:04	132563286007873536
+While using #N9 on one hand I can't understand why @nokia dumped it, but on the other hand I can.	2011-11-04 19:32:16	132540683729895426
+New kid on the block, thx to @Nokia_Connects. Already regret it's just a trial! #N9 http://t.co/TbEVcVov	2011-11-04 15:09:35	132474579833720832
+RT @edskoudis: Microblogs are passé. I want to build new nano-blog site where u can only post 1 bit, 0 or 1, about what's happening. Gon ...	2011-11-03 19:52:43	132183443529400320
+Fascinating and inspiring story from @yieldthought about full-time coding solely on iPad+Linode cloud. http://t.co/UWk6XsOX	2011-11-02 17:30:22	131785233908510720
+Switched to the new @gmail look -- really happy to see more and more visual consistency across all Google services.	2011-11-01 22:14:46	131494416673284096
+Cook up your own GitHub on your own server. Nice, but 5 grand for 20 users, WTF?! http://t.co/RGDUCerL	2011-11-01 19:03:08	131446190595252224
+RT @ThePoke: 37 marvellous street posters | The Poke: http://t.co/G7WBWgW5	2011-11-01 14:09:08	131372203169169408
+RT @g__j: Worth reading: Bill vs Steve http://t.co/O5pkId3p (spoiler: Steve made good products, but Bill's a good guy. And Bill made Ste ...	2011-11-01 10:25:34	131315941228290048
+Hmm, internet in general seems to be a bit slow this morning. I blame @verge launch for that.	2011-11-01 09:54:04	131308014585118720
+New @googlereader UI is exactly like I expected it to be. Nice, clean and finally in line with other Google products. Well done.	2011-11-01 09:51:28	131307357539012608
+Unbelievable. Just came to work this morning and there was *not* *a* *single* unread email in my inbox.	2011-11-01 09:39:56	131304457274273792
+Haven't seen @googlereader's new UI yet, but I'm already surprised that people on Twitter are surprised about it.	2011-11-01 08:41:11	131289670435880960
+RT @ThePoke: Calling all Dads. You need this &gt; http://t.co/oRIXj0CT	2011-10-30 20:35:16	130744599307235329
+Does @Nokia N8 with Symbian Anna update has standard onscreen phone pad or qwerty keypad *only*? // @mikemacias	2011-10-29 22:22:48	130409274097680385
+I want to win a Xperia Ray with @paulobrien's MoDaCo and Sony Ericsson! How about you? http://t.co/Gpm4Rs14	2011-10-27 11:18:16	129517264708968448
+RT @anidel: I would've been happier if Nokia didn't release the N9(50) at all. I wouldn't have known what goodness they had killed. #n95 ...	2011-10-27 10:45:42	129509068489494528
+RT @djm_ TIL: in WW2 a bomb landed in the Thames and blew a hole through to part of the Northern Line, flooding it. http://t.co/7TIDo8IP	2011-10-26 22:59:53	129331444953784320
+RT @jaffa2: #NokiaLumia800 has many same innovations as #N9: h/w, online radio, Drive. Looking fwd to demo of real multitasking. Oops, n ...	2011-10-26 09:05:28	129121455920250880
+RT @jaffa2: Wasn't part of the deal some opportunity for brilliant #Nokia innovations? Where are they? Looks like plain #WindowsPhone #N ...	2011-10-26 09:01:35	129120476248293376
+Has @selop announced availability dates already? You know, whether they will hit xmas 2012 deadline. #NokiaWorld	2011-10-26 09:00:49	129120285474557952
+RT @zehjotkah: RT @Nokia It came to our attention that some companies try to sell fake Nokia phones. Refer to this guide: http://t.co/9Q ...	2011-10-26 08:59:39	129119993240621056
+RT @stevelosh: I love how we can hotpatch a running Linux kernel but I still have to restart Firefox to enable/disable extensions.	2011-10-25 18:13:36	128897009825488896
+Got some hands-on with #Nokia N9 thx to @anidel and oh my, this little toy is freakin' amazing and the screen is jaw-dropping! #NokiaWorld	2011-10-25 18:04:44	128894776312475648
+So, who's going to #NokiaWorld pre-event party at London IMAX tonight? @anidel @hopbeat @texrat, perhaps?	2011-10-25 09:02:06	128758218787786752
+RT @archiloque: “Arguing with an engineer is like wrestling with a pig in mud. After a while, you realise the pig is enjoying it.” — Jam ...	2011-10-25 08:28:25	128749744150421504
+The mildest word to describe @O2 online support people trying to "help" me with reported network problems at home is "muppets".	2011-10-24 12:19:28	128445501921181696
+The core issue with open source project bugtrackers, in general, is complete ignorance of their maintainers. /cc @cyanogen	2011-10-21 10:54:17	127336900943032320
+RT @djm_: HMS Belfast is doing a 7 minute 40-gun salute at 1pm today. Expect the inevitable "we're being bombed" tweets. http://t.co/xJo ...	2011-10-21 10:52:03	127336336209362944
+2001 Ford Focus hitting a wall at 120mph. Impressive, yet it would make more sense to crash two cars rather than a wall http://t.co/VUyZ5UnE	2011-10-21 09:10:43	127310837558943744
+RT @codeinthehole: In an e-commerce application, logging can never be too verbose.	2011-10-19 16:03:15	126689878082732032
+My opinion might be biased, but I reckon 8 inch screen is perfect size for a tablet.	2011-10-18 08:35:47	126214882755485696
+First impressions of Archos 80 G9 are better than anticipated. Yes, it is plastic but fairly fantastic.	2011-10-17 21:15:56	126043791013593088
+Unboxing Archos 80 G9 as we speak. http://t.co/s9NeQFLD	2011-10-17 18:53:55	126008053127593984
+How nice of @O2 that they still don't give a s*it about customers who struggle to place simple voice calls on their network. Well done guys.	2011-10-17 07:57:26	125842844790431745
+In the process of testing out RAC breakdown recovery service. Pretty smooth so far.	2011-10-16 07:47:44	125478012274749441
+Out of Ryanair, Wizzair and BMI airlines we've used so far, @flybmi (aka "expensive" airline) turned out to provide the worst experience.	2011-10-15 12:53:20	125192533079900162
+Home sweet "home"...	2011-10-14 17:21:49	124897709781041152
+Codility seems to be interesting tool helping with programmer recruitment process. http://t.co/suqV536G cc @codeinthehole	2011-10-12 12:58:36	124106695101263872
+RT @tangent_labs: We've just launched Google eBooks integration for @hivestores - we are the first in the UK to do it!	2011-10-06 20:15:09	122042228175683584
+The amount of noise flooding Twitter about the "new" iPhone is really fucking annoying.	2011-10-04 21:22:44	121334460649189378
+Life is sooo much better after adding ServerAliveCountMax 3 ServerAliveInterval 10 to my ~/.ssh/config.	2011-10-04 15:49:39	121250636967837696
+So utterly annoyed that nobody @O2 really care about crappy quality of their network! cc @giffgaff	2011-09-30 15:30:12	119796192539447297
+RT @DEVOPS_BORAT: If you refuse of use Apple product you are automatic hipster.	2011-09-30 08:02:51	119683613758464001
+New Kindle Fire seems to be really super great and all but without EU/UK availability it's just a piece of virtual, plastic crap.	2011-09-28 17:45:57	119105579854733312
+RT @PaulOBrien: What i'd really like to see for Kindle is a way to lend books to people, and library support for the UK.	2011-09-28 14:51:12	119061599838420992
+Just got ripped off £39.99 by @JDsportsfashion - everyone, please don't buy there anything, EVER.	2011-09-28 12:30:17	119026136599642112
+I wish there was a plugin/labs feature for @gmail which would recognize Markdown/RST input and formatted emails accordingly.	2011-09-28 09:22:45	118978943113105408
+RT @btp_uk: We're looking for this man, who pushed a 23yo woman onto the tracks at Leicester Square station. Please RT: http://ow.ly/6zeK3	2011-09-27 09:16:49	118615064436686849
+"Does what is says" found in method docblock is a clear winner for me today.	2011-09-26 16:23:04	118359943479967744
+RT @hinge832: For me, this is still the greatest typo ever  http://t.co/ceZ610Ah	2011-09-24 19:11:23	117677528814067713
+RT @morekasia: Foreign lens on our streeets? OH NOES. A Pole took some photos of drunk Welsh people, Daily Mail Reports: http://t.co/1jH ...	2011-09-22 13:24:18	116865406727237632
+Horray, NHS appointment only 40 minutes late, that's improvement by 33% over the previous one.	2011-09-22 12:05:47	116845646442528768
+T-Mobile to become 'value' and Orange 'premium' brand in the UK. Yes, Orange premium, not a joke. http://t.co/PwGabLr1	2011-09-22 11:18:04	116833637365850112
+RT @JacoPretorius: Take a look at this on Google StreetView... http://t.co/FJplKI1x  And take ONE step forward	2011-09-20 13:36:01	116143576865447936
+...and because it's @google, there's no freakin' way of reporting the issue to an actual human being. @googlechrome	2011-09-19 21:31:51	115900935674404864
+OK, seems like the latest release of @googlechrome is seriously fucked up with gnome-keyring-manager and (not) storing/syncing passwords. :/	2011-09-19 21:30:46	115900666085507072
+RT @xilo: We're looking for a designer to work with on some new projects. Ideally skilled in X/HTML5 CSS JS Ajax. DM us for more info. R ...	2011-09-19 20:53:36	115891311646740480
+Started using @TrelloApp for my personal project and trialling for work project too. Looks pretty good so far!	2011-09-19 09:36:04	115720805916217344
+RT @igniteflow: Redhat 5.1 had Redneck as a language option, that is genius, tempted to install it for jokes http://t.co/2VyeRn30	2011-09-17 23:04:30	115199477253550080
+Falling in love in the way @TrelloApp scales down when I narrow down browser's viewport width.	2011-09-16 10:03:42	114640594625765376
+Wondering if there is a concept of borrowing eBooks, ie. with Kindle? I mean legally.	2011-09-16 08:38:31	114619156745293824
+Really sorry to hear about @lcuk - didn't know him in person but found him a really nice chap at N900 pre-launch event back in 2009. RIP	2011-09-14 19:11:12	114053601076326401
+I reckon manually resolving conflicts in over 30 source files will teach me how to git branch and merge properly next time...	2011-09-14 16:10:47	114008200939974656
+HTML form usability masterpiece. http://j.mp/pnEJ9I	2011-09-14 16:01:48	114005939576766464
+I wonder how much of UK's GDP is actually wasted due to people's NHS appointements running late.	2011-09-13 15:55:28	113641955153555456
+RT @jackarmley: If Chuck Norris wrote CSS, he'd make nth-child work in IE5.5	2011-09-12 14:13:10	113253824667459584
+Oh, 9/11 today, which marks 5th anniversary of my work for @tangent_labs. Time flies...	2011-09-11 12:23:59	112863959916355584
+According to @JDsportsfashion, this is perfectly normal wear & tear, after just 4 months of use. http://t.co/xVQXEgu	2011-09-11 11:18:49	112847560263204866
+RT @rufo: Best description of Javascript history ever. http://t.co/qKrVR5L	2011-09-10 22:44:02	112657612125900801
+Linux laptop users interested in saving few Watts while running on battery might be interested to use this script. http://j.mp/oOMMXi	2011-09-10 12:40:40	112505771908014081
+RT @verge: The truth about sending files http://t.co/KkqhYqo	2011-09-09 13:00:51	112148460299489281
+RT @saismo: CSS humor: .titanic { float: none; }	2011-09-08 11:41:06	111766004966752256
+Sometimes I feel like just manually adding db column here and there rather than hopelessly wrestling with borked south migrations.	2011-09-07 15:59:42	111468693489332225
+RT @ewqaewqa: Breaking news: Samsung after losing one of its mobile phones in a bar is now being sued by Apple for "lost phone in a bar" ...	2011-09-07 15:32:08	111461755913375744
+In all that python/django goodness, suddenly I discover there's no such thing like date.tomorrow()	2011-09-07 15:11:51	111456653253160961
+RT @UKMobileReview: Breaking News: Vodafone to change call charges from 11th October 2011 - http://ukmr.co/bD	2011-09-07 14:54:55	111452389642477568
+RT @coolsmartphone: The beginning of the end of T-Mobile?: Everything Everywhere, the company formed by the… http://t.co/f2As0op	2011-09-07 14:41:30	111449015580753920
+Really impressed with django-tastypie. Creating basic yet useful RESTful API for relational db schema is now a classic five minute job.	2011-09-02 23:42:23	109773192075280384
+RT @morekasia: After 25 years of owning a computer machine and coding for 14 years, I am still terrified every time I have to use a prin ...	2011-09-02 12:04:35	109597586888982528
+#Protip: use ctrl+shift+v in @gmail to paste as plain text. And I was resorting to gedit for plain text copy/pasting for ages, silly me.	2011-09-02 11:41:45	109591840617017344
+RT @stevelosh: I'd have a lot less {% if %} blocks in my templates if Django templates displayed "" when an object is None instead of "N ...	2011-09-01 18:20:06	109329701385932800
+This is why I think of @giffgaff as the most "open source" network out there - community discussion on rising prices. http://t.co/y5jduLw	2011-08-31 10:10:02	108843984721424385
+Currently falling in love with @grooveshark, Polish hits from the '80s are queued up in playlist as we speak. (thx @codeinthehole)	2011-08-30 15:14:59	108558339859955713
+I wish @github had more flexible plans. I'd rather like 1 private repo and 2-3 collaborators for $7pm, not the other way around.	2011-08-26 16:15:28	107124007278616577
+Target for today: get friends with Eclipse 3.7 Indigo + PDT 3.0 + PyDev 2.2.2	2011-08-26 10:10:00	107032034911862784
+Few good reasons why I switched to @giffgaff after being ~5 years with @TMobileUKhelp http://t.co/bWrJMOd	2011-08-26 09:35:49	107023433803632640
+RT @ThreeUK: Don't forget to RT & Follow for your chance to win a @SonyEricsson Xperia arc #ThreeRTComp ow.ly/6alNH	2011-08-26 09:32:35	107022620742004736
+You'd have thought a TV remote control washed in 60C dishwasher cycle will be toasted, but it works as ever. Perks of living with 1-year-old	2011-08-26 07:07:00	106985980447293441
+Seems like most UK-based online retailers decided to pull HP #Touchpad out of their websites rather than throw a large discount. Unlucky me.	2011-08-23 16:57:03	106047309808275456
+Apparently all #Touchpad stock has been sold out in PCWorld @ Tottenham Ct Rd last night. No luck then. Doh.	2011-08-23 09:43:36	105938226891587584
+RT @djm_: Not many know about Project Redsand: http://t.co/bsg5mu2 http://t.co/LxGcm4i	2011-08-22 23:06:56	105778006563373057
+Reviews say HP #Touchpad isn't perfect, but hey - at £89 it's zillion miles better than *any* similarly priced Android tablet out there.	2011-08-22 22:31:58	105769204153729025
+Ok, is HP Touchpad hackable in any way, so I could put Android or whatever on it???	2011-08-22 19:07:48	105717825003454465
+RT @morekasia: PC World advertises HP Touch Pad for "only" £399. RLY? Have you read the news recently PC World?	2011-08-22 11:46:53	105606865890709504
+RT @jackarmley: Our team, hard at work. It's 80% Django, 20% HTML5/CSS3 #tangentlabs http://t.co/fc8L61d	2011-08-20 17:02:47	104961588653600769
+Having said that, 256kbps and 200MB transfer limit is definitely not a standard. Unfortunately, all 3G networks suck here too. #tangentlabs	2011-08-19 17:41:26	104608929346097152
+Shame that 4* hotels still don't understand that a *decent* wireless access should be a standard nowadays. #tangentlabs	2011-08-19 17:37:01	104607817314467840
+At Tangent Labs Dev Weekend. Hopefully symfony/django/android/ios development mixes well with beer. :) #tangentlabs	2011-08-19 17:28:05	104605569859584001
+Kudos to @LogitechUK support for solving my unifying receiver issue. No silly questions asked over phone and quick turnaround of new unit.	2011-08-19 09:21:05	104483010983903232
+OF COURSE there are severe delays on the Tube on the day I intentionally left office early to get home earlier than usual. I HATE YOU TFL!	2011-08-18 17:20:48	104241346788851712
+Help needed with signing and installing certain apk on my CM7.1.0. @paulobrien perhaps? :] @xdadevelopers Thread: http://t.co/T7qerkz	2011-08-18 12:50:35	104173342797463552
+When I click 'Unsubscribe' in unwanted newsletter email I *just* want to be unsubscribed, not taken to 'My Account' page or sth. @mymemonic	2011-08-18 08:46:44	104111976120201216
+RT @amyeph: Android overtakes iPhone in Aus smartphone wars: http://t.co/IlKJ4ok	2011-08-18 07:51:53	104098175345893377
+Ok, is HP Touchpad hackable in any way, so I could put Android or whatever on it???	2011-08-22 19:07:48	105717825003454465
+RT @morekasia: PC World advertises HP Touch Pad for "only" £399. RLY? Have you read the news recently PC World?	2011-08-22 11:46:53	105606865890709504
+RT @jackarmley: Our team, hard at work. It's 80% Django, 20% HTML5/CSS3 #tangentlabs http://t.co/fc8L61d	2011-08-20 17:02:47	104961588653600769
+Having said that, 256kbps and 200MB transfer limit is definitely not a standard. Unfortunately, all 3G networks suck here too. #tangentlabs	2011-08-19 17:41:26	104608929346097152
+Shame that 4* hotels still don't understand that a *decent* wireless access should be a standard nowadays. #tangentlabs	2011-08-19 17:37:01	104607817314467840
+At Tangent Labs Dev Weekend. Hopefully symfony/django/android/ios development mixes well with beer. :) #tangentlabs	2011-08-19 17:28:05	104605569859584001
+Kudos to @LogitechUK support for solving my unifying receiver issue. No silly questions asked over phone and quick turnaround of new unit.	2011-08-19 09:21:05	104483010983903232
+OF COURSE there are severe delays on the Tube on the day I intentionally left office early to get home earlier than usual. I HATE YOU TFL!	2011-08-18 17:20:48	104241346788851712
+Help needed with signing and installing certain apk on my CM7.1.0. @paulobrien perhaps? :] @xdadevelopers Thread: http://t.co/T7qerkz	2011-08-18 12:50:35	104173342797463552
+When I click 'Unsubscribe' in unwanted newsletter email I *just* want to be unsubscribed, not taken to 'My Account' page or sth. @mymemonic	2011-08-18 08:46:44	104111976120201216
+RT @amyeph: Android overtakes iPhone in Aus smartphone wars: http://t.co/IlKJ4ok	2011-08-18 07:51:53	104098175345893377
+RT @benbarden: Guess the web browser http://t.co/gCYMHuK	2011-08-17 22:38:56	103959019735097344
+"Allowing for a more flexible work schedule, you create an atmosphere where employees can be excited about their work" http://t.co/2DPUCK8	2011-08-16 21:32:37	103579943925071872
+Regent Street right now with lots of police and explosive search dogs. http://t.co/5v7jirR	2011-08-16 17:26:06	103517907065118720
+Northern stretch of Regent Street next to BBC cordoned off by the police, explosive search dogs just arrived at the scene.	2011-08-16 17:24:14	103517437026250754
+RT @TheExtraMan: If Tetris has taught me anything, it's that errors pile up and accomplishments disappear.	2011-08-16 13:49:58	103463512604557312
+A five day journey through #ukriots by @paullewis / guardian.co.uk http://t.co/Mt5IhaS	2011-08-16 08:46:54	103387243938455552
+Google snatches Moto? Phew! Samsung snatches @cyanogen at that's what matters! http://t.co/ESZp73X	2011-08-16 07:40:41	103370580539080704
+RT @stevelosh: Protip: if you're still going to have a "Valid XHTML" link in your footer in 2011, at LEAST make sure the site validates.	2011-08-15 18:18:25	103168681370062848
+RT @PaulOBrien: I don't understand why Google bought Moto when they could have spent that money on a headphone company? :-P	2011-08-15 12:14:08	103077008975732736
+RT @zacharye: A fascinating look at false confessions. http://j.mp/qk3wgm	2011-08-15 07:52:42	103011217949458432
+RT @djm_: Woolwich didn't really get much media coverage during the riots, this video does well to capture the fear/atmosphere: http://t ...	2011-08-14 19:53:02	102830105365196800
+The moral decay of our society is as bad at the top as the bottom - an absolute eye opener and must read. #ukriots http://t.co/2GXXeHS	2011-08-12 18:37:51	102086409950724096
+Still remember times when I could impress women when my PC had 128MB of RAM. Now I have 4GB and it seems not enough for daily tasks...	2011-08-12 16:56:14	102060838009053185
+Let's make it clear: @O2 / @giffgaff mobile data quality is absolute shit this evening.	2011-08-11 17:49:15	101711793319190528
+Logitech website forces registering online account just to send a simple support email about my defective gear. Brilliant. @LogitechUK	2011-08-11 09:06:53	101580331852890112
+Seems like @tweetdeck will become my TwitBook weapon of choice, despite few nuances here and there.	2011-08-11 07:58:12	101563049399435264
+More police &gt; less riots &gt; rioters a bunch of mindless cowards not fighting the "system" just looting freebies and wrecking towns. #ukriots	2011-08-11 07:39:17	101558289778741248
+RT @codeinthehole: http://t.co/BuOj8cx	2011-08-10 15:05:23	101308163789299712
+RT @anonymous_bloke: Further to a previous #Feltham Young Offenders post. There are many police/ambulances/riot vans and other strange l ...	2011-08-09 21:52:13	101048158452318208
+Another "secret" van on siren with no markings whatsoever passed through Bedfont Rd / Lakes towards #Feltham young offenders.	2011-08-09 21:13:46	101038484407586816
+Really weird vans on sirens rushing towards #feltham young offenders. Like police vans but with no police markings. Weird.	2011-08-09 21:12:28	101038157138632704
+Thankfully, seems like extraordinary police reinforcements in London have noticeable effect as much less #londonriots are occurring tonight.	2011-08-09 20:51:43	101032933275602944
+Another couple of cars on sirens rushed through Bedfont Lakes towards #Feltham (young offenders?). Something's going on. @FelthamWest	2011-08-09 20:49:17	101032323541237760
+Another police car rushed towards #Feltham. Maybe something going on in young offenders, half mile away? Guessing, really. #londonriots	2011-08-09 19:57:35	101019311484846080
+Two police cars, ambulance and fire engine just rushed through Bedfont Road towards #Feltham. Hopefully not #londonriots @FelthamWest	2011-08-09 19:49:50	101017362240782336
+Installed @tweetdeck Chrome webapp. Seems nice but is there a way of changing that semi-readable dark theme?	2011-08-09 15:53:25	100957864239181824
+RT @vladsavov: Me sad. People obsessing about superficial damage and cleanup of riots, ignoring underlying causes of economic and educat ...	2011-08-09 13:47:54	100926279699804160
+(cont'd) Years of fighting own citizens back in communist era is now essential experience required to bring London in order. #londonriots	2011-08-09 10:30:56	100876711066992640
+I reckon Polish riot police should step in. Proper batons, tear gas and rubber bullets would be all over the place immediately. #londonriots	2011-08-09 10:28:51	100876183884926976
+Thx to @djm_ for setting up useful http://t.co/rq2Byo6 list and @thewestlondoner for keeping up with updates 'till so late. #londonriots	2011-08-09 06:51:01	100821366223286272
+RT @rickin_majithia: Friends in West Ealing told me they saw younger looters being beaten & mugged by older ones. Like a food chain of c ...	2011-08-09 06:40:37	100818748193251328
+Seeing events in London tonight I can only be sure that tomorrow's going to be even worse, unless some serious force kicks in. #londonriots	2011-08-08 23:53:58	100716411676139520
+"Low police presence" seems to be quite consistent bottom line coming from various BBC reporters. Disgrace. #londonriots	2011-08-08 23:21:42	100708292245983232
+RT @MarcinChirowski: .. army should step in today, police just lost the plot in #londonriots	2011-08-08 23:07:23	100704687229120513
+BBC just reported Ealing is smashed and shopping centre is on fire. It's spreading towards West. Not good. #londonriots	2011-08-08 22:40:44	100697983183618048
+#Feltham Young Offenders Inst. is like less than a mile from my place. If that breaks down, we might be in trouble. Scary shit. #londonriots	2011-08-08 21:43:46	100683645798457344
+Got confirmed report that both Tescos and ASDA (all 24/7) in #Feltham are closing down. Streets are calm tough #londonriots @thewestlondoner	2011-08-08 21:42:25	100683307225858048
+RT @djm_: You can basically put your postcode in here and see how likely it is you'll see some riots tonight. http://t.co/NcUycsL	2011-08-08 21:40:41	100682869772525568
+RT @g__j: Cameron needs to come back because big decisions need to be made. Leadership needs to be from the front and decisive. #londonriots	2011-08-08 20:47:31	100669490190221314
+RT @Lord_Sugar: Boris Johnson coming back from holiday. That's it all sorted then!	2011-08-08 20:47:24	100669459118829568
+Watching BBC live footage of whole block of flats/shops on fire in Croydon is depressing. This is genuienly sick. #londonriots	2011-08-08 20:20:50	100662777131184131
+I'd understand if that was a sort of "protest" but these wankers are just making damage to innocent people and local business. #londonriots	2011-08-08 19:31:26	100650344912125952
+Someone mentioned using water cannon by the police. I'd rather go for 30mm machine guns, tanks and air strike. #londonriots	2011-08-08 19:30:08	100650017148248064
+I guess don't understand sth but I see police in TV just standing there and doing nothing, watching looters doing damage. WTF? #londonriots	2011-08-08 19:23:52	100648439523708928
+In other words - my Tube seat has been looted by Italian youths!	2011-08-08 17:33:13	100620591568138240
+I tend to hate Italian school trips flooding peak Tube trains in large groups more than #londonriots looters right now. Fucking cheeky.	2011-08-08 17:29:23	100619628727894016
+Oxford Circus clear of rent-a-mob as far as I can tell. #londonriots http://t.co/8PZfzvr	2011-08-08 17:05:36	100613644575969280
+In all that #londonriots drama, nice to see twitterverse keeping up with sense of humour. @SkytowerUK	2011-08-08 16:55:54	100611200219480065
+RT @SkytowerUK: BBC helicopter still not back on air. Maybe it's been looted too... #hackney	2011-08-08 16:54:34	100610866302562306
+RT @BBCNews: Youths attacking police cars with rocks during stand off in Hackney LATEST LIVE  http://bbc.in/bj4ulU	2011-08-08 15:58:03	100596641790296064
+More #londonriots tonight? Good source of up-to-date news on this at http://t.co/wRVkvma	2011-08-08 15:03:49	100582996893106176
+RT @mslulurose: The Youth of the Middle East rise up for basic freedoms.The Youth of London rise up for a HD ready 42" Plasma TV #london ...	2011-08-08 14:52:04	100580040231755776
+RT @djm_: If the DM spent more than 5 seconds researching anything they'd realise it was BBM fuelling the riot comms, not Twitter. http: ...	2011-08-08 13:02:28	100552456311812097
+Even more riots across London last night. WTF?! All these looters deserve is immediate headshot, really. No questions asked.	2011-08-08 08:05:06	100477622110273536
+My Nokia #X7 review - yes, it is quite harsh this time. http://bit.ly/q8tGMh @nokia @womworldnokia	2011-08-07 11:57:54	100173820350046208
+Just seen #tottenham news. So police kills a crook in a chase and now more crooks are devastating the town in a "protest"? Fucking sick.	2011-08-07 08:50:39	100126698326065152
+RT @haerwu: The to @adlorenz and #giffgaff prepaid from him whole trip was nicer then previous ones. It is amazing how used to 24/7 net  ...	2011-08-06 11:29:58	99804401618784256
+RT @ZTE_UK: To #win Week 3’s ZTE Blade, tweet or retweet this message #ZTEBlade3 and follow @ZTE_UK	2011-08-05 11:14:48	99438196932345856
+RT @gmail: New in Gmail Labs: Preview messages in your inbox by enabling the Preview Pane lab: http://t.co/L1aWyEm	2011-08-04 22:27:26	99245083890688000
+Nokia C2-00 iz in da hauzzz http://t.co/V4shvL6	2011-08-04 18:50:41	99190537281740801
+Hey @giffgaff people, check out my idea to expand ways of referring new gg members. http://t.co/21hJVYd	2011-08-04 12:38:06	99096772076519424
+After couple of days featuring irritating and totally unexpected heat, UK weather started to behave again today. http://t.co/f66dJzu	2011-08-04 08:36:54	99036074843701248
+RT @g__j: The art of the 404 page reaches a new high: http://t.co/RF9TIT1  (via @probablygeorge)	2011-08-03 14:36:15	98764117887819777
+After upgrading kernel to 2.6.40 from std Fedora updates, my ddwrt-based home router crashes each time I connect my laptop with it. Sweet.	2011-08-02 20:43:34	98494168174825472
+Nokia-WP7 launch mid-August, shipments probably just in time for Xmas, or after. In-between launch of iPhone5 with imminent shipment. Again.	2011-08-02 09:45:58	98328680182460416
+#NokMsft party 17/08 aka Nokia/WP7 release? Seems like another mistake of launching device *well* ahead of its shipment. Good news for Jobs.	2011-08-02 09:44:33	98328320789319681
+Is it just me or getting faceting to behave with django, haystack and xapian is fucking mission impossible?!	2011-08-01 16:20:39	98065617365643264
+Yet Another Naming Convention Break, well done Nokia. RT "@nokia: New launch - the #Nokia #500 http://t.co/RvRsTfe"	2011-08-01 09:04:41	97955901734002688
+Finally enjoying mobile internet access from @giffgaff not limited to ridiculous 350/100 kbps speeds like @TMobileUKhelp http://t.co/y4em6AD	2011-07-28 17:40:49	96636237170999297
+My @TMobileUKhelp pay monthly numbers after ~5 years have officially landed in @giffgaff land this morning.	2011-07-28 09:51:18	96518081454673920
+RT @networkcompare: Giffgaff announce data roaming prices available from tomorrow - http://ow.ly/5OrlB	2011-07-27 13:00:57	96203419592835072
+Getting to like @gnome shell for me meant crawling through unofficial and hacky extensions to make it work the way I like. So wrong.	2011-07-25 09:09:21	95420362375958528
+There's nothing essentially wrong with @gnome shell itself. It's ignorance of its developers what is really flawed. http://t.co/fQvf6qw	2011-07-25 09:06:48	95419719703732224
+RT @ThreeUK: Morning, Sedge here today. You've got till 12 to enter our #ThreeRTcomp to win 1 of 5 #Samsung Galaxy Pros. RT & Follow to  ...	2011-07-25 08:10:07	95405454183776256
+PAC codes for all my numbers from @TMobileUKhelp taken. Mass switch to @giffgaff is now imminent. http://t.co/4OtcPZo	2011-07-24 11:19:03	95090610960203776
+Sample videos taken with Nokia X7. http://t.co/0ngaKEA http://t.co/MOWevTm @nokia @WOMWorldNokia	2011-07-24 10:13:47	95074186350956544
+Nokia X7 in pictures including sample shots taken with its 8mpix EDoF camera. @nokia @womworldnokia http://flic.kr/s/aHsjvASDcW	2011-07-23 20:13:45	94862787712516097
+I didn't realize there's 200 photos limit in free Flickr acc. Any reasonable alternative to upload gadget photos, ie. http://t.co/CL9JKEI ?	2011-07-23 20:11:48	94862298065272832
+RT @Dr_Ulrichsen: Oslo Mayor Stang asked whether Oslo needs greater security - "I don't think security can solve problems. We need to te ...	2011-07-23 16:36:28	94808106046992384
+Fedora 14 won't support my new hw, Xfce 4.8 looks sooo 2005, Ubuntu is a no-no too (religious reasons), so I left with @fedora 15 + #Gnome3	2011-07-22 13:41:00	94401559156367360
+Having no sensible choice, installed #Gnome3 on my new laptop. Turns out to be acceptably bearable so far, putting my hatred on lower gear.	2011-07-22 13:35:31	94400178521513985
+Let me put it politely: X7 is not quite the best smartphone by Nokia. I'm struggling to enjoy it, really. @WOMWorldNokia @nokia	2011-07-19 18:20:07	93384637480583169
+RT @ZTE_UK: To #win Week 1’s ZTE Blade, tweet or retweet this message #ZTEBlade1 and follow @ZTE_UK	2011-07-19 08:42:55	93239380327677953
+I think a major flaw in my approach to Django is an assumption that everything will just work out of the box with approx. 5 lines of code.	2011-07-18 17:34:04	93010663642894336
+Interesting initiative to measure street-level 2G/3G signal levels in the UK. http://t.co/uYypCsz via @coolsmartphone	2011-07-18 09:38:49	92891063295033345
+RT @ZTE_UK: To #win Week 1’s ZTE Blade, tweet or retweet this message #ZTEBlade1 and follow @ZTE_UK	2011-07-18 09:32:35	92889492020658176
+Twitter lacks a killer feature where I could mute some of my followers for a specified period of time to avoid useless #apprentice noise.	2011-07-17 21:21:49	92705588034801665
+#Cornerstone base station under construction, finally. Yeah. @O2 @VodafoneUK @giffgaff http://t.co/NlkyZQc http://t.co/4Kjrqds	2011-07-17 20:38:01	92694566381174784
+#Cornerstone base station for @O2 and @VodafoneUK is coming nicely along! Welcome @giffgaff soon, bye bye @TMobileUKhelp	2011-07-17 20:31:06	92692825682100224
+One of the very little impressive things about Nokia X7 is playing xvid videos out of the box which is nice on its big screen @WOMWorldNokia	2011-07-16 11:14:11	92190283277668352
+Currently at the point of developer career where I write "try ... except" blocks in PHP and end lines of Python/Django code with ";".	2011-07-15 15:21:44	91890194533466112
+RT @g__j: (via @benbarden ) - How planes should be laid out http://t.co/9WOepZc	2011-07-15 13:02:02	91855040121278464
+Was hoping to get friends with @simplenoteapp and FlickNote app for Android but now it doesn't sync my notes. Doh! @springpad survived again	2011-07-15 08:49:56	91791597775237122
+RT @huntercreative: I'm very excited about #django-oscar -a domain-driven e-com architecture that makes sense to me. Plenty of room to c ...	2011-07-15 07:54:48	91777720211619840
+RT @Doener: 30 years of innovation. ;) http://img51.imageshack.us/img51/4118/30yearstumblrlo3apknlzb.jpg	2011-07-14 17:04:48	91553747167223809
+Wow, putting SIM card into @Nokia #X7 is extremely fiddly.	2011-07-14 12:42:07	91487636711149569
+Officially, purposefully and sadly neglecting my car from today and awaiting the engine to go bust one day.	2011-07-13 20:39:03	91245276781756416
+Google+ definitely wins people addicted to keyboard shortcuts in websites. Like @codeinthehole for instance. Hint: j/k/enter.	2011-07-09 22:16:57	89820359699869696
+Facebook's vending machines: A Coke or a keyboard? I wouldn't mind to have one of those in our office, really. http://bit.ly/rjfZQr	2011-07-09 11:20:30	89655160481120256
+Just realised that I tend to check on G+ more than on FB recently.	2011-07-09 11:04:33	89651144619601920
+I feel so mega-uber lame as a developer that I've only found out about Git branching.	2011-07-08 14:38:14	89342533641060352
+People trying board packed Tube train before letting passengers off first should be offered an immediate headshot. Or two, to make it clear.	2011-07-07 18:09:09	89033225757917184
+RT @tracyandmatt Im hoping to win a Kindle on tracyandmatt.co.uk - Find out how you can enter too http://t.co/F7REoRz	2011-07-07 11:42:07	88935826045681664
+Nothing kicks the day off better than an argue with ebay seller over the phone about the piece of crap he just sent in.	2011-07-07 09:58:13	88909675214540800
+Very good article on interesting Django practices you should know about. http://t.co/DCjyx90 (via @codeinthehole)	2011-07-04 16:52:09	87926681687429120
+Seems like @wuala is pretty good alternative to @Dropbox with Win/Mac/Linux/Android/iOS support. http://t.co/1XjoeWy	2011-07-04 14:04:47	87884564571230208
+Killer iPad use-case atm would be to have it as a reference e-book with django docs opened up while I crack on an issue in my django project	2011-07-04 13:57:13	87882658536894464
+Got a call from @TMobileUKhelp retentions and felt like the guy didn't really bother to convince me to stay. Well, even better for @giffgaff	2011-07-04 12:46:20	87864820929544192
+I freakin' love Google+ notifications in top bar of every Google service.	2011-07-03 23:29:58	87664410205749248
+RT @PaulOBrien: Protip: To get bold text in your Google+ stream write it like *this* :-D	2011-07-02 11:44:41	87124532103626752
+RT @achipa: Seriously, twitter, GREEK captcha ? #fail http://t.co/OIVhV71	2011-07-01 15:46:09	86822910286774272
+Is that a sort of your "standard" 3G service for your smartphone users @TMobileUKhelp, eh? Shame on you. http://t.co/j37KFGj	2011-07-01 11:11:01	86753669726478336
+RT @giffgaff: We prefer our unlimited data without a contract on the side. Grab a £10 goodybag and there you go. http://giff.ly/alP0i8   ...	2011-07-01 10:51:29	86748756443267072
+New Gmail UI design which brings it in line to Google+ style. Enable "Preview" theme to see. Looks neat. http://t.co/9d2HU5i	2011-07-01 09:58:01	86735300671455232
+In fact, I've got so annoyed by @TMobileUKhelp cust. service this morning that I've got PAC code right away, after 5 yrs! Hello @giffgaff	2011-07-01 09:12:44	86723902063116288
+Turns out @TMobileUKhelp limits internet booster to the useless 384kbps speed, even when in HSPA coverage. Another reason to join @giffgaff	2011-07-01 09:11:07	86723498394914816
+I give +1 to Google+ so far. Quite refreshing alternative.	2011-06-30 16:02:16	86464576081760256
+No luck with my #nokiasource application. It must be Anna taking revenge for dumping her. @nokia @WOMWorldNokia	2011-06-30 14:50:02	86446401923448833
+Google seem to roll-out their new design across all services, however Google Calendar now became less readable imo. @googlecalendar @google	2011-06-30 13:45:29	86430155752484864
+Google+, here I come.	2011-06-30 08:44:09	86354323465973760
+RT @WOMWorldNokia: E6 round 2: meet Anna - http://cot.ag/jWZEAZ ^PC	2011-06-29 15:24:14	86092618571853824
+Running through my brief and passionate affair with Anna in the 2nd instalment of Nokia E6 review http://bit.ly/jJ46yI @WOMWorldNokia @nokia	2011-06-29 14:46:50	86083207421902848
+Is Google a new Facebook now?	2011-06-28 19:36:14	85793647135698945
+Listening to Dire Straits hits all day long and actually enjoying it. My Dad would be proud of me.	2011-06-28 14:35:40	85718008340815873
+I wouldn't expect from Nvidia Tegra 2 & Honycomb powered 10" tablet to struggle with fluidness of basic UI operations. Really unimpressed.	2011-06-28 12:44:46	85690100515749888
+Hey, ice cream van for slightly older kiddies. I wouldn't mind to see it down my street. Free t-shirt too. #fxicecream http://t.co/30WocTM	2011-06-28 11:52:19	85676899216531456
+RT @devilwearsbata: There's a difference between your and you're. When someone says, "I can clearly see your/you're nuts," it's two enti ...	2011-06-28 09:40:16	85643668991647745
+A fresh approach to the famous London Tube Map. http://t.co/kLI5kmM	2011-06-28 08:45:54	85629986408644608
+Google's 2-step verification is quite clever and probably secure but also a royal pain in the ass when it comes to authenticating apps.	2011-06-27 09:30:01	85278700752478208
+There must have been a glitch in matrix or something, as 23C at 8am is not something I'd expect in late June in London.	2011-06-27 07:25:21	85247329841590272
+RT @scifig: Is it just me or developer.noka.com  looks more like a Microsoft/MSDN website these days?	2011-06-26 23:33:00	85128458098847745
+Sorry @springpad but your webapp note editor sucks and you're not bothered to fix it over a year long. Moving over to @mymemonic soon. Thx.	2011-06-25 11:24:05	84582630196129792
+In fact, I like N950 more due to hardware qwerty keyboard. @nokia @WOMWorldNokia	2011-06-24 13:21:10	84249706942832641
+Right, screw the DoA bit. The more hands-on videos of #NokiaN9 I see, the more I want to get my own hands-on it! @nokia @WOMWorldNokia	2011-06-24 13:15:42	84248334444937216
+Googled for "RMU" to find out what abbrv. stands for and ~1 hour later I've got an invitation/spam from a company trading RMUs. Coincidence?	2011-06-24 08:54:32	84182607595712512
+"MeeGo isn't going to return because Nokia can't, on its own, persuade media companies and developers to back it." http://t.co/AOoSSpJ	2011-06-22 17:31:36	83587957302366210
+RT @engadget: Editorial: Dear Nokia, you cannot be serious! http://engt.co/lDnbOr	2011-06-22 16:56:00	83578996473860096
+My Nokia E6 review, part 1 - overview of the hardware. http://t.co/BpAI7N0 @WOMWorldNokia @nokia	2011-06-22 09:26:29	83465871841959937
+RT @openbala: OH "Why hasn't Oracle ruined VirtualBox yet? - They're going in alphabetical order."	2011-06-22 08:31:14	83451968873439232
+RT @sfidelek: Nokia unveils new smartphone; analysts not impressed http://j.mp/mo0bHh	2011-06-21 18:16:15	83236805922656256
+RT @Texrat: Oddly, the N9 announcement is making me even harder on @Nokia.  Another one of those "oh shit do NOT waste this potential pl ...	2011-06-21 15:44:52	83198708648386560
+We want Nokia to keep MeeGo http://twitition.com/3c3ah	2011-06-21 13:50:51	83170016886931456
+...so why, oh why that bloody WP7 is disrupting a whole new disruption that comes with N9?! Damn you @nokia @selop :|	2011-06-21 13:28:53	83164487808589824
+Got round to watch hands-on videos of #N9 and I'm absolutely stunned! Nokia managed to deliver something genuinely fresh and innovative...	2011-06-21 13:27:14	83164072312446976
+RT @zehjotkah: The general feedback regarding #N9 is incredible good, not only on engadget. @Nokia, I beg you to rethink your strategy.  ...	2011-06-21 13:24:53	83163479686643713
+Let's conclude this: without clear strategy for future dev and support, no matter how cool and fancy #NokiaN9 is, it's simply DoA. Period.	2011-06-21 11:56:49	83141316904620032
+...but given current circumstances, #NokiaN9 actually poses more questions and doubts than excitement to me, really. Let's wait and see.	2011-06-21 07:59:17	83081540426403840
+And btw, #NokiaN9 looks indeed very impressive from start, if @selop announced it back in #feb11 it would be a huge win for Nokia...	2011-06-21 07:57:52	83081182383837184
+Has @selop made some sort of #MeeGo "ecosystem" commitment while unleashing #NokiaN9 or it'll end up as another half-baked geek-only gadget?	2011-06-21 07:50:37	83079361472901122
+Unless @selop will make another strategy U-turn tomorrow, I just can't see the real reason for such excitement about N9 release. #nokiacnxn	2011-06-20 20:14:36	82904200287223808
+RT @O2: Mozart sounds better with @O2: RT this to win a HTC 7 Mozart, now free on Pay Monthly for £21.50 a month! Info at http://j.mp/miP53w	2011-06-20 16:33:37	82848589633683456
+RT @stobbsc: Very cool RT @1000heads: We love this letter to (and reply from) Sainsbury's - http://bit.ly/lL06x7 ^JW	2011-06-20 14:43:57	82820989553082368
+Yet another sample HD video recorded with Nokia E6. http://t.co/XVTpq5o @WOMWorldNokia @nokia	2011-06-20 08:48:21	82731500226871296
+Pixel fight! Nokia E6 vs. E72 head-to-head display resolution comparison. @WOMWorldNokia @nokia http://flic.kr/p/9UKYvc	2011-06-20 08:47:14	82731218248011776
+Even more sample photos taken with Nokia E6 8mpix EDoF sensor. Quite nice actually. @WOMWorldNokia @nokia http://flic.kr/s/aHsjvb8xn1	2011-06-20 08:45:36	82730807155896320
+Sunday retro mood. @giffgaff http://t.co/7GRj05P	2011-06-19 11:26:05	82408808701378560
+Join #GiffGaff network. Just £10 gets you 250 mins, unltd txts and mobile net. Order free SIM with £5 credit here: http://t.co/eSVAFb4 Thx!	2011-06-17 20:59:44	81828396534996992
+Android SDK installed - check. Hello World tutorial completed - check. En route to write a killer app and become millionaire - check.	2011-06-17 13:33:35	81716119009898496
+Having @Nokia E6 on trial now only needs @HTC ChaCha and some Blackberry device for a proper comparision. Are you listening @ThreeUK ? :)	2011-06-17 10:34:17	81670994535780352
+Nokia E6 sample HD video. http://t.co/vilJIex @WOMWorldNokia @nokia	2011-06-17 09:49:59	81659846943981569
+Sample shots taken with Nokia E6 EDoF camera. @WOMWorldNokia @Nokia http://flic.kr/s/aHsjvb8xn1	2011-06-17 09:42:17	81657910865821696
+#SymbianAnna provides improved user experience overall yet being spoiled by Android already I expect a bit more. @WOMWorldNokia @nokia	2011-06-17 09:26:07	81653842588086272
+Nokia E6 cons so far: well, OS mainly. Quite sluggish sometimes and web browser still pretty far from perfection. @WOMWorldNokia @nokia	2011-06-17 09:23:15	81653120333135873
+Nokia E6 highlights so far: excellent display, pretty good battery, nice keyboard and not that bad camera actually. @WOMWorldNokia @nokia	2011-06-17 09:20:36	81652452260192259
+RT @djm_: In tears over this commit, truly one of the funniest I've seen: http://t.co/qOaFfcF	2011-06-16 14:10:18	81362968608124928
+Nokia E6 iz in da hauz. :) @WOMWorldNokia http://t.co/QGtwzQl	2011-06-16 12:25:37	81336627322028032
+A true sense of parenthood starts when you can't get rid song themes from CBeeBees morning cartoons out of your head for all day long.	2011-06-16 11:37:29	81324512754417664
+Right, Nokia E6 is coming my way tomorrow thanks to @WOMWorldNokia :)	2011-06-15 09:43:01	80933320699027456
+Absolutely genius prank. http://t.co/FkmZ2k8 (via @marek_matulka)	2011-06-14 16:17:55	80670311640596480
+Today's one of those days when I work on a database where average query execution time is approx. 30 minutes.	2011-06-14 14:18:42	80640307619823616
+Got a call through my current company's landline number on someone's desk from a job agent wanting to discuss job opp. Freakin' ridiculous!	2011-06-14 09:13:52	80563595540312064
+It's getting there, oh yes! @O2 @VodafoneUK http://t.co/3DUZADg	2011-06-14 07:26:48	80536650182180864
+RT @coolsmartphone: Orange Barcelona to cost £119.: Following my earlier post here about Oranges new budget… http://goo.gl/fb/C3AbJ	2011-06-13 16:54:34	80317145455673344
+Right, if all goes to plan, I should be driving brand new Volvo S60 R-Design within few weeks. Hell yeah! @insidevolvouk	2011-06-13 15:43:07	80299166315716609
+RT @coolsmartphone: HTC ChaCha Review: The HTC ChaCha was announced back at Mobile World Congress in February and… http://goo.gl/fb/8fzRp	2011-06-13 10:28:04	80219878761566208
+A company called Cellular Systems Ltd has started construction work on the pavement outside my home - hopefully subcontractors for @O2 yeah!	2011-06-13 07:31:00	80175317880287232
+RT @giffgaff: From next year, you'll be able to keep tabs on your new Volvo through your phone: http://giff.ly/kaxeif	2011-06-09 13:52:50	78821859159834625
+Since I'm somewhat lucky winning mobiles via Twitter competitions, now I'm looking for an opportunity to get @HTC ChaCha free. Anyone?	2011-06-09 11:25:56	78784892309209088
+Are spammers reading minds nowadays? Hm.. just got extnded car warranty spam while my car is actually facing engine repair worth hundreds £s	2011-06-08 14:15:55	78465282561150976
+Btw, @Phones4u staff is so utterly annoying trying to sell me a contract, despite I stated *first* that I don't intend to buy anything today	2011-06-06 13:46:24	77733076842725376
+Got quite impressed by @HTC ChaCha after 5 min hands-on in the shop. Display is smallish but resolution makes it up and keypad's quite good.	2011-06-06 13:42:39	77732134017695744
+RT @paulrouget: ROFL! Silverlight Forum: DRAMA! Windows 8 is going HTML5! http://bit.ly/ju4c6H	2011-06-03 16:16:09	76683600908656641
+Found planning application for a new telco mast near my home. Hope it will be an @O2 mast so I could switch to @giffgaff from @TMobileUKhelp	2011-06-03 15:05:23	76665790090330113
+I wish little children (~1yo) realize that 5am in the summer is not a perfect time to start a day, even when it's perfectly bright outside.	2011-06-03 08:04:06	76559772484239360
+RT @rcadden: very frustrated with the iPad. Seems I'd need to drop $50 on apps just to get the same functionality Android has out of the ...	2011-06-02 14:32:31	76295132961439745
+RT @ijansch: a junior dev writes dirty code. a medium dev writes clean code. a senior dev knows when it's ok to write dirty code.	2011-06-02 11:20:47	76246878823518208
+Truly amazing, behind-the-scenes and eye-opening story about recent happenings in #Nokia since @selop joined in. http://buswk.co/m306hl	2011-06-02 09:20:41	76216655293857792
+Wondering whether department stores are purposefully designed in a way that finding exit is quite difficult once you get deep in.	2011-05-31 17:29:44	75614954513907712
+En route to spend all day digging myself out of huge backlog of work emails after &gt;3 week holiday.	2011-05-31 08:01:50	75472036222345216
+If #Nokia didn't sell its soul to #Microsoft and continue with #MeeGo, I'd probably be wetting my pants about Nokia N9 by now. But I don't.	2011-05-18 08:49:36	70773014320517120
+RT @pete_miller: Subversive stickers on the central line: http://stickersonthecentralline.tumblr.com/	2011-05-05 10:45:22	66091107813044224
+RT @fakeselop: I know other phones have jiggahurtz processors and retinal displays and "apps", but do they come in pink?	2011-05-03 12:50:21	65397782785179648
+Importing existing #PHP project into #Eclipse PDT and wondering whether "DLTK indexing" utilizing 100% CPU will complete within this decade.	2011-05-03 10:29:54	65362439763525632
+My personal, long-neglected PHP project just got serious progress kick thx to ass-kicking #Django admin features which I'm now in love with.	2011-05-02 01:05:26	64857999944073216
+Playing with #ubuntu 11.04 Unity desktop - must say it zillion times better than #gnome3 sh*t that will ship in @fedora 15. Time to switch?	2011-04-29 19:37:14	64050628468547584
+RT @jhartikainen: If Apple wins the suit over the name 'App Store', I'll trademark 'grocery store' and sue the hell out of everyone!	2011-04-27 21:26:33	63353364301357056
+RT @anidel: Was the platform already burning or was the fire set by Elop? #nokia	2011-04-27 18:17:26	63305768446853120
+Dusting off my old @evernote account as @springpad note editor sucks hard ever since and they don't seem to care improving it.	2011-04-22 21:43:22	61545655658758144
+No claims bonuses in the UK car insurance industry apparently are counted as negative numbers, raising insurance premium each year.	2011-04-21 09:49:01	61003494034915328
+The most hardcore IT geeks are remarkably easy to recognize in the public by their looks and smell.	2011-04-21 08:30:02	60983619421863937
+Visualized: what Motorola Android users want http://t.co/WcFrOkj via @engadget	2011-04-20 07:24:16	60604681239531520
+RT @BromptonHeart: Our petition to save RBH's children's heart services has 8690 signatures - pls help us reach 9000 by Friday! http://b ...	2011-04-19 08:51:00	60264119277858816
+Unbeatable job offer: full e-com site clone that should "take 2 days to create" within £250 budget. Yes, for real. http://t.co/DOmW9jg	2011-04-17 22:26:14	59744503225008128
+RT @mattmight: *Not* what you want to see on the fetal monitor when your wife begins to push.  Thanks, Microsoft. http://t.co/6D64giv	2011-04-15 08:46:24	58813412133715968
+RT @WOMWorldNokia: E6 & X7 first impressions - http://bit.ly/hpEuS2 ^PC	2011-04-14 14:08:04	58531971214745601
+Despite I'm not a big fan of keyboard-less devices, Sony Xperia Arc looks very tempting, wish I could review one on my blog. @sonyericsson	2011-04-14 11:35:50	58493660291022848
+Sadly, the time has come to say goodbye to my trusted Nokia N900, up for grabs for £180. Anyone interested please DM. #maemo #meego #nokia	2011-04-14 10:22:24	58475182855176192
+Nokia X7, E6 and Symbian Anna - first impressions. http://bit.ly/g8RpQm @WOMWorldNokia @Nokia #symbiananna #x7 #e6	2011-04-13 09:08:15	58094133184700416
+The new #Nokia #E6 sample HD video - looks quite good to me. http://t.co/3s0s8TF via @youtube	2011-04-12 20:20:56	57901034323984384
+Few shots of #Nokia #X7 and #E6 I have taken today at @WOMWorldNokia http://bit.ly/eVRZ8i	2011-04-12 14:20:45	57810389286649856
+I am officially in love with #Nokia #E6 screen. Exceptionally crisp and beautiful. @Nokia_UK	2011-04-12 12:22:48	57780706503442432
+New #symbiananna browser is much improved but fails to deliver good performance on heavy sites. @Nokia_UK @telepolis_pl http://t.co/pC0d1bg	2011-04-12 12:20:33	57780141014794240
+While X7 was slightly disappointing, E6 is really gorgeus and screen is uber-impressive. @WOMWorldNokia @Nokia_UK http://t.co/U0dKh6m	2011-04-12 11:47:42	57771873357922304
+Can't wait to see and play with the new Nokia E6 and X7 today, thanks to @WOMWorldNokia @Nokia_UK	2011-04-12 09:45:43	57741174705893376
+Build quality by @htc cont'd. Btw, this phone is about 4 months old.  http://twitpic.com/4jx285	2011-04-12 08:40:15	57724700402515968
+Whoops, someone apparently has serious quality issues here. @htc http://twitpic.com/4jx1v2	2011-04-12 08:38:54	57724359497887744
+9-month-old daughter saying "tata" ("daddy") for the first time ever was the best birthday present I could get for my 30th birthday today.	2011-04-08 19:58:12	56445759658270720
+RT @fR0DDY: Q: How to generate a random string?
+A: Put a fresh student in front of vi and tell him to quit.	2011-04-08 14:06:24	56357225970679808
+Changing Android's UI default font to Ubuntu, Nokia Pure or any other TTF font. http://bit.ly/fBEZ0P	2011-04-03 20:38:50	54644046941007872
+RT @falseSteveJobs: If Apple ran Twitter, the tweet submission and approval process would take 2-8 weeks. Oh, and we might delete your t ...	2011-04-03 17:07:11	54590782270746624
+RT @HRHPrincessKate: I hope none of you guys are falling for these #AprilFools about us postponing our wedding! We can't do that - the b ...	2011-04-01 09:24:33	53749581204295681
+Changing Android's default UI font to Ubuntu made it look approx. 381 times sexier. Btw, Nokia Pure looks good too! http://t.co/NmpU3jB	2011-03-31 23:20:21	53597528100311040
+Both Instapaper and ReadOnPhone have been instantly made obsolete as soon as I've discovered Read It Later. £0.50 well spent :) @readitlater	2011-03-30 12:28:16	53071040422748160
+Hey @googlechrome - #Firefox4 has won me back with tab grouping feature (and it's finally quite fast too). Grouping tabs in Chrome, perhaps?	2011-03-30 10:51:39	53046723458772992
+RT @5tevenw: Friend texted me and asked "what does IDK stand for?" I said "I dont know" she replied "omg! nobody does!"	2011-03-29 19:59:26	52822192332873728
+New tariffs launched @O2 yet their SIM-only offerings don't even come close to @TMobileUKhelp ones which still seem the best on the market.	2011-03-29 10:51:04	52684190986141696
+I have to say that #Firefox4 is actually quite OK and tab grouping feature is big bonus. Looks like Mozilla did their homework.	2011-03-28 12:56:51	52353458409447424
+RT @MobileSider: RT @eldarmurtazin: Nokia Moscow Flagship store sold 19 units of Nokia E7 in one week. Amazing. Full Russia: 200	2011-03-28 11:05:54	52325534893490178
+Point about psychoterapy is particulary interesting. RT @codeinthehole "money can buy happiness" http://qr.ae/Z2u7	2011-03-27 21:51:43	52125672205860864
+Food @pizzahut was never great but today it was really crap.  Lousy service and dirty tables all round come free. Oh, and runny poo too.	2011-03-27 15:26:17	52028675062898689
+Decided to be a good boy and give #Firefox4 a chance to be my default browser just for today.	2011-03-25 12:19:40	51256935730774016
+Coverage by @O2 @giffgaff on my commute route is a bit better than #TMobile, yet it's a complete disaster at home so I'd rather won't switch	2011-03-24 09:56:24	50858495444127744
+Discovered that Gmail was marking nearly all my emails as important due to silly filter rule I've created and forgotten. /me lame not @gmail	2011-03-23 10:24:48	50503253816909824
+"Amazon Appstore is not available in your region" - after installing, registering and getting everything in place to get free Angry Birds.	2011-03-22 14:59:55	50210099360317440
+RT @fartabulous: I set my phone to airplane mode and then threw it in the air. Let's just say.....WORST TRANSFORMER EVER	2011-03-22 12:52:49	50178114843705344
+RT @ChrisSoyars: CMStats - What it is, and why you should opt-in. http://kan.gd/2eu	2011-03-21 09:07:21	49758986412638208
+RT @btsearch: Kolejny update bazy btsearch:
+Stan na dzisiaj:
+Liczba stacji bazowych: 19417 » Liczba wpisów (wierszy) w bazie: 36946	2011-03-20 15:12:06	49488392110608384
+En route to drop iGoogle homepage altogether as I realized the only widget I really use on it is Google Reader.	2011-03-17 14:23:13	48388925387051008
+Wondering whether isMajorityOfOrderValueSuppliedByTaxExemptPartner() is a bit of overkill or perfectly valid method name. Hmmm.	2011-03-16 13:15:13	48009422806597633
+Browsing through the job portal for web dev freelancers and getting constantly amazed what people expect to get done for so little money.	2011-03-15 23:17:19	47798561429139456
+RT @djm_: Gorgeous node.js colour palette maker; takes a tag from flickr and creates them from the images it finds. http://colorapi.com/ ...	2011-03-14 21:34:41	47410342615187457
+People who invent keyboards where PgUp/PgDown keys are located between AltGr and Ctrl should be well hanging on their balls by now.	2011-03-14 11:29:31	47258047747330049
+A must-read for everyone working on eCommerce front-end design. http://is.gd/EtXILp	2011-03-14 11:21:48	47256107701383168
+Impressed to see how upgrading to @cyanogen 7.0.0-RC2 aka Android 2.3.3 improved quality of photos taken with Desire Z camera.	2011-03-14 10:40:57	47245825490948096
+Apart from the minor bootloop glitch and not all apps restoring from the cloud, @cyanogen 7.0.0-RC2 os flying high on my HTC Desire Z!	2011-03-11 19:56:18	46298420507443200
+CyanogenMod 7.0.0-RC2 iz in da hauz.	2011-03-11 18:26:14	46275756317360129
+RT @g__j: Why can't we ditch mobile contracts altogether and allow phones to bid for bandwidth in a spot market: better coverage, lower cost	2011-03-11 10:23:41	46154319673835520
+Getting more and more annoyed with @TMobileUKhelp lousy coverage. Considering @O2 or @VodafoneUK instead as my TMUK contract ends in May.	2011-03-11 09:51:56	46146326219599872
+Yet another long'ish, yet excellent story from TheReg's Andrew Orlowski about Nokia and its cockups. http://t.co/yMcZeJy	2011-03-10 19:00:41	45922037088272384
+Idea behind #gnome3 is quite nice but implementation is very very, I mean VERY far from being ready for production. Sorry @gnomeshell guys.	2011-03-10 11:26:02	45807622212943872
+Had brief play with @fedora 15 alpha with #gnome3 and I think I'll stick to Fedora 14 for looong time until #gnome3 becomes actually usable.	2011-03-10 11:24:19	45807186634473472
+If I wasn't spoiled by Android already I would probably queue in the line for Nokia E6 by now. http://engt.co/iarr3c	2011-03-10 09:55:10	45784751721820160
+Shall I become a good user, go for @cyanogen CM7-RC2 and help improving it by reporting all bugs I come across, or just sit&wait for final?	2011-03-09 17:44:50	45540563012943872
+RT @hackernewsbot: EU "Cookies" Directive - What It Means For You.... http://bro.gs/wzsg	2011-03-09 14:04:11	45485030784507905
+While Mozilla is mulling for ages about Firefox 4, Google quickly releases iterations of Chrome quietly making it the best browser around.	2011-03-09 10:31:51	45431596257517568
+Just discovered HandBrake - brilliant video conversion utility that won't require you to hold PhD in quantum physics. http://handbrake.fr	2011-03-08 23:47:02	45269322872008704
+It's always quite rewarding when a significant piece of code you've been crafting past couple of hours works off the bat without a glitch.	2011-03-08 18:09:41	45184428556828672
+Listening to a radio which plays Paula Abdul's "Straight Up" and other oldies like that is kinda refreshing. @rmf_fm	2011-03-08 16:42:36	45162509694550016
+RT @francoisz: Best captcha ever. http://random.irb.hr/signup.php	2011-03-08 16:10:30	45154434271027200
+RT @WOMWorldNokia: What is: very useful, well made and good looking? - http://bit.ly/fOt1is ^PC	2011-03-07 13:07:25	44745970768023552
+RT @djm_: http://ie6countdown.com is the first piece of Microsoft PR I haven't balked at in quite a while. "Friends don’t let friends us ...	2011-03-04 22:51:38	43805831132741632
+RT @haerwu: Simple Genius: A USB Plug That Fits Even if It's Upside-Down http://bit.ly/f5dHEY	2011-03-04 11:08:37	43628909379600384
+Possibly the best way of spotting a celebrity is to look out for people wearing huge sunglasses in cloudy day.	2011-03-03 13:12:57	43297814142390272
+The best thing about iPad2 so far is that it will hit the stores within days after announcement. Not months. @nokia	2011-03-03 08:32:45	43227297351868416
+Competwition - Win an Xperia Play http://competwition.com/expansys @expansysUK	2011-03-01 15:47:36	42611956544311296
+Very interesting and slightly surprising finding about what really motivates people. http://t.co/2GGIQGU (via @codeinthehole)	2011-03-01 14:47:46	42596898787438592
+Every now and then I feel unexplained desire to try out a Blackberry phone. Anybody has one to borrow for couple of weeks?	2011-03-01 13:11:03	42572556288536576
+RT @johnwards: School boy humour at its best. http://www.nakedpassword.com/ via @kbsali	2011-03-01 11:44:53	42550874161160192
+Another #phpuk2011 highlight is that virtually everyone had an iPhone and virtually everyone was struggling with battery throughout the day.	2011-02-26 09:17:27	41426606845202432
+My highlights of yesterday's PHP UK conference are InnoDB and ElasticSearch - now I'm more inclined to try both. #phpuk2011	2011-02-26 07:32:48	41400272018341888
+RT @parsingphase: Not sure @lorenzoalberton realises we're interested in using noSQL databases rather than writing them.  #phpuk2011	2011-02-25 16:07:20	41167370147995648
+RT @a: Disappointed at the NoSQL talk at #phpuk2011 - too much unnecessary tech info (Dynamo paper stuff), not what was promised.	2011-02-25 15:53:59	41164009969422336
+I should have gone to Beyond Frameworks, as NoSQL seems to be the biggest disappointment of the PHP conference so far. #phpuk2011	2011-02-25 15:44:07	41161526874214400
+JumpOffEarly(tm) seems to be a new trademark recently introduced by Transport for London. http://bbc.in/gtvSl6	2011-02-24 16:04:29	40804266788524033
+Loving online surveys where both Yes and No options are made of checkboxes rather than radio buttons.	2011-02-24 14:44:46	40784203725406208
+I have just made highly anticipated entrance into Python and GitHub scene with awesome sshort script, yo. https://github.com/adlorenz/sshort	2011-02-23 23:49:16	40558843767300096
+Thanks! :) RT @WOMWorldNokia: A hands on review of the Nokia N8: http://t.co/OtxMbW0 ^TM	2011-02-23 19:32:54	40494324911308800
+My personal take on Nokia N8: excellent hardware, slightly less excellent OS. http://bit.ly/g2qf2l @WOMWorldNokia	2011-02-23 10:16:12	40354229163917312
+Test-driving Firefox 4 beta and wondering whether it will remain same impressively speedy in final version with all my add-ons tucked in.	2011-02-19 01:15:40	38768648390713344
+ROTFL! That was quick! #NokiaPlanB http://t.co/ceRfnHX	2011-02-16 19:18:51	37954074200649729
+"Nokia had a compelling developer story. But it was too late. What killed Nokia's ambitions then was its bureaucracy." http://t.co/iw7y6P5	2011-02-16 19:08:57	37951582788263936
+A very good reference story on typical customer service issues these days. http://theoatmeal.com/comics/customer_service	2011-02-16 16:47:14	37915918529077248
+Nearly forgot - big fat thanks to @WOMWorldNokia for replacing defective N8 with no hassle whatsoever.	2011-02-16 16:21:36	37909469090418688
+To see all alternative plans for @Nokia recovery in case #NokMsft blows, visit http://nokiaplans.com/	2011-02-16 16:19:33	37908952368947201
+Seriously impressed so far with Nokia BH-905i headphones I've got today from @WOMWorldNokia	2011-02-16 14:16:23	37877956072308736
+While I still regard #NokiaPlanB as quite naive, NokiaPlanC seems very reasonable. http://nokiaplanc.com/	2011-02-16 12:47:04	37855479652810752
+Exchanging emails with npower "support" makes me feel like asking a cat to cook a dinner for me and wash dishes afterwards. Really hopeless.	2011-02-16 11:14:11	37832107405348864
+I think I'm going to give up on Proton Radio for time being after discovering mixcloud.com. (via @flagZ)	2011-02-16 10:48:36	37825667936690176
+RT @cyanogen: CyanogenMod-7 Release Candidates! | http://bit.ly/fQOD6q #CM7	2011-02-16 09:08:32	37800483104112640
+Another great thing about Nokia N8 is USB host mode. Transferring gigs of data without touching computer is huge win. @WOMWorldNokia	2011-02-15 22:06:09	37633792063705089
+VMware with guest OS running inside an Android phone. Can I haz one, please? http://engt.co/e6ut2H	2011-02-15 16:44:40	37552886032367616
+Despite being Nokia fan and liking the idea of #NokiaPlanB I think it's simply, well, naive. Sorry. @Nokia has changed, just deal with it.	2011-02-15 08:51:58	37433929636134912
+In ideal world now is a perfect opportunity for #HTC to pickup #MeeGo, customize it and start delivering excellent new smartphones. #NokMsft	2011-02-14 13:57:02	37148312826023936
+Very interesting view on #NokMsft by Nokia employee. "Killing Symbian was right decision" http://t.co/c7Iw67P (via @rcadden)	2011-02-12 15:26:30	36446051338555392
+Despite that rebooting stuff there's one thing I must say for sure - N8's camera ROCKS!	2011-02-12 00:44:38	36224122208006144
+Nokia N8 reboots itself also after a full hard-reset. Looks like I've been given a defective unit. :( What do you say @WOMWorldNokia	2011-02-12 00:33:25	36221299642601472
+As #NokMsft dust settles and there's no other choice than just deal with it, it's time to think about possible positives of the whole thing.	2011-02-11 23:10:03	36200320774176769
+RT @tracyandmatt: Everything Everywhere to launch branded stores http://bit.ly/hmY5qu	2011-02-11 16:28:09	36099178052599808
+I've lost count how many times my brand new Nokia N8 has rebooted by itself today. Such an irony.	2011-02-11 14:06:10	36063445547876352
+All in all, I'd be less furious about #NokMsft if it would involve integration with Qt. But it doesn't, which is a big deal of shame.	2011-02-11 12:59:58	36046787588395008
+One 'v' too far here. RT @selop Today Nokia Dives Forward. #NokMsft	2011-02-11 12:16:09	36035760121450496
+Nokia's towel has been thrown - sad but true. http://bit.ly/hELn95	2011-02-11 11:36:45	36025844140867585
+Some people naively believe #MeeGo is not dead. Well, maybe it's still alive but definitely not within #NokMsft arrangement. Sad but true.	2011-02-11 10:24:41	36007710797332480
+RT @torotime: Nokia/MS partnership: My initial take is that this must be a better deal for Microsoft than Nokia.	2011-02-11 09:40:19	35996542599053312
+RT @MobileSider: RT @khertan:  first Nokia WP7 phone leaked. http://bit.ly/f7ptv0	2011-02-11 09:39:16	35996278848495616
+On the other hand - Nokia+Intel last year, Nokia+Microsoft this year, who's next for 2012 @selop? Google? Or maybe Apple? ;P #NokMsft	2011-02-11 08:31:27	35979213068574720
+RT @jaffa2: So, #Qt: screwed. #Symbian: screwed. #MeeGo Handset: screwed. #Nokia: screwed. That about sums it up? Long live my #N900 and ...	2011-02-11 08:29:24	35978695562764288
+Utter disgrace. #NokMsft #feb11 @selop	2011-02-11 08:29:04	35978615174725632
+Nokia N8 is in da hauz! My very first impressions on the device and S^3. http://bit.ly/euGFml Many thanks again to @WOMWorldNokia :)	2011-02-10 23:20:49	35840642475098112
+Thanks to great folks @WOMWorldNokia I now can enjoy brand new Nokia N8 - and not just for a review but forever. ;) #NokiaConnects #smwldn	2011-02-10 18:16:19	35764012952059905
+It occurred to me that nobody actually tries to analyse the word "build" in famous "build, catalyze or join ecosystem" phrase...	2011-02-09 22:12:08	35460970528772096
+Elop's internal memo is one of the best pieces about Nokia I've recently read. And it's quite reasurring too. http://t.co/gQZa36D @selop	2011-02-09 08:43:25	35257447887278080
+RT @zacharye: RT @rosa: Someone made a flowchart explaining how to procrastinate. I'm totally gonna look at it later. http://j.mp/dZAFu8	2011-02-06 20:45:45	34352065945796608
+Joining an ecosystem is like throwing a towel, really. #nokia #meego #symbian #wp7 http://t.co/RMXMf0i	2011-02-06 00:29:00	34045861046525952
+Here are couple of suggestions for perfect Valentines Day gifts - for him: http://bit.ly/gUI66w and for her: http://bit.ly/fOntsW	2011-02-05 17:09:29	33935252225404928
+RT @coolsmartphone: Manage your t-mobile uk account and check your use with the new My T-Mobile app on Android phones available now.	2011-02-04 13:16:34	33514249632354305
+Wow, Google Body Browser is quite impressive and fascinating at the same time. http://bodybrowser.googlelabs.com/	2011-02-04 13:08:43	33512274362638336
+Just realised my blog post has been submitted to reddit. Now I can haz groupies, right? http://bit.ly/huUWO4	2011-02-03 13:45:06	33159043254067202
+RT @a_alfredo: “@diveintomark: LBGTFY (Let Bing Google That For You)”	2011-02-03 10:22:45	33108119940759553
+Right, Android Market web client with instant (I mean *instant*) app installation on device has just made @TheAppBrain instantly obsolete.	2011-02-02 21:53:07	32919469168787456
+RT @djm_: Inside London’s Subterranean Crisis-Command Bunker http://t.co/cT84UEs	2011-02-01 22:19:48	32563795477929984
+Can't find words to describe how utterly useless GoDaddy support and GoDaddy-everything is. Everything going to @xilonet very soon! @GoDaddy	2011-02-01 13:27:48	32429913222938624
+Holy fuck, I really didn't mean to run 'rm *'. Doh!	2011-01-31 11:59:26	32045285760835584
+GoDaddy's telephone support IVR menu is equally messed up as their website. Such a relief to migrate away from them.	2011-01-30 13:33:22	31706540507398144
+Maemo 5 is now in community hands only so there's hoping for this platform to gain a second life. http://bit.ly/i6jkMv	2011-01-29 19:35:41	31435330276032513
+In the world where pretty much everything is wireless, having to swap memory card to copy pics taken with digital camera is a bit annoying.	2011-01-29 15:29:57	31373491437568000
+Home sweet home...	2011-01-28 17:14:07	31037315895795712
+RT @rhapsody88: my new favourite wordpress plugin: http://drench.github.com/graceless-degradation/	2011-01-27 23:14:31	30765626238701568
+Vodafone's mobile broadband performance today brings back memories from times where 33.6 kbps dial-up modems were *fast* @VodafoneUK	2011-01-27 14:51:37	30639067834089473
+RT @selop: The industry changed. It’s time for #nokia to change faster.	2011-01-27 14:40:42	30636321240256512
+Apparently psychologists must to be a bit nuts themselves to do their job.	2011-01-27 14:00:33	30626215287070720
+RT @GoogleMobile: If you have an iPhone or Android-powered device, go to google.com in your browser and try searching for "weather":  ht ...	2011-01-24 22:24:40	29665915767365632
+Gmail's Priority Inbox feature biggest #fail is that it doesn't seem to learn which emails I manually mark as (un)important. @gmail	2011-01-24 11:52:00	29506701526835200
+O2UK to invest more heavily in UMTS900. http://bit.ly/hsweTj	2011-01-23 14:41:18	29186921297088512
+Looks like T-Mobile and Orange UK signal sharing has expanded to share 3G spectrum too. #TMobile #Orange @TMobileOfficial	2011-01-21 18:46:56	28523958106071041
+Seriously impressed by easiness of use and reliability of wifi hotspot feature in HTC Desire Z. My Huawei E5830 is pretty much retired now.	2011-01-20 19:50:04	28177459425837056
+Seriously, if you live in block of flats with your postbox on ground floor, don't bother getting important things delivered with @RoyalMail	2011-01-11 12:47:50	24809711287148544
+I like more and more companies choose Twitter as an alternative customer service channel. Much better than standard phone. @RoyalMail	2011-01-11 12:06:11	24799228165357568
+Unscientific and highly subjective 5mpix camera shoot-out: HTC Desire Z vs. Nokia N900 vs. Nokia E72. Fight! http://bit.ly/eROYG9	2011-01-10 23:41:41	24611867859099648
+Got off the @royalmail customer service line and that was The Rudest Customer Service Person EVER!!! Utterly shocked!	2011-01-08 13:30:00	23733158428020736
+Royal Mail twat had time to write down 'you were out' card instead of actually checking if someone was at home and just deliver. ffs!	2011-01-08 12:27:31	23717435576156161
+Collecting strong evidence that proves HTC Desire Z's camera is pretty much a piece of 5-megapixel crap.	2011-01-07 14:32:54	23386598674534400
+Searching through MySQL official documentation became so useless since Oracle has taken it over...	2011-01-07 11:55:47	23347058941366272
+Looking through #ces headlines lately and can't stop impression it should rather be called AES, as Android Electronics Show. @nokia lame.	2011-01-07 09:38:36	23312536069738496
+RT @haerwu: During #CES many new #android devices appeared. I wonder how many years #meego will need to get to this point.	2011-01-06 21:41:16	23132013678563329
+Gmail's Priority Inbox feature is gradually becoming useless by marking nearly all my emails as important. Including old server logs. @gmail	2011-01-06 16:05:14	23047448863707136
+Blogger's post editor might not be as feature-full as Wordpress' but is absolute winner in terms of ease-of-use and overall experience.	2011-01-02 14:31:10	21574224774696960
+Seriously impressed with Tesco online groceries shopping service. Will definitely use it again.	2010-12-31 15:46:52	20868500172046336
+Moving evad.zone over to Blogger. http://bit.ly/gXjXNt	2010-12-29 02:21:24	19941019055296513
+If there was a discipline of removing/fitting car battery on time at the Olympics, I could easily take part and get silver medal at least.	2010-12-26 13:00:31	19014697076396032
+Simply http://dawid.lorenz.co - like it or hate it?	2010-12-23 18:10:06	18005439937515520
+Holy smokes, WebSMS app for Android + sipgate connector rocks. International texts with own mobile number for less than 6p kick ass!	2010-12-23 17:15:46	17991768528130049
+Gritting roads that are mostly dry with no snow or ice involved at all. I will never understand the logic behind tackling winter in the UK.	2010-12-22 21:12:44	17689016660922368
+Although Tube strikes usually make me work from home and that's somewhat nice, yet calling another strike on Boxing Day is plain stupid.	2010-12-22 11:51:59	17547899239927808
+I don't want to be boring but.. THAT RED FAT FUCKING CUNT CAME 5 MINS EARLY AGAIN, FUCKIN BITCH, FFS!!!!!!	2010-12-22 08:28:24	17496664981897216
+First day in the office since Queen Elizabeth II coronation where my morning inbox sweep routine didn't make my todo list grow a thing.	2010-12-21 10:29:26	17164736844013568
+A bus that was 5 minutes early on the bus stop definitely haven't #mademesmile http://t.co/pTkuLCU	2010-12-21 09:18:03	17146773306875904
+Well well well, iPad 3G 64GB would definitely #mademesmile http://t.co/pTkuLCU	2010-12-20 11:07:52	16812018438766592
+Seriously considering Sony CyberShot DSC-HX5V instead of Lumix TZ10 as a good quality HD compact camera. #mademesmile http://t.co/pTkuLCU	2010-12-19 11:06:25	16449265748410368
+Lots of snow today #mademesmile http://vodafone.co.uk/mademesmile	2010-12-18 13:33:06	16123791746801664
+Turns out updating account address with Barclays over two months after moving home is mission impossible.	2010-12-18 11:28:42	16092485658877954
+We have a first victim of freezing weather in our family. Car battery.	2010-12-18 08:28:49	16047216649048064
+So here it is... my personal comparison of Nokia N900 vs. HTC Desire Z http://bit.ly/h9u1Ci	2010-12-18 00:42:34	15929882148081664
+RT @coolsmartphone: Argos catalogue from 1985 - http://bit.ly/argos85 http://bit.ly/gBIjY0 http://bit.ly/fLrkwr http://bit.ly/iflTgF htt ...	2010-12-17 23:50:04	15916670941921280
+Switching between multiple Gmail accounts from single browser instance #mademesmile http://bit.ly/fiGb63 http://t.co/pTkuLCU	2010-12-17 11:04:55	15724111951044608
+Laying grounds for a geek girl by trying to use computer with an infant sitting on my arm. #mademesmile http://t.co/pTkuLCU	2010-12-16 12:51:53	15388643875098625
+It's quite scary how large backlog of various stuff is made by being offline for just two days.	2010-12-16 12:28:54	15382861687296000
+RT @haerwu: http://thepcspy.com/read/my-n900-review/ - interesting review of #n900 after long use of #maemo	2010-12-13 19:21:37	14399561132937216
+Got round to register in Facebook for geeks (github) and discovered my nickname is already nicked.	2010-12-13 11:39:49	14283345328340993
+CyanogenMod 6.1 #mademesmile http://t.co/pTkuLCU	2010-12-13 11:36:37	14282540651126784
+Life's much better without Sense.	2010-12-13 09:41:35	14253589077696512
+This is what #mademesmile today http://twitpic.com/3ez1zr vodafone.co.uk/mademesmile	2010-12-11 15:29:06	13616271291580417
+Safety First. http://eatliver.com/img/2010/6487.jpg	2010-12-10 14:19:04	13236257593237504
+Let the wild fire begin... #mademesmile http://t.co/pTkuLCU	2010-12-10 13:09:39	13218789021720576
+HTC Desire Z (vs. Nokia N900) - the very first impressions: http://bit.ly/hj3zLZ	2010-12-10 00:26:40	13026777752403968
+Idea for browser killer feature: let input box spell checker work with different languages on per-domain basis. #chrome #firefox #ie	2010-12-09 23:17:26	13009352952647680
+OK, Desire Z is quite cool piece of hardware but it's unbelivelably unusable due to HTC Sense crap. En route to get bare Froyo asap.	2010-12-09 19:37:56	12954117039198208
+It's official. HTC Desire Z iz in da hauz. As well as N900, tough.	2010-12-09 14:41:02	12879397283430400
+After the second thought, Google Web Store makes quite a lot of sense, actually. This FAQ item explains a lot: http://bit.ly/hxUMen	2010-12-09 10:27:13	12815524924760064
+Browsing through Google Web Store and wondering how much these "apps" are different from regular bookmarks on my toolbar? Nice idea tough.	2010-12-09 00:01:43	12658112104243200
+Just got huge hangover from investigating pesky bug in a piece of code that smells worse than 100 dead skunks in the middle of junk yard.	2010-12-08 13:05:49	12493048680284161
+RT @haerwu: New post: Is this the end of Maemo5? http://bit.ly/e4Mgwr #android #maemo #n900 #nokia #qt	2010-12-07 18:42:56	12215498418683905
+RT @mwkn: Apps: Nokia discouraging Ovi developers from further #Maemo updates http://talk.maemo.org/showpost.php?p=890743&postcount=822  ...	2010-12-06 19:01:05	11857677302894592
+Timetable saying your bus is due at 8:00 in London really means "anytime between 7:45 and 8:15 or quite likely never".	2010-12-06 12:29:08	11759041042718721
+RT @ShervinAsgari: Command line Russian roulette:
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo *Click*	2010-12-06 12:26:55	11758481874886656
+So the decision has been made: I am not going to attend any Christmas party ever again. (this year)	2010-12-02 10:55:08	10285833135325184
+RT @haerwu: Nokia's MeeGo is doomed: http://t.co/9WLZBIg
+
+I can't agree more. #meego #nokia	2010-11-30 19:35:48	9692086123102208
+I am surprised about people who are surprised about snow in the very end of November.	2010-11-30 08:56:28	9531195293433856
+RT @codeinthehole: An important question about babies answered: http://answers.yahoo.com/question/index?qid=20100106211827AAktK1u	2010-11-29 14:28:10	9252281333579777
+"Outrageously fucking ridiculous" is the mildest way to describe eBay/PayPal fees scrapped from sellers.	2010-11-29 12:17:13	9219327924375552
+I don't quite understand why I didn't discover "Pin Tab" feature of Google Chrome way before.	2010-11-29 11:12:52	9203131774668800
+RT @g__j: Tfl: "to reduce overcrowding in Oxford circus station, we've closed the doors and overcrowded the street instead"	2010-11-26 19:52:45	8246803627507712
+Playing with froyo sparks a desire...	2010-11-19 10:02:17	5561490966839297
+http://www.ihatelondonunderground.com Do you?	2010-11-18 10:59:45	5213567263449088
+I'm trying out NetBeans 6.9 as a faster alternative to Eclipse PDT yet it does "Scanning projects..." on a single project for 20 minutes now	2010-11-16 12:42:25	4514627517947904
+If people could claim ticket refunds against London Buses services, TfL would go bankrupt within 48 hours. Tops.	2010-11-12 08:50:34	3006726584401920
+New Gmail theme called "Android" just made me feel approx. 4.27 times better about my life.	2010-11-11 13:17:27	2711502691766272
+RT @btsearch: Spory update bazy BTSearch: 1120 nowości ! Razem 31120 wpisów	2010-11-09 23:16:59	2137604258533376
+Is 4-months-old baby supposed to sleep through pretty much whole night and then let parents oversleep and make them late to work?	2010-11-09 09:02:24	1922543875260416
+Briefly tested #MeeGo 1.1 Handset UX on my N900 this morning. Looks quite promising but still has loooong way to go.	2010-11-04 12:02:25	29662112836
+PR1.3 iz (finally) in da hauz.	2010-11-03 17:44:55	29592074314
+RT @codeinthehole: Angry Birds as toys? http://bit.ly/cC1x8N	2010-10-29 21:05:52	29122698846
+Brief play with Windows Phone 7 brings only one word in mind. Well, two actually: quite impressive.	2010-10-28 14:35:56	28994738998
+Are UK variants of N900 supposed to wait for Maemo PR1.3 update extra month or so again? I still can't see anything in my App Manager...	2010-10-25 14:44:43	28697345549
+Nokia N900 software version 20.2010.36-2 (PR1.3) released http://t.co/QfUXgnK via @N900App	2010-10-25 10:45:21	28678761882
+Turns out that finding out something as simple as price of 1 kWh of electricity is mission impossible these days.	2010-10-23 20:50:05	28533220890
+Here's why Android made me cry recently (aka #Nokia please don't screw #MeeGo please). http://bit.ly/d5f8gk	2010-10-20 21:44:45	27966956329
+Oxford Circus Station is one big fucking disgrace.	2010-10-19 17:07:27	27851820669
+Two Big Macs taste *so* much better than just one.	2010-10-19 13:27:38	27832710398
+Nice read on why Linux is failing to become viable desktop alternative to Win and Mac. http://bit.ly/95g1wS	2010-10-18 20:52:28	27768330264
+Nokia, please don't screw up MeeGo/Harmattan/whatever, as Android is seriously pulling me into dark side recently...	2010-10-16 12:59:26	27538094815
+RT @anidel: I think many people are confusing Harmattan with MeeGo Handset UX. Harmatta = MeeGo core + Nokia's own Handset UX (multitouch)	2010-10-16 08:33:52	27524143601
+Temptation to get my primary SIM card out of N900 and put into Android-powered ZTE Blade is jumping up every minute I play with it...	2010-10-10 15:54:51	26948262933
+When you're after garden cleaning services in London, then www.homecleaninglondon.co.uk is *definitely* something to avoid.	2010-10-08 10:56:48	26737407777
+No wonder that #Orange wanted to hook up with #T-Mobile. Their coverage is approx. 178x worse than T-Mobile's, which isn't perfect anyway.	2010-10-06 07:59:34	26532406717
+Welcome back to Android fanbois family thanks to Orange San Francisco aka ZTE Blade.	2010-10-05 13:51:31	26458016201
+Moving home makes you realise the amount of stuff you have in house grows expotentially each year.	2010-10-02 09:26:51	26161024937
+Eclipse PDT's new version is a bit like perpetuum mobile - bunch of various bugs and little pains are fixed. Another bunch is introduced.	2010-09-29 15:10:34	25891327072
+Working with three project managers on a single project is like trying to speak Chinese, Japanese and Vietnamese at the very same time.	2010-09-29 09:45:07	25868595661
+This is just to say that @mytubewasLATE really works. Received refund voucher today after submitting form online at mytubewaslate.com	2010-09-27 20:36:41	25719031047
+Anyone who invented touch volume buttons in laptops should have tongue cut with paper at least 27 times as a punishment.	2010-09-26 12:28:13	25585635453
+3-months old infant is like a perfect morning buzzer, just constantly setting off 2 hours earlier than originally programmed.	2010-09-24 07:53:30	25384989902
+Just realized that fresh install of modern Linux distro brings by miles better "just works" experience than fresh install of Windows 7	2010-09-23 18:24:30	25330545332
+Time spent over phpMyAdmin rather than a code each day makes me think I'm more a database administrator rather than a web developer.	2010-09-20 16:15:54	25038522194
+RT @codeinthehole: Helpful road-sign: http://www.telekin.co.uk/images/b3ta/0008.jpg	2010-09-20 11:45:37	25017864544
+MeeGo is Nokia's last chance to make something right from ground up and make a real difference. @Nokia, please, don't screw this up...	2010-09-15 16:49:50	24586353894
+I love when project manager sends an "outstanding todo list" where 95% of tasks were done ages ago, but PM wasn't bothered to check them out	2010-09-15 10:56:34	24559567653
+#NokiaWorld day one. Nice phones released, yet nothing really groundbreaking, I reckon. Still waiting for MeeGo-powered device announcement.	2010-09-14 16:23:35	24489647204
+In light of this morning news I now only wait for Nokia N9-01 launch, powered by Windows Mobile 7	2010-09-10 08:20:39	24087602052
+RT @Texrat: Nokia CEO steps aside for former Microsoft exec: http://wp.me/pnJDw-B5	2010-09-10 07:41:24	24085947340
+Oh, bollocks. 1000th tweet with a typo. I guess that would make my prize claim invalid then.	2010-09-09 11:53:48	24002328504
+How to I claim a prize for posting a 1000th tweet?	2010-09-09 11:50:06	24002099070
+Trying to get a grip with Python programming somewhere between work, commute, baby feeds, sleepless nights and lack of self-motivation.	2010-09-09 11:41:10	24001552947
+Google's Search As You Type. Kinda amazing. http://www.google.com/webhp?sclient=psy	2010-09-08 16:32:14	23928944730
+Is your Apple Mac feeling slow? http://bit.ly/alF82L	2010-09-08 12:33:32	23909835914
+RT @Nokia_UK: Great news! The Nokia N8 is available to pre-order from the Nokia Online Shop-£429 SIM free or from £35 p/m on contract ht ...	2010-09-08 07:48:01	23895110694
+Pain in the head is pain in the ass.	2010-09-07 15:48:39	23248511440
+Looks like Nokia N8 has pretty good chance to land in user's hands around Xmas. (hint: think N900 "launch" last year) http://bit.ly/9cnqc1	2010-09-06 12:43:35	23141513109
+RT @codeinthehole: Best. Action. Scene. Ever: http://bit.ly/aHXyf9	2010-09-05 07:40:21	23041801805
+Since tablets are so trendy lately... here's a MeeGo-based device running full OpenOffice 3 without a sweat, yo! http://bit.ly/bKngcn	2010-09-03 15:56:56	22898988606
+Gmail Priority Inbox == Multiple Inboxes on steroids.	2010-09-03 11:49:25	22880188542
+Out of the sudden my Google Chrome got updated to version 6.0 which introduced font rendering that makes me feel like Windows 95 again.	2010-09-02 21:59:21	22833296453
+Since my desktop Twitter client doesn't exactly know what OAuth is, Twitter's web interface is being rediscovered as we speak.	2010-09-02 11:12:38	22789274796
+The end of the world for some people apparently came round today. http://j.mp/a9t22v (not for me tough)	2010-08-31 13:04:09	22614050034
+I wish I've had balls to say "a dildo" loudly whenever a post office clerk asks me what is in the package I'm about to post.	2010-08-31 08:51:31	22600015297
+Thinking of getting myself a Froyo device without actually buying or winning one. http://is.gd/eGye7	2010-08-27 11:30:38	22259137451
+Tube strikes are now apparently a part of regular train timetable. http://is.gd/eEIcT	2010-08-26 11:31:28	22169826149
+Finding Gmail's Tasks feature as a sensible and useful alternative for pen and paper for making quick todo notes.	2010-08-25 13:06:52	22086656416
+1m54s - a new record in time it takes #Xilo.net technical support to respond with meaningful ticket that consist of few sentences.	2010-08-17 16:15:18	21414957993
+Having my blog article linked by @quimgil makes me feels like a proper celebrity for one day.	2010-08-17 09:20:03	21389539958
+My life immediately stopped suck so so badly as soon as I regained access to my Facebook profile this morning.	2010-08-14 10:49:31	21141487953
+RT @codeinthehole: Impressive pencil micro-sculptures: http://bit.ly/a1dp0l	2010-08-13 20:49:54	21094413949
+OK, is it just me, or Friday 13th, or is there anyone else who cannot login to Facebook for *whole* day today "due to site maintenance"???	2010-08-13 20:48:46	21094347022
+RT @codeinthehole: Good article from Paul Graham: http://www.paulgraham.com/yahoo.html	2010-08-13 08:48:42	21048755572
+If you're struggling with correct time estimates for your software project, this might come handy: http://bit.ly/bJ148E (via @marek_matulka)	2010-08-12 09:10:51	20961090429
+Looks like managing contacts in Gmail finally makes some sort of sense.	2010-08-11 12:47:14	20882650258
+Eldar says: "This is a true picture of what you will see on Nokia N9" http://bit.ly/dDvvHb	2010-08-10 21:59:40	20829106194
+#T-Mobile mobile internet is a one great mistake this morning. I would probably be better off with 14400bps dial-up modem.	2010-08-10 09:07:25	20780703854
+Brilliant 404 page you'll love to see instead of the website itself. http://blippy.com/404 via @pete_miller	2010-08-04 11:54:10	20298689445
+Getting slightly excited about initial QtWRT release, so I could prep some apps with html/js/css for my N900. http://is.gd/e0bvP	2010-08-03 11:38:18	20215009435
+RT @N900_News: Leaked: Video of MeeGo OS running on a Mobile phone http://newsider.com/2gvp9 -- looks nice!	2010-08-02 20:43:45	20166347235
+Nokia N8 on pre-order in the UK. Price is slightly disappointing. http://is.gd/dSsGv	2010-07-30 08:09:05	19894196888
+Having an infant at home brings something new every day. Like oversleeping morning buzzer for the first time in a decade.	2010-07-23 07:48:11	19321953311
+From now on you can call me dawid@lorenz.co	2010-07-22 12:41:16	19251412957
+RT @outeredge: "Mommy, why is there a server in our house?" http://tinyurl.com/28zylks	2010-07-21 12:22:28	19072147368
+RT @codeinthehole: Going on holiday with a baby is basically just an opportunity to be exhausted in a new location	2010-07-19 20:56:23	18942911405
+After nearly 4 weeks of absence I nearly forgot how utterly hopeless Tube service is in afternoon rush hour.	2010-07-19 17:42:39	18932700828
+Wait, where did I put "Putting Infants To Sleep In Less Than 2 Hours At 3AM For Dummies" book?	2010-07-16 02:20:01	18650491090
+Catching up with feeds and stuff in-between heavy colic attacks.	2010-07-13 20:25:34	18463928183
+Home sweet home	2010-07-07 17:28:30	17965576488
+RT @xilonet: Last chance for our free activation/migration offer on Pro 16 broadband. Get your order in before 23:59 tomorrow to save £4 ...	2010-06-29 17:30:38	17350370568
+Holy shit, registering a Congestion Charge account is a real pain!	2010-06-28 10:05:23	17241008327
+On a positive side, as England is out Finchy will probably stop trolling about world cup. Thank God.	2010-06-27 15:47:45	17174889023
+I've just learned I can tweet via sms, which made my life completely fulfilled right away.	2010-06-25 23:16:40	17050517452
+RT @codeinthehole Good answers on a SO post: http://bit.ly/a1CDol - such as "The best coders are the ones who realize how terrible they are"	2010-06-25 12:14:37	17009137821
+Have you even been a victim of Criminal Overengineering? http://is.gd/d3s4C	2010-06-25 11:53:58	17008042222
+Putting antenna in the lower part of phone isn't anything particularly surprising or new, yet iPhone case seems to reinvent the wheel, again	2010-06-25 09:38:11	17002164157
+Come on England, Subversion can really be beaten today!	2010-06-23 14:33:51	16854086565
+I've made accidental phone damage insurance claim, sent it for repair and got it back today even more broken than before. WTF?!	2010-06-22 21:14:12	16799051215
+There should be new resolution status in software bugtracking systems: ROA = Resolved On Arrival	2010-06-17 13:37:28	16389316560
+RT @michalszczesny: How far will you go to get your iProduct? http://is.gd/cSFAn	2010-06-17 11:46:39	16381835666
+Very good reason to switch to mobile operator who seems to actually care about its coverage. @tmobileukhelp I am looking at you!	2010-06-17 11:35:49	16381284054
+RT @VodafoneUK: Let us know how your signal is today at vodafoneuksignal.com (watch the video here: http://bit.ly/signalmap )	2010-06-17 11:33:36	16381175632
+For fuck sake, how many more times these stupid scammers are going to ask me to change my fucking Facebook password?!?! Utterly annoying.	2010-06-15 16:51:06	16238264476
+It took me 3.5 hours to get from home to home this morning, thanks to Transport of London.	2010-06-14 11:12:04	16139345993
+Thanks to utter-rubbish Tube service this morning, I am enjoying travel by bus for the first time in this decade.	2010-06-14 09:43:59	16135731470
+Once Vodafone has found a limit for their unlimited data bundles, O2 finds it too. Eager to see T-Orange next. http://is.gd/cKgtf	2010-06-10 15:43:45	15858877841
+RT @TMobileOfficial: Fantastic news for T-Mobile customers! T-Mobile UK will launch #iPhone 4. Hold tight for launch timings, pricing (...)	2010-06-08 14:07:36	15708580630
+"Angelina Jolie invited you to join Facebook...". Scammers are getting really funny.	2010-06-08 13:11:39	15705109455
+Apparently the most vocal about iPhone 4 announcement are people who hate it most, which makes me think they are simply jealous.	2010-06-07 22:59:55	15662071221
+Lego printer. Brilliant! http://www.b3ta.com/links/Lego_printer (via @codeinthehole)	2010-06-02 10:18:31	15241975914
+#T-Mobile coverage along Piccadilly Line is basically useless, yet they won't let me participate in their new T-Orange network trial. Damn.	2010-06-01 18:50:23	15196570135
+NHS should be put into English dictionary as a synonym of word "wait".	2010-05-30 12:18:08	15037614833
+I only wish browsing the web on N900 was *that* fast and easy as on iPad...	2010-05-28 11:47:08	14900718188
+Tweeting from iPad. Not sure what is this device designed for but my bet is web browsing. Absolutely brilliant!	2010-05-28 11:45:04	14900623022
+Following much anticipated PR1.2 firmware release for N900, there is now much anticipated REOPENED status mayhem over at bugs.maemo.org.	2010-05-26 18:12:20	14779626313
+Hmmm... let's see whether I'll get a #NokiaFreeSatNav anytime soon.	2010-05-26 16:18:29	14773444602
+Accidentally found an excellent replacement for Gwibber as a desktop Twitter client. It's called Pino and is available in repo near you.	2010-05-26 10:50:21	14755300102
+Just in case you wondered how to break into the car, here's the quick tutorial video: http://is.gd/cozqZ	2010-05-25 13:21:31	14692261834
+Upgrade day today. N900's PR1.2 iz already in da hauz, Fedora 13 to be released later today.	2010-05-25 09:28:27	14682195266
+Important news in the shadow of much anticipated PR1.2 firmware release today - no official MeeGo upgrade for N900! http://is.gd/coiAG	2010-05-25 08:12:49	14679714958
+Just as one can't stand trainspotters, I can't bear with all those tourists carrying wardrobe-sized luggage in packed Piccadilly Line train.	2010-05-24 18:20:12	14639244930
+Exactly one month before the big day. Theoretically.	2010-05-24 13:43:13	14623812936
+I must admit that Nokia Ovi Maps as a free, yet complete satnav solution did pretty good job in my ~200 miles roundtrip today.	2010-05-23 22:12:24	14581860765
+Looking how "hand car wash" is done makes me cry, yet I'm too lazy to do it myself.	2010-05-22 12:58:23	14491880295
+En route to kick out all people who notoriously abuse hashtags and RTs in their tweets from my following list.	2010-05-21 18:01:58	14443925417
+Right. Australians are properly weird. I mean properly. http://is.gd/chzS6	2010-05-20 14:48:34	14365800612
+Going to Australia anytime soon? Better watch out for that nasty pics of your willy in your laptop! http://is.gd/chwBz	2010-05-20 14:02:05	14363026962
+Taking web applications into next level with Chrome Web Store. Interesting idea, actually. http://is.gd/cgIhc	2010-05-19 23:17:36	14322895038
+Embed non-standard fonts into your website using Google Font Directory. http://is.gd/cgFiT	2010-05-19 22:25:36	14320241798
+When I grow up, I'll become an expert in Python.	2010-05-19 13:31:29	14295365372
+My life suddenly got fulfilled once I figured how to post status updates to both Twitter and FB at the same time without ping.fm or Gwibber.	2010-05-19 12:03:31	14291000168
+New Google Calendar interface has kicked in. Like it.	2010-05-19 09:42:02	14285438988
+Each time I leave home earlier than usual in the morning, TfL decides to put random Piccadilly Line delays in place. Doh!	2010-05-19 08:55:19	14283842121
+Two unbeatable benefits of leaving office 1.5h late: 1) Oxford Circus Station is actually accessible; 2) I can have a seat in Tube.	2010-05-17 19:08:19	14178137146
+Saving N900 battery power with simple shell script. http://bit.ly/crcDFd	2010-05-12 22:22:41	13875423685
+So much of the third runway at Heathrow and additional runways at Gatwick and Stansted. Fu^H^H thank you, Mr Cameron! http://is.gd/c5WCA	2010-05-12 15:31:21	13857041226
+BT has responded and resolved my silly charge issue within an hour. Yes, really.	2010-05-12 10:44:52	13844009437
+BT decided to put extra £2.59 on my bill for NOT making any chargeable calls apparently. Sweet.	2010-05-12 09:30:47	13841558024
+Hmm, I didn't realize Wikipedia has PDF export ability.	2010-05-11 14:46:04	13792160919
+Surprisingly (and thankfully) tough, T-Mobile and Orange will continue to operate as separate brands.	2010-05-11 11:07:41	13782473418
+"Everything Everywhere" - the new official name for T-Orange UK. Apparently not a joke. http://bit.ly/a3cpTl	2010-05-11 11:01:25	13782240796
+Did I say I actually like Google's search result page new layout?	2010-05-11 10:14:34	13780644830
+Downgraded #Gwibber back to 1.2.0. Yet one of those examples where newer != better.	2010-05-07 21:46:47	13571265622
+Tories won, should I be worried?	2010-05-07 09:46:12	13539575343
+A woman consciously buying herself a soldering iron is pretty impressive, I must say.	2010-05-06 13:14:42	13486675913
+RT @MaciejSonik: Ilu wyborców anty-JK jest motywowanych pozytywnie (nabronka) a ilu negatywnie (niejarka)? http://bit.ly/b9iUdC - Głosuj	2010-05-04 10:56:12	13358691738
+RT @MaciejSonik: Głosujesz na Bronka czy nie głosujesz na Jarka? Zagłosuj już dzisiaj http://nabronka-niejarka.pl	2010-05-03 22:17:20	13329092652
+Upgraded #Gwibber to 2.30. Doesn't seem to read Facebook status updates and can't minimize it to tray. Meh.	2010-04-29 21:23:56	13090493784
+Two weeks with http://xilo.net as my home broadband provider can be summed up with two simple words: excellent support.	2010-04-29 12:53:24	13066851745
+I'm planning to hate my code, starting tomorrow. http://is.gd/bMTwj	2010-04-29 11:37:55	13063763079
+How am I supposed to start loving #Fennec when it's still perfectly capable to bring my #N900 to *complete* standstill for several minutes?	2010-04-28 08:03:50	12994684062
+New Nokia N8. Very impressive handset. Slightly less impressive OS. Totally not impressive timing. http://is.gd/bJCn9	2010-04-27 10:29:02	12937788049
+RT @MaciejSonik: Prezydentura zza grobu [...] http://bit.ly/9UvwHz	2010-04-24 09:53:55	12755351470
+RT @MaciejSonik: Prezydentura zza grobu - wypełnianie woli LK na podstawie opinii co by zrobił to makabryczne "uduchowienie" demokracji. ...	2010-04-24 09:51:54	12755297007
+Just discovered the #Firefox #Mobile for #N900 "performance" secret - never open more than 2 tabs at the same time.	2010-04-23 08:13:19	12690500010
+Since it takes about an hour to leave Oxford Circus Station nowadays, I'm considering walk as a primary mean of commute.	2010-04-20 08:55:38	12506055265
+Wow, the latest beta build of #Firefox #Mobile for N900 launches in less than 3 hours and now has responsiveness of horse rather than cow.	2010-04-19 08:55:02	12445951581
+If you're looking for a decent stereo/A2DP Bluetooth headset, then Nokia BH-503 is definitely worth recommending.	2010-04-15 11:13:26	12216870334
+RT @giorgiosironi: Definitive PHP security checklist http://dzone.com/qn14	2010-04-13 19:58:59	12121454431
+First class parcel from 3-miles-away "London-based" warehouse has been travelling 9 days. F*cking Hong Kong eBay twats.	2010-04-13 11:27:11	12098939070
+RT @N900_News: Expect some important news form Nokia later today	2010-04-12 11:01:19	12040251739
+Holy fuck. Looks like the President of Poland has just died in airplane crash.	2010-04-10 08:02:14	11927534817
+Firefox Mobile on my N900 has completely borked my bookmarks via Weave. Again.	2010-04-09 09:20:51	11872024814
+Tottenham Court Road never disappoints - still hugely overpriced and quite limited choice.	2010-04-08 12:48:45	11821565124
+Post office staff quickness and efficiency seems to be inverse proportional to the number of people waiting in the queue. Always.	2010-04-07 11:15:25	11750977640
+Got email reply from www.xilo.net support within 1 minute. Yes, one minute.	2010-04-07 09:45:15	11748316478
+Don't want to get ill? Look at people who are ill. Simples! http://is.gd/bhmvR	2010-04-06 17:00:15	11707965532
+5 meters long telephone cable at high street store is £5.99, while manufacturing costs probably don't exceed 5p. Capitalism, hell yeah.	2010-04-06 13:33:46	11698347369
+Hell yeah, finally! RT @MeeGoExperts: New twitter client for the Nokia N900 ... Called ... "Gwibber" http://bit.ly/yQwQg #Maemo #Meego	2010-04-02 23:25:32	11505660722
+Fire (and now flooding) at Central London's BT exchange causes large telecom disruptions. http://is.gd/b8fGb and http://is.gd/b8g4J	2010-03-31 14:05:53	11367902912
+Strange feeling to have watch on the wrist again, but at least my phone would stop feeling abused.	2010-03-31 10:42:42	11360356010
+Contemplating TweetGo.net - very nice web-based Twitter client aimed at mobile browsers.	2010-03-29 21:39:56	11271591191
+Wow, my house has been google-street-viewed.	2010-03-29 09:43:59	11241480063
+Seems like whole population of pregnant women in the UK came to shop at IKEA Wembley today.	2010-03-28 14:25:56	11196347185
+Just signed up for a BT line at home, now time to decide on home broadband provider. Thinking of www.xilo.net - other suggestions?	2010-03-27 18:04:13	11155271437
+♺ @Truphone: Your country needs you! Vote for where you'd like to call for free this Easter http://bit.ly/tru-easter (vote for Poland)	2010-03-24 12:50:44	10977338677
+The best protection against speed cameras ever: http://is.gd/aUc6w (hint: "tablice" is "number plates")	2010-03-23 12:10:46	10922090765
+Home sweet home'ish	2010-03-20 12:18:14	10770194411
+Home sweet home...	2010-03-02 21:00:05	9891019875
+Coming back from PHP UK Conference. Very well organised, good talks, quite refreshing and inspiring overall. #phpuk2010	2010-02-26 19:58:50	9693852751
+Virgin Media has finally laid fibre optic on my street. Any reasons why shouldn't I sign up to their 10Mb package for £20pm? Anyone?	2010-02-25 20:59:46	9643050686
+Funny. http://www.fucking-windows.com/	2010-02-25 15:21:07	9629810424
+IE6's funeral date set: 13th of March. Praise the Lord! http://is.gd/95mps	2010-02-24 15:55:31	9581231243
+"T-Mobile and Orange don't really compete with each other, and neither of them is a particularly competitive company". http://is.gd/8Wdak	2010-02-22 16:17:48	9482174677
+Scratch that. "Error occurred while building workspace", so I can carry on. Woohoo.	2010-02-19 12:50:00	9332965494
+Accidentally triggered "Build Workspace" action in Eclipse which makes me virtually unemployed for next couple of hours.	2010-02-19 12:48:28	9332918345
+RT @PushN900: Here's the official #PUSHN900 Showcase roundup: http://bit.ly/cegYSk - inc. poledancing robots, all five teams & robot DJs.	2010-02-17 12:01:37	9230794542
+My own, personal studies over last few days show that many UK-based motorists are incapable to comprehend meaning of ROAD CLOSED signs.	2010-02-17 08:44:18	9226216150
+RT @quimgil: Renaming "Maemo 6" to MeeGo / Harmattan  http://talk.maemo.org/showthread.php?p=529073	2010-02-16 10:36:09	9180129361
+Council pay&display car park at NHS hospital is more expensive than commercial car park at shopping centre. Sick.	2010-02-15 17:57:56	9149565490
+When I grow-up, I'll get myself a slice at www.slicehost.com	2010-02-13 23:25:06	9074379227
+Debugging VB is very similar to JavaScript, instead of alert("Hello"); you just do MsgBox "Hello". Simples!	2010-02-11 16:44:04	8968078534
+Before working with Visual Basic for Applications, think of it as an atonement for all your sins. Makes things easier to take.	2010-02-11 14:12:49	8962119503
+If you ever complained about Eclipse, try using MS Visual Basic editor within MS Office. Uber-user-unfriendly.	2010-02-11 13:28:20	8960559752
+Buzzing about Facebook chat via XMPP, which works pretty well so far.	2010-02-11 11:56:21	8957846568
+Apparently I am now full of Buzz.	2010-02-10 17:27:40	8910411999
+Paypal has apparently catched-up with XIX century, as withdrawing funds to bank account now takes 2-3 days, instead of 5-7 as before.	2010-02-09 00:25:31	8831890997
+Woohoo! My blog has been added to Planet Maemo main feed. :) http://is.gd/7X7ko	2010-02-08 17:51:22	8818085920
+Ping(.fm)!	2010-02-08 10:43:10	8804517874
+My Flickr photostream from #PUSHN900 event, featuring video of pole-dancing robots. http://bit.ly/bCv8Ty	2010-02-06 00:20:58	8700278072
+PUSH your imagination to the limit - my humble impressions from last night's Nokia event in London. Read on: http://bit.ly/clOO5G #PUSHN900	2010-02-06 00:19:20	8700219654
+Started loving Flickr.	2010-02-05 16:40:09	8684038611
+Coming back from #PUSHN900 event. Amazing how wacky things can be done with this little device! Seriously impressed.	2010-02-04 22:37:35	8650855392
+OK, time is high to get my ass down to @PUSHN900 event in London tonight. http://is.gd/7HzM6	2010-02-04 18:14:32	8642016340
+Anyone else out there with their Gmail labels borked suddenly (lost colours and grouping)???	2010-02-04 15:43:47	8636673951
+It took less than 10 minutes to complete installation of Ubuntu Server within VMware virtual machine. Impressive.	2010-02-03 15:29:13	8591577449
+Pondering use of Ubuntu Server Edition over Fedora for my tiny, in-house development server...	2010-02-03 14:33:02	8589523947
+Since killing off IE6 is such hot topic lately, how about killing off all IE versions altogether in one run?	2010-02-03 12:27:11	8585485327
+Slightly tired after half of the night sponsored by next-door neighbours having loud argue and sex orgy at the same time.	2010-02-01 09:50:50	8492855756
+Nokia Mobile Radar seems to be quite interesting technology arising. http://is.gd/7dJh5	2010-01-28 14:51:18	8325136628
+♺ @anidel: The scale of the Universe http://www.newgrounds.com/portal/view/525347 (fantastic!)	2010-01-28 13:13:51	8321860876
+The latest version of Firefox Mobile for Maemo that got released today doesn't disappoint like the new iPad. It's *still* ubearably slow.	2010-01-28 08:16:36	8315303331
+Augmented reality potential is endless. http://is.gd/79vJJ (via @codeinthehole)	2010-01-27 14:36:08	8281063178
+"Signup into maemo.org, put your arse at work, test apps, feed back on them, discuss, explore" - very well said @ http://is.gd/79ugL	2010-01-27 14:28:47	8280799560
+Seems like we'll have a new Linux distro around very soon, called Ubuntoo. http://is.gd/790vv	2010-01-27 11:57:55	8276266861
+♺ @anidel: N900 commercial at the Hammersmith & City Line tube station: http://share.ovi.com/media/anidel.n900/anidel.10207	2010-01-25 11:34:04	8188506079
+♺ @VodafoneUK: Just over a week since launch and @VodafoneUK has already sold its 100,000th iPhone! #100k	2010-01-22 14:25:29	8070851957
+Avatar 3D is truly impressive (aka fucking awesome), which can't be said about IMAX's seating comfort and toilets.	2010-01-22 00:50:03	8048994845
+Whenever you feel like your computer lacks enough RAM, fear not, as perfect solution is already there. http://is.gd/6JXiV	2010-01-21 14:57:31	8029674966
+♺ @anidel: Apple Rumored Tablet has been confirmed!!!!!  :p http://i.imgur.com/NTh8q.jpg #apple #tablet	2010-01-21 10:58:23	8023221125
+♺ @smashingmag: The greatest programming tip ever written [Pic] - http://bit.ly/n8Y4P	2010-01-20 17:31:25	7993087633
+Blast from the past: currently working with artifacts like super-nested &lt;table&gt; layout, &lt;font face=""&gt; or 1px spacer.gif. Doh!	2010-01-19 12:52:20	7944137907
+♺ @VodafoneUK: Vodafone Sure Signal now available from £50. Full details available here http://bit.ly/5964sn #vfss	2010-01-18 12:14:34	7901932420
+When Gmail is down, life sucks. But when your SVN repo is down, life sucks twice.	2010-01-18 12:09:08	7901810799
+2.2009.51-1.203.2 iz in da hauz.	2010-01-14 17:38:13	7755230731
+Post office in Central London - only 3 tills opened out of 9 in total. Feels like Poland.	2010-01-14 09:37:59	7742699824
+Did I mention how I really really *hate* GoDaddy's checkout process?	2010-01-12 18:28:22	7677839924
+[PL] BTSearch rozpoczyna karierę na froncie Web 2.0. http://twitter.com/btsearch i http://btsearch.blip.pl - zapraszamy :)	2010-01-12 00:24:01	7649214758
+1.2009.44-1.203.4 iz in da hauz.	2010-01-11 15:45:42	7633304738
+Woow, didn't realize there's a mobile version of Google Maps at http://www.google.com/maps/m - needless to say it works great on N900. :)	2010-01-08 22:53:36	7535616983
+♺ @smashingmag: How To Install Firebug on IE, Safari, Chrome & Opera - http://bit.ly/6fOo4	2010-01-08 10:05:32	7513883912
+Looks like interesting series of articles about Practical PHP Patterns is developing at Giorgio's blog. http://is.gd/5U3DR	2010-01-08 10:04:34	7513866188
+The real meaning of UK pedestrian crossings: green - go; red - go, but beware you can accidentally kill the bus.	2010-01-08 09:53:44	7513671091
+Wanna play divx/xvid movies on N900 with subtitles? No problem. http://bit.ly/5hyHAQ	2010-01-07 23:49:26	7497124520
+According to one bright CS representative, T-Mobile UK doesn't have HSPA coverage in the middle of London, the capital of the UK, that is.	2010-01-06 12:55:53	7439709977
+Goddammit, why oh why majority of customer services are so useless nowadays?	2010-01-06 12:51:55	7439618409
+♺ @VodafoneUK: Google's Nexus One will be coming to Vodafone UK soon. All of current info available at: http:www.google.com/phone	2010-01-05 22:55:45	7418547059
+Oxford-fucking-Circus station seems to be always closed when I'm in the most rush.	2010-01-05 18:42:11	7411366175
+Turn your N900's default browser address bar into awesome bar: http://is.gd/5MdaW (proof of concept) Let me know if you find it useful. Thx.	2010-01-04 21:09:09	7379020523
+Receiving an email from TheReg's Bill Ray probably has the same effect as taking a photo of Air Force One by plane spotter at EPZG.	2010-01-04 16:06:19	7370958708
+A horror story of true lies behind Vodafone UK customer service putting customers off leaving them. Read on: http://bit.ly/7o7v4Q #vodafone	2010-01-03 01:00:10	7315690467
