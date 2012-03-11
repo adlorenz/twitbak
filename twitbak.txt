@@ -1033,3 +1033,384 @@ Oxford-fucking-Circus station seems to be always closed when I'm in the most rus
 Turn your N900's default browser address bar into awesome bar: http://is.gd/5MdaW (proof of concept) Let me know if you find it useful. Thx.	2010-01-04 21:09:09	7379020523
 Receiving an email from TheReg's Bill Ray probably has the same effect as taking a photo of Air Force One by plane spotter at EPZG.	2010-01-04 16:06:19	7370958708
 A horror story of true lies behind Vodafone UK customer service putting customers off leaving them. Read on: http://bit.ly/7o7v4Q #vodafone	2010-01-03 01:00:10	7315690467
+Did I mention how I really really *hate* GoDaddy's checkout process?	2010-01-12 18:28:22	7677839924
+[PL] BTSearch rozpoczyna karierę na froncie Web 2.0. http://twitter.com/btsearch i http://btsearch.blip.pl - zapraszamy :)	2010-01-12 00:24:01	7649214758
+1.2009.44-1.203.4 iz in da hauz.	2010-01-11 15:45:42	7633304738
+Woow, didn't realize there's a mobile version of Google Maps at http://www.google.com/maps/m - needless to say it works great on N900. :)	2010-01-08 22:53:36	7535616983
+♺ @smashingmag: How To Install Firebug on IE, Safari, Chrome & Opera - http://bit.ly/6fOo4	2010-01-08 10:05:32	7513883912
+Looks like interesting series of articles about Practical PHP Patterns is developing at Giorgio's blog. http://is.gd/5U3DR	2010-01-08 10:04:34	7513866188
+The real meaning of UK pedestrian crossings: green - go; red - go, but beware you can accidentally kill the bus.	2010-01-08 09:53:44	7513671091
+Wanna play divx/xvid movies on N900 with subtitles? No problem. http://bit.ly/5hyHAQ	2010-01-07 23:49:26	7497124520
+According to one bright CS representative, T-Mobile UK doesn't have HSPA coverage in the middle of London, the capital of the UK, that is.	2010-01-06 12:55:53	7439709977
+Goddammit, why oh why majority of customer services are so useless nowadays?	2010-01-06 12:51:55	7439618409
+♺ @VodafoneUK: Google's Nexus One will be coming to Vodafone UK soon. All of current info available at: http:www.google.com/phone	2010-01-05 22:55:45	7418547059
+Oxford-fucking-Circus station seems to be always closed when I'm in the most rush.	2010-01-05 18:42:11	7411366175
+Turn your N900's default browser address bar into awesome bar: http://is.gd/5MdaW (proof of concept) Let me know if you find it useful. Thx.	2010-01-04 21:09:09	7379020523
+Receiving an email from TheReg's Bill Ray probably has the same effect as taking a photo of Air Force One by plane spotter at EPZG.	2010-01-04 16:06:19	7370958708
+A horror story of true lies behind Vodafone UK customer service putting customers off leaving them. Read on: http://bit.ly/7o7v4Q #vodafone	2010-01-03 01:00:10	7315690467
+From now on, my default divx player is Nokia N900 with TV-out cable.	2010-01-02 23:22:22	7313140445
+OMG, creating search plugins for Firefox is soooo easy!	2010-01-02 04:52:21	7290318059
+Looking for a good and *simple* alternative for godaddy.com for domains like com, org, co.uk, info and mobi. Suggestions?	2010-01-01 14:31:03	7270196562
+New year, new Firefox Mobile for Maemo, yet still painfully slow. :(	2010-01-01 12:20:09	7268058483
+As a Pole I'm in 2010, as an UK resident I'm still in 2009. Hm, feels like time machine.	2009-12-31 23:20:34	7251175983
+Nokia N900 connected in PC Suite mode to Linux host acts as regular GPRS/3G modem and allows mobile broadband connections out-of-the-box.	2009-12-31 12:50:30	7232766661
+My New Year resolution is to not make any New Year resolutions.	2009-12-29 10:00:07	7155316827
+Missing native Google Maps app in Maemo5? Install maemo-geolocation package from dev repo and then click on a dot at http://maps.google.com	2009-12-28 18:57:37	7131247244
+One of the gateway routers at my ISP apparently had too much over xmas, hence no internet connection since early morning. http://is.gd/5Ec2h	2009-12-28 12:18:22	7121151533
+Just had five minute hands-on with HTC HD2. I admit, it is impressive and WM interface is barely visible.	2009-12-27 18:58:44	7097347102
+Polish-friendly hardware keyboard layout hack for N900 released. http://bit.ly/5CYXMn	2009-12-26 04:06:50	7051607188
+Right, getting head around xkb configuration is a bit like rocket science, but I've got Polish chars working on the keyboard of my N900. Yay	2009-12-26 03:07:49	7050202651
+I don't get the hype around Fennec (aka Firefox Mobile). It's still unbearably slow and unresponsive, even on rather powerful N900.	2009-12-25 21:04:30	7041958742
+Almost no traffic on M4 and crowd-less Oxford Circus station at 9:30 put me into proper Christmas mood. Smacznej choinki everyone!	2009-12-24 09:48:39	6995448563
+♺ @VodafoneUK: iPhone 3G available for free on Vodafone £35 post paid plan from 14 January: http://bit.ly/4VbsKQ	2009-12-21 10:24:50	6889760880
+If you fancy to know how it is to pass just seven stations in about 50 minutes of Tube travel, then speak to me.	2009-12-21 10:22:57	6889732198
+Low temperature outside + induction kit under the hood = excellent driving experience.	2009-12-19 20:45:21	6839110974
+Despite of about 2 cm of snow outside, there is a good service operating on nearly all London Underground lines. That's odd.	2009-12-18 08:16:52	6790422489
+Zend Framework needs YOU! http://is.gd/5rbbh	2009-12-17 13:00:42	6763075703
+Life without N900. Sucks.	2009-12-16 17:44:35	6736768829
+Just been to ModelZone shop at Holborn and suddenly all my childhood dreams came true. http://www.modelzone.co.uk	2009-12-16 14:07:07	6730884478
+Resurrected my delicious.com account, which turned out to have pretty nice mobile access site, which is exactly what I am looking for.	2009-12-16 12:04:40	6728148756
+Polish #N900 users, please vote this bug immediately: http://is.gd/5ovdB - in fact, non-Polish non-users can vote too. Register is free. :)	2009-12-15 13:49:52	6696290437
+Look Ma, The One And Only Hardcore Mobile Operating System apparently has some basic problems too! http://is.gd/5onMj	2009-12-15 11:30:56	6693383630
+Having got used to slightly weird layout, I can now tell that overall feeling of N900's hardware keyboard is simply phenomenal.	2009-12-14 21:08:11	6673357286
+♺ @VodafoneUK: Nokia N900 coming soon to Vodafone UK: http://bit.ly/6OHtrt #n900	2009-12-14 21:07:08	6673330142
+PHP technologies' grades, interesting. http://is.gd/5nagj	2009-12-14 16:14:47	6665688734
+Good morning all #N900 users. I'd like to share useful keyboard shortcut with you today: Ctrl-Backspace. Enjoy and get back to work.	2009-12-14 10:42:31	6658295583
+Pixelpipe upload test http://pi.pe/88dekm	2009-12-13 02:20:56	6616725461
+My first not-too-detailed Nokia N900 and Maemo impressions. http://bit.ly/5iNQSy	2009-12-12 21:38:41	6610043509
+Very good post on Maemo 5 UI. Reads my mind. http://is.gd/5k4di	2009-12-11 21:05:32	6578720437
+Right, turns out Vodafone UK customer service dept is just bunch of blunt liars when it comes to porting number to different network.	2009-12-11 19:21:32	6576029569
+Sometimes a true happiness is only 5.5cm long...	2009-12-11 14:37:36	6568011741
+Putting random reboots issue aside, after couple of days with Nokia N900 I can tell it's pretty amazing. More on this soon, so stay tuned.	2009-12-10 11:18:21	6528490818
+Wordpress surely looks shiny outside, but trying to solve a problem from inside feels like trying to eat a big fat poo with smile on face.	2009-12-09 15:35:59	6499400469
+Another nice bonus - N900 just rebooted by itself ;)	2009-12-08 20:50:33	6474513877
+First N900 switch-on: wooow! And microphone works ok, which is nice bonus.	2009-12-08 20:42:34	6474334363
+After 0.1342 years of waiting my Nokia N900 has landed (at home, that is).	2009-12-08 10:47:26	6460445281
+Since HTC was kind enough to leak their 2010 line-up out to the wild, I reckon HTC Salsa is going to replace my E71. http://is.gd/5eZqJ	2009-12-07 14:45:58	6432228083
+Looks like there is a hope for Nokia and Symbian. Wondering when WM will catch-up? http://is.gd/5b5xw	2009-12-03 13:21:50	6302917814
+I would probably enjoy sunbathing naked in North Pole more than today's weather in London.	2009-11-30 08:49:32	6196546981
+Most of new Fedora 12 bugs turned out to be features (aka "improvements").	2009-11-29 19:25:48	6177352619
+Fiddling with feedly.	2009-11-27 22:57:59	6125155248
+Getting back friends together with Firefox as default browser. Chrome's speed rocks, but lack of add-ons sucks.	2009-11-26 23:34:54	6095996683
+Just spotted prototype car on the street for the first time in life. It was Saab and looked roughly like this: http://is.gd/52sje	2009-11-24 09:40:59	6003923975
+I keep making same mistake by typing $reponse instead of $response all the time. Psychological explanation, anyone?	2009-11-20 16:23:39	5893343106
+Got back from N900 meetup. Here's what I think: http://bit.ly/3SA6Zl	2009-11-18 00:04:02	5810998575
+Heading off to N900 meetup with strong intention to find out whether I'll get my shiny toy in time for Easter 2010.	2009-11-17 18:35:42	5802686160
+Interesting article about Dojo written by jQuery developer. http://is.gd/4W8cF	2009-11-16 10:20:14	5761786867
+Chromium beta (aka Google Chrome) for Linux: yes, it's buggy; yes, it lacks add-ons, but is HYPERfast! Launching Firefox makes me cry now...	2009-11-13 10:07:02	5676043791
+RT @Dropbox: Vote on Dropbox's next hot feature with Votebox!  http://dropbox.com/votebox	2009-11-13 10:01:22	5675968211
+Love spending ~hour to hunt down a bug which turns out to be a feature at the end...	2009-11-12 13:21:28	5648653983
+Just received an invitation to N900 Meetup. Yay! http://is.gd/4RMU1	2009-11-10 14:59:38	5590388786
+Call me daddy. Literally.	2009-11-07 16:16:41	5509042474
+5-minute hands-on with N900 in Nokia Flagship Store - a bit bulky, yet smaller than anticipated and still truly impressive. Can't wait!	2009-11-05 14:44:25	5450803323
+Just discovered that Chromium's address bar can act just as Ubiquity in Firefox. Yet another step towards making Chromium a default browser.	2009-11-04 12:21:24	5418688863
+Just paid a parking ticket that I don't feel was fair, but what are my chances of winning a fight against council anyway??? F*ck. :(	2009-10-31 04:00:09	5306563793
+World continents are moving quicker than Eclipse PDT opening up a project and refreshing workspace.	2009-10-27 12:55:16	5199604650
+Desperately looking to buy some patience in bulk. http://bit.ly/32p9CZ	2009-10-22 10:27:12	5066214348
+OK, now only waiting for N900 to appear in stock :)	2009-10-21 09:05:51	5040205463
+[ad] Unlocked, white HTC Magic up for sale, £175 / 800 PLN [/ad]	2009-10-20 10:37:22	5015886203
+Back to the country where I can throw toliet paper down into the toilet without guilty conscience.	2009-10-18 09:31:21	4963783158
+Apparently, European national ID cards are accepted everywhere in the EU, only not in UK's Post Office branches. F*cking annoying!!!	2009-10-01 09:06:27	4520782500
+RT @VodafoneUK: Whoop whoop! The iPhone 3G and the iPhone 3GS will be available on VodafoneUK in early 2010.  http://bit.ly/yfxJJ	2009-09-29 09:34:42	4466535366
+Something for @harald_b about the One And Only Real Hard-Core Mobile Operating System. http://bit.ly/4oX3W7 (Polish)	2009-09-28 10:06:08	4439451729
+RT @smashingmag: jQuery Visual Cheat Sheet - http://bit.ly/YGfvL #jquery	2009-09-25 13:08:51	4367769821
+Life sucks instantly when Gmail goes down.	2009-09-24 15:01:02	4343443703
+Palm Pre finally landing in the UK next month. Only on O2. Obviously. http://bit.ly/11WLOR	2009-09-24 09:46:33	4338427074
+If you ever wondered how it's like talking to the robot, then contacting PayPal customer support is definitely the way to go.	2009-09-23 16:01:14	4318436900
+Chromium is absolutely fantastic browser, yet still Firefox add-ons are winning the game.	2009-09-22 12:11:25	4170529502
+Zend Framework 1.10 will introduce a package for easy (de)compression. Nice. http://bit.ly/YJ14H	2009-09-22 09:07:35	4168473006
+Free Nokia N900 on contract starting from £30 p/m at T-Mobile or Vodafone. £393 on pay-as-you-go, £450 sim-free. http://bit.ly/38ywgA	2009-09-19 02:15:58	4093863620
+Could a bug being effect of cut'n'paste programming be classified as a 'typo'?	2009-09-18 16:11:55	4081831336
+Is this the beginning of the end of analogue newspapers? http://bit.ly/1k9PxV	2009-09-15 12:07:39	4003117456
+Huge code smell today. Please wear oxygen masks for your safety.	2009-09-15 11:40:01	4002770506
+If you ever thought of Model as a simple database access layer of your application, then read this: http://bit.ly/130tZ1	2009-09-15 09:23:12	4001360160
+An online book about Zend Framework. It's free and looks promising. http://bit.ly/1QZ6YE	2009-09-14 13:33:52	3979964891
+RT @zfChannel Self-Contained Reusable Zend Framework Modules With Standardised Configurators http://phpc.in/hxjc4r	2009-09-14 12:26:55	3978965872
+Google Calendar is down. Now what am I supposed to do today?	2009-09-14 10:33:29	3977668473
+Is recent increase of roaming charges by T-Mobile a good way of cancelling a contract? http://bit.ly/npW5k	2009-09-12 14:04:58	3934015353
+T-Mobile UK has launched community forums with strong censorship features (try to paste link or type 'Vodafone'). http://bit.ly/2QOLbw	2009-09-11 21:39:11	3920284800
+Look Ma, 9/11 today. A third anniversary of me working in Tangent Labs.	2009-09-11 11:43:40	3909425237
+Send in your postcards with suggestions what's the best use case for external 22-inch LCD screen for my work laptop.	2009-09-09 16:32:59	3866375869
+Further predictions on OraBile merger in the UK: http://bit.ly/gYkhv	2009-09-09 09:15:15	3860019255
+Magic date of 09/09/09 09:09:09 has passed and world still exists. How come?	2009-09-09 09:03:34	3859913618
+T-Mobile: time to start some serious earning on roaming charges after another rate slash in Euro zone. http://is.gd/32Ncv	2009-09-08 19:24:22	3846451858
+How T-Orange is going to work over the next couple of years - The Register's Bill Ray explains: http://bit.ly/2FxZmh	2009-09-08 11:10:48	3838199330
+I have officially became half-orange today. Yikes! :( Is it a good time to consider getting red (or blue, perhaps)? http://bit.ly/2vm24w	2009-09-08 08:57:50	3836904846
+Autocomplete features (including HTML+CSS+JS support!) in NetBeans 6.7.1 are tempting me to make a total switch from Eclipse PDT.	2009-09-04 16:54:35	3760522969
+Never underestimate a power of parent::__construct(); Lesson taken.	2009-09-03 19:51:32	3740595397
+N900 pre-order price directly from Nokia is £499 (inc. VAT). http://bit.ly/fAYWN	2009-09-03 13:34:18	3733505881
+Nokia N900 now on pre-order in the UK. 'Just' £488 :( http://bit.ly/3OTNqS	2009-09-03 13:27:54	3733398202
+RT @TMobileOfficial: A third Android device just announced by T-Mobile UK. T-Mobile Pulse: http://twitpic.com/gamal	2009-09-03 09:20:39	3730505845
+Just called a customer service line and got through to real person straight away, without pushing any button. Unbelievable!	2009-09-03 08:55:02	3730262780
+After nearly 3 weeks Nokia Ovi Store has finally provided me a download link for the application I've paid for (and apologies). Well done!	2009-09-02 09:27:04	3708320102
+Side-effect of bank holiday weekend is thinking it's Monday today.	2009-09-01 10:07:35	3685662486
+Discovering xfce.	2009-08-28 21:38:56	3611951960
+Pretty fascinating story that tells the way to go for PHP developers. http://bit.ly/Y25wK	2009-08-28 20:51:04	3611045420
+Discovered scp as much easier version of rsync.	2009-08-28 16:00:29	3605244029
+Fancy a rip-off? Go to Nokia Ovi Store. http://bit.ly/bPqHe	2009-08-28 08:51:25	3599218197
+Anyone struggling to buy me a perfect present on halloween/xmas/whatever? Nokia N900 is just fine. http://maemo.nokia.com/n900/	2009-08-27 13:21:26	3578883154
+Chromium (aka Google Chrome) for Linux is getting better and better (and it's ~3512^3 times faster than FF 3.5). http://is.gd/2st7v	2009-08-21 22:32:47	3459994180
+Anyone fancy giving me extra 250MB in Dropbox? Use this link: https://www.getdropbox.com/referrals/NTE3NzcwNDg5 (yes, that was cheeky)	2009-08-21 11:50:15	3448191991
+Anyone fancy a £200 Porsche? http://bit.ly/BsDBa	2009-08-20 17:12:24	3431011142
+Hands up who likes computer freezing completely, forcing brute reboot.	2009-08-19 13:14:10	3404636997
+I wonder how long would it take Nokia to resolve £1.50 ripped off me on Nokia Ovi Store... 5th day today so far, still waiting.	2009-08-19 08:51:54	3401948460
+We all love screenshots sent through as Word document with image pasted in, don't we? :)	2009-08-18 08:52:05	3379470325
+Re-discovering LinkedIn	2009-08-15 01:11:16	3319719122
+Ever considered to sign up for T-Mobile UK's Instant Email service? Don't bother. http://bit.ly/Cjtv9	2009-08-13 20:59:58	3293778704
+The Magic of Nokia E71: http://bit.ly/16yuep	2009-08-12 20:16:03	3272062078
+California Dreaming by Mamas & Papas has made me goose bumps.	2009-08-12 16:12:30	3267680301
+Create your first iPhone app in 11 easy steps: http://bit.ly/4rZXzT - simples!	2009-08-11 12:41:00	3244580459
+Just got back from Apple Store. iPhone is indeed quite impressive.	2009-08-10 12:17:48	3224012708
+My Android experiment came to the end: http://bit.ly/1VMf5S	2009-08-09 20:01:49	3212567612
+Harrods - like Tesco for 'humble' people from Dubai and like museum for all the rest. Humiliating.	2009-08-08 20:16:45	3197209986
+OK, Google Sky Map application for Android is seriously cool. Seriously.	2009-08-07 22:28:10	3184523719
+Speaking of last.fm, really good Linux client is called... last.fm :)	2009-08-07 10:45:25	3176337558
+Anyone fancy borrowing me an iPhone for a week?	2009-08-07 10:18:44	3176184405
+OMG, everyone has an iPhone nowadays, iWantOneToo!	2009-08-06 22:04:29	3169886443
+The natural consequence of tonight's anti-social behaviour tackling is lack of the next instalment of my Android & me experiment. Do any ...	2009-08-06 20:34:52	3168931780
+I have been tackling the anti-social behaviour quite nicely, I suppose	2009-08-06 20:18:40	3168746988
+Android & me saga continues: http://bit.ly/eMAVU	2009-08-05 20:30:58	3152310400
+Turns out last.fm is quite accurate in guessing my music taste.	2009-08-05 10:39:28	3143246499
+Yet another day with HTC Magic: http://bit.ly/fxtW5	2009-08-04 20:03:36	3130717947
+Android & me experiment - part one: http://bit.ly/36Bj9l	2009-08-03 20:21:10	3110620378
+Android & me experiment - part zero: http://bit.ly/BVWe3	2009-08-03 20:20:35	3110611063
+Android & me experiment: a week with HTC Magic as a default phone	2009-08-02 11:43:48	3085487321
+Took me a while to bootstrap an idea behind Zend_Application_Bootstrap. Now time to bootstrap some sleep.	2009-08-01 04:10:08	3064801178
+Rediscovering last.fm	2009-08-01 02:00:49	3062854445
+Customer Service 2.0 experience cont'd: "Someone will call you back within 2 hrs to confim the appointment"... 25hrs passed and counting.	2009-07-31 11:56:36	2949784419
+GBP up, CHF down. Oh yes baby, please don't stop!	2009-07-30 16:14:53	2932660627
+It took over 11 minutes over the line to book a simple appointment in my nearest branch of Barclays. Pure Customer Service 2.0 experience.	2009-07-30 11:25:16	2928501686
+Just created my first, highly sophisticated Android application called "Hello Android". Betatesters wanted NOW!	2009-07-29 20:30:45	2916308366
+History of Poland explained: http://bit.ly/lT1eg	2009-07-27 19:43:52	2876059860
+Feeling a bit like Sherlock Holmes today.	2009-07-24 11:04:37	2816653697
+Absolutely hilarious: http://is.gd/1K7rR	2009-07-24 09:29:00	2815845385
+Blackberries at Faggs Road are sweet already (although with a slight hint of Diesel and carbon dioxide).	2009-07-23 18:31:21	2802975495
+The latest version of Google Maps Mobile application is actually quite impressive!	2009-07-23 18:12:20	2802654076
+What is the point of creating Content Management Systems if clients are still requesting things that they can easily do through that CMS?	2009-07-21 09:07:08	2755181821
+OK, let's make it official: http://blog.adl.pl	2009-07-21 07:12:49	2754207911
+Trying to get friends with Skyfire again, but I don't think it will work out.	2009-07-20 18:34:41	2743098798
+Typos like $discuntFactor are always quite hilarious.	2009-07-20 14:23:22	2739215145
+Just discovered that HTC Hero's / Android Twitter client is actually much more sophisticated than it seems.	2009-07-18 00:11:48	2698062605
+Just started regarding rsync as one of the best IT-industry inventions ever.	2009-07-17 16:49:16	2691237280
+While being in Poland, weather there was so-so, but UK was uber-hot. Now I'm back in the UK, weather is so-so, but Poland uber-hot. Typical.	2009-07-17 12:31:39	2687417844
+Just became a huge fan of Droid font family, coming straight from Google's Android OS. Looks simply perfect.	2009-07-16 10:49:45	2667818602
+Eclipse PDT upgrade from 2.0 to 2.1 was one of the most seamless in my whole PHP career.	2009-07-16 10:16:10	2667563574
+Just started enjoying HTC Sense UI on my HTC Magic. Looks great!	2009-07-15 19:36:26	2656442832
+Feeling temptation to kill a baby kitten...	2009-07-15 14:43:04	2651833128
+Massively regret that Google Notebook is no longer developed...	2009-07-15 13:06:42	2650534025
+Now, let's see if Gwibber is really posting to Twitter and Facebook simultaneously...	2009-07-15 09:20:08	2648532840
+Twitgit Lite, really nice Twitter widget for Android.	2009-07-15 08:02:53	2647920627
+'Home' sweet 'home'...	2009-07-11 16:36:14	2585577307
+Leaving Poland in less than 12 hours and feeling gutted already...	2009-07-10 12:24:28	2567202712
+There are few oddities here in Poland, such as waiting for a green man on pedestrian crossings, instead of just walking when it's clear.	2009-06-30 20:03:11	2408791700
+Home sweet home...	2009-06-25 20:18:24	2331519644
+1 day  1 hour  12 minutes  53 seconds to the beginning of holiday.	2009-06-24 10:47:28	2308835627
+Having a separate display filled with bunch of b&w terminals with various weird characters floating around makes me feel very important.	2009-06-23 13:24:34	2294338660
+Joined the Guys With Two Screens club. Now my head needs some readjusting for the new set-up.	2009-06-19 13:08:38	2237647876
+I forgot that I've set up a striking-red label called 'Alzheimer' in my Gmail to not forget things.	2009-06-19 09:05:27	2235794109
+So, what's the life beyond Amy...?	2009-06-18 13:37:17	2222185381
+An important lesson came along with today's post: never cut short on bus lanes. Never. CCTV is everywhere. £60 less.	2009-06-16 20:28:23	2197199227
+True Londoner Doubts: who suffers most? A single person under the train in Finsbury Park or thousands of stranded Piccadilly Line commuters?	2009-06-16 18:38:13	2195812137
+Use Gmail as default mailto: handler: http://is.gd/13rlS Simply brilliant!	2009-06-16 13:31:02	2192105809
+Started following my Polish friends on Twitter, which leads to the serious existential question: to Polish or not to Polish?	2009-06-15 13:46:39	2177833392
+Just looked through the booklet called 'Mail made easy' issued by Royal Mail. Is 44 pages enough to cover 'easy' snail mailing nowadays?	2009-06-12 15:17:26	2132343011
+Refactoring is fun. The ultimate opportunity to make things right.	2009-06-11 16:04:54	2118515699
+If you're reading this tweet, it means Fedora 11 installation on my machine went smoothly.	2009-06-10 22:12:02	2109104874
+Rat race in progress. Grand prize is peaceful evening at home. Fortunately I've bought seating tickets this time.	2009-06-09 17:38:53	2092099609
+I've managed to call my local council, speak to real person and resolve my query within a single phonecall. Feels like winning the lottery.	2009-06-09 09:20:44	2087696931
+Councils - a bunch of inconsiderate, close-minded freaks. Building pride borough wide, oh yes...	2009-06-08 16:24:34	2077779087
+I have Nokia N810 Internet Tablet for sale. Anyone interested?	2009-06-03 18:03:10	2019132912
+Waiting for all ones and zeros to arrive down from Oz is really annoying.	2009-06-03 12:57:55	2015996501
+Amazing how long executing SQL queries could stress people out.	2009-06-03 11:36:42	2015418485
+Turns out you can't really execute any useful SQL statements against a table that doesn't exist.	2009-06-02 15:33:33	2004668925
+The amount of paperwork required for Polish equivalent of Inland Revenue for simple home address update is utterly horrendous.	2009-06-01 21:13:57	1995906638
+Good news of the day: GBP up, CHF down. Way to go!	2009-06-01 11:24:38	1990275424
+Celebrating awfully nice weather by wearing short sleeve shirt to work for a first time this year. June 1st, mark this date, man!	2009-06-01 08:38:18	1989463946
+The secret of Internet Explorer existence has been officially revealed: http://is.gd/LfNN	2009-06-01 07:02:14	1989004315
+What a hectic weekend that was - definitely not because of the weather.	2009-06-01 06:57:22	1988977072
+Oh no! We will need to redefine meaning of 'beta' again! http://is.gd/Ia4q	2009-05-28 13:57:28	1947333286
+Quite impressed with Chrome for Linux. Biting my nails while waiting for a final 'beta' edition!	2009-05-28 11:10:30	1946091444
+Seriously annoyed by quality of customer service nowadays. I mean SERIOUSLY.	2009-05-28 09:10:03	1945480112
+Feeling slightly retarded at times.	2009-05-26 11:40:35	1922636471
+Finally a perfect summertime weather has hit London. Enough of that horrible Sun!	2009-05-26 08:04:30	1921581258
+Where do I apply for another bank holiday weekend?	2009-05-25 23:14:10	1917462740
+Slumdog Millionare. Really worth the prizes.	2009-05-24 23:52:36	1907216329
+This tweet is powered by a green, little robot.	2009-05-22 19:40:15	1885974092
+Tada, looks like me: http://twitpic.com/5fkbv :)	2009-05-18 16:30:24	1837309271
+Ladies and gents, today's lesson is: never give up! Will have exciting evening with new HTC Magic thanks to @VodafoneUK :)	2009-05-18 16:10:03	1837115947
+Average speed cameras along western stretch of M25 are apparently being rolled out. Could it get worse???	2009-05-17 10:45:32	1824970034
+Undo Send seriously rocks.	2009-05-15 22:58:49	1811170987
+Finishing sentences with semicolon instead of dot clearly mean it's time to have a holiday break.	2009-05-13 13:16:16	1784147020
+I am more and more convinced that the most dramatic events in the world are caused by typos in the code.	2009-05-13 09:20:03	1782863091
+Started thinking of switching back to old school dial-up connection as miles faster alternative for my current 'broadband'.	2009-05-08 16:13:15	1738837493
+Very disturbing Friday already, and now even Gmail is down. Feels like my arm got chopped off. Both, actually.	2009-05-08 10:19:07	1736319629
+Here's the news: T-Mobile UK might be eaten by someone else... http://is.gd/vT6y	2009-05-01 15:56:08	1670211016
+Just spoiled a whole fun of watching Dexter 2 on TV, by reading the synopsis of Dexter In The Dark book as part of work-related activity.	2009-04-30 13:26:15	1658768301
+Being addicted to bios package so heavily, that I FTP virtually every file into it by mistake.	2009-04-30 10:31:24	1657810072
+Yet another example of using Twitter as a marketing tool: http://twitter.com/VodafoneUK	2009-04-30 08:40:52	1657434349
+Maybe weekend is gone, but at least weather is back on track.	2009-04-27 12:14:56	1628326920
+What's the best place to buy a gasket for memory leak?	2009-04-24 10:12:20	1602540397
+Welcoming back Twitter world, as my Gwibber works again.	2009-04-22 09:18:05	1583335424
+Gokarts are 173% more fun when no-braking rule is applied.	2009-04-22 07:08:25	1582858971
+Past weekend highlights: new shiny gifts for Swedish lover, sore-throat suffering, lovely dessert at Polish cafe in Ealing.	2009-04-20 07:43:16	1563886267
+Imagine how many women I could pick up on the streets of Great Britain by just holding a Radio One microphone in my hand.	2009-04-17 11:31:28	1541286039
+Internet connectivity issues at my home make me suffer more than flu does.	2009-04-16 15:18:29	1534283949
+Oh, forgot to mention: I've found my soldering iron. It was hiding under a sink in the kitchen. So all of you, please stop looking. Thanks!	2009-04-14 14:32:17	1516975602
+Air Duster - a thing that every genuine geek would die for.	2009-04-07 14:41:05	1469877591
+High time has come to switch to some serious web browsing software: http://www.saveie6.com	2009-04-07 10:33:49	1468756114
+Calling all my true and devoted fans, still struggling with perfect b'day gift, here's a gentle clue: http://is.gd/ra94	2009-04-07 08:52:42	1468471838
+I've just lost my virginity with Undo Send feature of Gmail. Awesome.	2009-04-03 16:20:38	1446216994
+Anyone seen my soldering iron anywhere???	2009-04-02 20:07:22	1440596488
+My brain is on fire. Which extinguisher type is suitable for this?	2009-04-02 13:59:34	1438411170
+Sudden changes of plan generally annoy me.	2009-04-02 09:16:48	1437359536
+Yet again, a perfect gift idea for your boyfriend / hubby: http://is.gd/qaep	2009-04-01 21:04:28	1434068091
+Just went outside the office during working hours for a first time in month (roughly) and realised the sunshine was already there for me.	2009-04-01 15:27:06	1431954688
+April Fools Day saga continues: http://psyborg.rpg.pl/hp/1kwietnia.jpg	2009-04-01 13:23:16	1431245205
+Killer app from Google: Brain Search. http://is.gd/q1Z8	2009-04-01 09:33:22	1430405467
+The only real feature of Empathy - the new default IM client in Fedora 11 - is it *just* works. Nothing above that, really.	2009-04-01 09:19:38	1430367370
+Black Hawk Down, one of the best action movies ever.	2009-03-31 20:22:04	1426687112
+Locate yourself on the new, simplified map of London: http://www.eatliver.com/img/2009/4114.jpg	2009-03-31 13:03:45	1424126028
+Typo. The worst bug to fix.	2009-03-31 09:50:50	1423462008
+Blimey, DST rocks, actually.	2009-03-30 19:59:28	1419842435
+Really suffering from DST lag.	2009-03-30 09:27:38	1416882186
+Timezones seriously confuse me. Do Melbourne, AU guys really know lotto numbers already?	2009-03-27 17:10:48	1402108088
+Now, this is sad: http://is.gd/pe8X	2009-03-27 12:12:42	1400484998
+Lesson of the day - never underestimate your boss' advice.	2009-03-26 17:28:45	1395649759
+Do you also feel useless trying to debug IE-specific errors?	2009-03-25 16:45:35	1388921160
+The dirtiness level of my uber-hacky implementation I'm currently working on exceeds the potential of any average soap bar.	2009-03-24 17:25:33	1382881228
+Web Developer's Tragedy: To IE8 Or Not To IE8?	2009-03-23 11:03:45	1374908855
+Microsoft supports the war against IE6. Yes, really. http://is.gd/kFOW	2009-03-20 11:32:18	1359738559
+Gmail's killer feature -- Undo Send. http://bit.ly/Ijqt	2009-03-20 10:01:17	1359498460
+After ~12 years I do things in Visual Basic again. Yay!	2009-03-19 17:42:35	1355625009
+Hungarian notation started to seem odd. Well-settled habits turn out to be not that well-settled after all...	2009-03-18 12:48:09	1348018267
+Waiting for table.	2009-03-16 12:04:11	1335901581
+Air-conditioning season has officially started. Woot!	2009-03-15 12:44:16	1331189060
+kswapd0 -- the worst enemy.	2009-03-13 16:23:14	1322475976
+Oh, Friday 13th today. We're all doomed. Again.	2009-03-13 09:45:03	1320944044
+Currently experiencing shoelace failure. Is there any place to buy shoelaces nowadays, or shall I just buy a new pair of shoes?	2009-03-12 15:20:30	1316462174
+Working with your own, but approx. 2 years old code is a real pain.	2009-03-11 12:25:30	1310276935
+Trip-hopping with Tricky.	2009-03-09 18:01:50	1301431891
+Resolving technical support issues with the other side of the world really annoys me.	2009-03-09 12:52:58	1300158193
+One of the biggest world's computer manufacturer has technical support lines open 8am to 5pm Mon-Fri only. Lovely.	2009-03-07 14:02:14	1292722916
+Who's the one to blame for credit crunch? Apparently, not me: http://is.gd/mcyE	2009-03-06 23:55:57	1290816575
+My main laptop's breakdown marks the perfect start of the weekend.	2009-03-06 23:08:05	1290647880
+Looks like weekend has executed prematurely this time.	2009-03-06 17:02:18	1289050434
+Gmail filters import/export feature is now on. Woot! http://is.gd/m6qI	2009-03-06 14:43:46	1288450968
+Cancer attack postponed (again).	2009-03-06 10:48:21	1287782800
+Just got a little step closer to become a real programmer.	2009-03-05 17:50:00	1284339840
+Who needs food, anyway? We are all robots.	2009-03-05 12:38:40	1283095807
+Coming back home from work today in no-time. Literally.	2009-03-04 18:19:41	1279625586
+Pro-actively reducing number of ifs in the code.	2009-03-04 16:21:27	1279102359
+That FUCKING BUNCH OF FREAKS 'fighting for Britain' should always remember who took part in Britain's WWII victory!!! http://is.gd/lJNm	2009-03-04 11:58:35	1278189760
+Seems like it's a high time to squeeze some work into daily Tube commuting.	2009-03-03 12:08:39	1273449061
+"Most bugs are called features" (C) by @amyeph. So true.	2009-03-02 12:00:21	1268925378
+Banging tweets out of Windows Mobile Twitter client.	2009-02-27 19:06:07	1259253588
+Today is very important day for two reasons: 1) weekend is just about to start; 2) there are exactly 4 months left until next holiday.	2009-02-27 18:45:17	1259173575
+There is that subtle feeling of panic around the office when internet connection suddenly goes down.	2009-02-27 16:57:43	1258755327
+Friday mood kicks in.	2009-02-27 14:11:20	1258111752
+TaoCelebrations saga continues. 2 years 5 months 16 days 13 hours 28 minutes for me. Next!	2009-02-27 13:28:32	1257979400
+Getting used to touchscreen again. Slowly but gradually.	2009-02-26 20:20:51	1255126418
+Being very persnickety about latin1_swedish_ci.	2009-02-26 15:00:42	1253838660
+Getting friends with Windows Mobile again.	2009-02-26 12:21:39	1253357626
+Google Gears vs. Prism -- 0:1. Giving up.	2009-02-24 21:10:27	1246449140
+Field Test Display rocks. Massively.	2009-02-24 19:06:44	1245975203
+The Reg's witty Bill Ray always the best. Even when it comes to rather sad story of laying people off their work. http://is.gd/kF0b	2009-02-24 13:27:59	1244787463
+Life with Gmail. So good.	2009-02-24 12:24:43	1244626970
+Seems like this year's downtime limit for Gmail has been exhausted. And the next year's too.	2009-02-24 11:13:45	1244469484
+Life without Gmail. Sucks.	2009-02-24 10:32:29	1244384991
+There is probably nothing better than a refreshing morning walk from Piccadilly Circus to work due to the faulty train on Bakerloo Line.	2009-02-24 09:35:06	1244282912
+Journey to work today has been sponsored by word 'Connecting...'.	2009-02-24 09:02:31	1244226701
+Experiencing massive trip-hops with Massive Attack.	2009-02-23 18:44:22	1241789326
+Apparently, awking through 59993461 lines of xml data takes a bit more time than expected.	2009-02-23 17:24:24	1241512230
+Having significant amount of flashbacks from deep-past with Portishead's 'Dummy' album.	2009-02-23 14:24:22	1240905330
+Half of Sunday spent on fulfilling basic instincts of my Swedish lover. Finally. http://is.gd/ksIe	2009-02-22 20:06:56	1238044433
+Heavy fight with $str, $arr, $obj and $boo continues...	2009-02-20 15:36:10	1230875929
+Home-made sandwiches are like Lunch 2.0. Really good.	2009-02-20 13:26:10	1230456520
+Friday seems to be a perfect day to switch entirely to mysqli.	2009-02-20 12:05:55	1230274893
+The amount of calories I've tucked into myself yesterday is comparable with average yearly consumption of polar bear.	2009-02-20 09:51:14	1230038201
+Wanna significantly improve your customer service level? Outsource it. Simple! http://is.gd/k7wF (btw, The Reg rocks, as usual)	2009-02-19 16:42:31	1227219813
+When I grow up, I'll become a real programmer.	2009-02-19 15:53:49	1227045648
+For all those weekend freaks out there -- http://is.gd/k50i	2009-02-19 10:11:36	1226166787
+Cat 2.0 -- http://is.gd/k0dK	2009-02-18 22:03:17	1224493759
+Think how many digital trees could be saved if we all replied to emails properly and cut unnecessary citations and/or signatures...	2009-02-18 17:22:08	1223532516
+There's certainly some amount of sense in this: http://tinyurl.com/ccxyzy	2009-02-17 14:41:39	1219044859
+Anyone understands the logic behind 'Remember me' tickbox on twitter's login page? Or rather lack of it.	2009-02-17 14:00:28	1218921048
+Google Notebook has just lost one of my notes. Should I start worry?	2009-02-17 10:05:30	1218431812
+Just added a single, little click to the great success of @commandlinefu.	2009-02-16 18:58:11	1216211322
+A new era of (G)mail has started. At least for now.	2009-02-16 09:41:34	1214822672
+Do it with Gnome-Do.	2009-02-14 01:48:09	1208578131
+Anyone fancy a Gmail account under the cool go.adl.pl domain?	2009-02-14 00:36:47	1208413743
+For all of those struggling to get a perfect Valentine's Day gift -- here's a thought: http://is.gd/jsKV	2009-02-13 20:54:50	1207772653
+Does staying in the office after hours violate No Work At Home policy?	2009-02-13 18:41:17	1207332481
+Oh, I nearly forgot it's Friday 13th today. We're doomed. And then we start a weekend.	2009-02-13 16:24:58	1206848038
+Seems like I've been infected by Trojan Worm.	2009-02-13 16:15:13	1206813698
+OK, auto-completion feature in NetBeans 7.0 kicks ass.	2009-02-13 12:41:34	1206184380
+The only reasonable method of JS debugging in IE is by elimination...	2009-02-13 11:31:27	1206049711
+Friday 13th. We're doomed.	2009-02-13 10:18:54	1205928108
+Google Mail keyboard shortcuts. Discovered.	2009-02-12 14:52:01	1202807016
+Thinking of turning my mobile operator upside down after being annoyed with utterly useless T-Mobile coverage of Piccadilly Line.	2009-02-11 19:08:35	1199973941
+Thinking of turning my whole emailing conventions upside down with Google Apps.	2009-02-11 19:04:14	1199960140
+Beware! I am now following real people on my twitter (oh, does @commandlinefu count?)	2009-02-10 14:12:08	1195489438
+Anyone remember times of plain-text weekly e-zines, instead of those intrusive web2.0-fancy feeds overwhelming us on daily basis nowadays?	2009-02-10 12:58:52	1195310401
+Google Webmaster Tools -- rediscovered.	2009-02-10 09:34:07	1194958802
+evy.varsamopoulou@ucy.ac.cy wrote me an email I've just won £650k in National Lottery. Could you ever imagine a better start of the week?	2009-02-09 10:28:59	1191468827
+Tired, hungry and on delayed train back home - a perfect start of the weekend.	2009-02-06 19:50:45	1184264653
+Trying to reverse-engineer your own, 2-year-old, completely not documented code sounds like a helluva' fun!	2009-02-06 14:22:37	1183236215
+Commandlinefu.com saga continues...	2009-02-06 10:03:01	1182728625
+Anyone knows the nearest weather complaint office?	2009-02-06 09:11:42	1182651032
+Updating twitter status on the Tube... Blimey, someone's a geek here!	2009-02-05 19:07:25	1180665596
+~23GB of music and I never know what to listen to... Is this like women going out and never know what to wear in front of full closet?	2009-02-05 12:23:29	1179488793
+I wish the tube was always that quiet, as it is between 4 and 5pm.	2009-02-04 16:55:52	1176815131
+Anyone has a collection of "Back To Mine" or "DJ Kicks" series?	2009-02-03 17:30:38	1173545474
+There is a clear tendency to get things right after third, maybe fourth iteration over the same piece of functionality.	2009-02-03 16:52:11	1173423925
+1 GBP = 5.0027 PLN -- psychological barrier exceeded...	2009-02-03 13:13:23	1172823445
+Here's a thought: name your server 'hezbollah' and get a FREE, daily backups on FBI/CIA servers. http://tinyurl.com/cv9ajj	2009-02-03 09:02:49	1172426571
+Credit crunch sucks.	2009-02-01 01:07:59	1165784963
+Anyone reckons eBay.co.uk has serious scalability issues? It's utterly useless almost every evening...	2009-01-30 20:17:08	1162716724
+Follow-up: "Within 5 working days" turned out to be ~4-5 hours. Rather impressive, as for CS v2.0.	2009-01-30 19:58:56	1162666768
+Customer Service v2.0: "This is an automated response [...] We aim to get back to as quickly as possible [...] within 5 working days"	2009-01-30 18:14:18	1162372636
+Apparently Paris Hilton herself was just next to our office yesterday afternoon.	2009-01-30 14:38:42	1161746491
+OK, now anyone who is setting up international currency exchange rates is wanted NOW! I want to hurt him/her really really badly.	2009-01-30 13:32:08	1161585835
+Anybody seen my sanity anywhere?	2009-01-30 13:28:21	1161577409
+I can't believe there are still websites saying 'This page is best viewed in XYZ browser and ABC resolution'. It's soooo Web 0.87-beta	2009-01-30 13:04:57	1161529828
+I really don't know how this week could pass so quickly... Looks like Friday, feels like Wednesday.	2009-01-30 11:30:40	1161371110
+Nokia warranty repair turnaround -- under 24 hours! Is that a thing I should be impressed about nowadays?	2009-01-29 12:53:46	1158328067
+Temporarily back to the basics with Nokia 6630 -- a 2-3 year old phone, but feels like 50.	2009-01-28 12:33:28	1155049517
+For anyone concerned about my irregular giggles at the desk, please note Scott Mills constantly kicks ass. http://tinyurl.com/cbjyzr	2009-01-27 14:10:14	1152090827
+Seems like winter season in London is officially finished. Ergh.. but did it start in the first place, anyway?	2009-01-27 12:00:00	1151841233
+Browsing ZF's docs bring memories of making the very first steps in programming in Visual Basic sometime around 10-15 years ago...	2009-01-26 23:46:06	1150585200
+First success in getting data from database using Zend_Db. Woot!	2009-01-26 22:51:57	1150450877
+Buying new .pl domains for ~£1 rocks. Renewing .pl domains a year after for nearly £50 sucks.	2009-01-26 11:29:36	1148804238
+Let the Monday joy begin. Woohaaa!	2009-01-26 09:55:56	1148691220
+John Digweed's Transitions @protonradio.com simply kick ass. As usual.	2009-01-24 02:09:04	1143681564
+Making the very first step is always the hardest. Then it way easier.	2009-01-24 00:32:13	1143499354
+Internet is painfully slow. Shouldn't real people do binge-drinking on Friday night, instead of wasting network bandwidth?	2009-01-23 20:57:38	1143012721
+I've been standing on my feet all the way between Oxford Circus and Osterley. Thinking of filling a complaint form...	2009-01-23 20:01:26	1142872248
+I must admit it was quite productive Friday, and hopefully that kind of productivity would extend to the night	2009-01-23 17:56:08	1142554032
+It's a high time for late lunch	2009-01-23 15:33:34	1142169502
+That is certainly nice to have someone regular on the Tube you can share a daily smile with	2009-01-23 12:18:29	1141764926
+I feel truly sorry for people handing out leaflets on the street... How can you be ignored more than they are?	2009-01-22 11:45:59	1138847044
+Nokia Sans is really good looking font on GNOME's desktop. Coincidentally it is also used as a default UI font in popular mobile phone brand	2009-01-21 16:09:58	1136543487
+http://tinyurl.com/822ac6 Apparently, yesterday was the most depressing day ever.. There was sth about it.. Let's make today a bit happier!	2009-01-20 10:00:33	1132796640
+Debating over Heathrow expansion on Polish discussion group... Weird?	2009-01-17 18:40:31	1126609420
+Going to bed at this point in time would certainly be a sign of good manners. Good night.	2009-01-17 04:39:08	1125555611
+Setting up webdev environments on my home machines is just a tiny part of the overall success...	2009-01-17 04:36:18	1125551459
+I would never expect phpMyAdmin's automated setup script to be so confusing. Direct config.inc.php editing is still a winner...	2009-01-17 01:52:39	1125271642
+Let's do some microblogging from home...	2009-01-16 23:40:03	1125022589
+I wonder why delays on the Tube always tend to happen on Friday evenings, just before weekend starts...	2009-01-16 19:04:16	1124423020
+£1.85 Spaghetti Bolonese from Sainsbury's is now playing rough in my guts.	2009-01-14 16:44:34	1118659048
+Gigabit ethernet kicks ass! I wish internet was so fast...	2009-01-14 11:11:49	1118022751
+Wendesday seems like a perfect day for a middle of the working week.	2009-01-14 09:40:17	1117923727
+Tottenham Court Road sucks. Extremely expensive stuff.	2009-01-13 13:25:13	1115577440
+And all of a sudden, microblogging got me... (wondering for how long, tough)	2009-01-12 17:45:42	1113575405
+Palm Pre's WebOS seems to kick ass: http://tinyurl.com/9kksgb	2009-01-12 17:41:42	1113566476
+Discovering joys of *nix server configuration	2009-01-12 17:12:30	1113499560
+Twitux sux. Gwibber lux.	2009-01-12 15:44:15	1113295186
+Catching up with Scott Mills daily podcasts. Scott kinda rocks.	2009-01-09 18:39:46	1107351390
+It's a perfect time to start a weekend...	2009-01-09 17:58:31	1107258355
+Real men never use twitter	2009-01-09 13:54:38	1106714106
+Apparently twitux sux	2009-01-09 13:52:32	1106710710
+Seems like twitux has a bug that prevents displaying tweets that have quotation mark within (ie. aandr_project tweets) :-o	2009-01-09 10:56:44	1106513281
+I heard some rumors Twitux is worth some attention... So here it is!	2009-01-09 09:50:34	1106445277
+OK, so now you all will know when I run my daily dental hygiene procedure... How cool is that?	2009-01-08 15:02:29	1104498467
+whatever	2009-01-08 14:56:24	1104487024
