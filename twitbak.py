@@ -194,7 +194,7 @@ def spin(config, fetcher, storage):
             tweets = Parser().parse_response(fetcher.fetch(page))
         except urllib2.HTTPError as e:
             sys.stderr.write("Oops: %s\n" % str(e))
-            sys.stderr.write("Hint: hourly limit has been exhausted, perhaps?")
+            sys.stderr.write("Hint: hourly limit has been exhausted, perhaps?\n")
             retry_limit = retry_limit - 1
             if retry_limit == 0:
                 sys.stderr.write("Giving up...\n")
