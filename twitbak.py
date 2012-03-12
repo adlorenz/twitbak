@@ -9,9 +9,9 @@ from dateutil.parser import parse
 
 class Config():
     """
-    Configuration object which handles options passed via cli and also
-    reads/writes persistent configuration
+    Wrapper object around options passed via cli
     """
+    
     # Default config values
     auto_mode = False
     include_replies = False
@@ -43,6 +43,9 @@ class Config():
             raise Exception('Unable to determine last tweet ID, try running script in non-auto mode first')
     
     def find_last_tweet_id(self):
+        """
+        Tries to determine the most recent tweet ID from output file
+        """
         if os.path.exists(self.output_path):
             f = open(self.output_path, 'r')
             tweet_id = f.readline().split('\t')[2].rstrip()
@@ -55,9 +58,10 @@ class Fetcher():
     """
     Class to execute requests to Twitter's API and fetch tweets 
     """
-    
+    # Twitter's API base URL to retrieve timeline
     BASE_URL = 'https://api.twitter.com/1/statuses/user_timeline.json?screen_name=%s&include_rts=true&exclude_replies=%s'
-    
+
+    # Default options
     exclude_replies = 'true'
     since_id = None
         
@@ -96,6 +100,9 @@ class Storage():
         
         self.final_path = self.config.output_path
         self.tmp_path = '%s.tmp' % self.final_path
+        
+        # When working in auto_mode write tweets into temporary file
+        # which then will get merged into final output file
         if self.config.auto_mode:
             self.writable_path = self.tmp_path
         else:
@@ -133,7 +140,8 @@ class Storage():
     
 class Parser():
     """
-    Receives raw response from API and converts it into something useful
+    Receives raw response from API and converts it into something useful,
+    ie. collection of Tweet objects
     """
     def parse_response(self, raw_response):
         json_collection = json.loads(raw_response)
@@ -149,7 +157,7 @@ class Parser():
 
 class Tweet():
     """
-    A class representing a simple tweet
+    A tweet class which wraps around raw json tweet data retrieved from API
     """
     def __init__(self, raw_tweet):
         self.data = raw_tweet
@@ -168,6 +176,9 @@ class Tweet():
     
     
 def spin(config, fetcher, storage):
+    """
+    This is when action happens
+    """
     page = 1
     if config.auto_mode is True:
         sys.stdout.write('Running in AUTO mode, found last tweet ID %s\n' % config.last_tweet_id)
@@ -185,6 +196,7 @@ def spin(config, fetcher, storage):
             tweets = Parser().parse_response(fetcher.fetch(page))
         except urllib2.HTTPError as e:
             sys.stderr.write("Oops: %s\n" % str(e))
+            sys.stderr.write("Hint: hourly limit has been exhausted, perhaps?")
             retry_limit = retry_limit - 1
             if retry_limit == 0:
                 sys.stderr.write("Giving up...\n")
@@ -197,6 +209,8 @@ def spin(config, fetcher, storage):
             break
         
         sys.stdout.write('- retrieved %d tweets ' % len(tweets))
+        # IDs buffer is used to prevent tweets overlaping between requests,
+        # which seem to happen when requests are ignoring reply tweets
         current_ids_buffer = []
         current_count = 0
         for tweet in tweets:
@@ -210,6 +224,8 @@ def spin(config, fetcher, storage):
         prev_ids_buffer = current_ids_buffer
         sys.stdout.write('- processed %d tweets (%d total)\n' % (current_count, total_count))
         
+    # Don't forget to merge output files once job is done! 
+    # (only applies in auto mode, tough)
     storage.merge()
 
 
@@ -235,10 +251,6 @@ if __name__ == "__main__":
                       action="store", 
                       dest="output_path", 
                       help='Path to the file where tweets should be saved - local tweets.txt file by default')
-#    parser.add_option('-q', '--quiet', 
-#                      action="store_true", 
-#                      dest="quiet", 
-#                      help='Do not produce any output')
     
     (opts, args) = parser.parse_args()
     
@@ -250,9 +262,12 @@ if __name__ == "__main__":
         spin(config, fetcher, storage)
         sys.stdout.write('\nGood bye\n')
     except IndexError:
+        # Username argument is required
         sys.stderr.write('No twitter username specified\n')
     except Exception as e:
+        # Generic exception
         sys.stderr.write(str(e) + '\n')
     except KeyboardInterrupt:
+        # CTRL-C addicts
         sys.stdout.write('\nReally sad to see you go...\n')
         storage.emergency_cleanup()
