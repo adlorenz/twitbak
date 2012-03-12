@@ -6,6 +6,51 @@ import sys
 import urllib2
 from dateutil.parser import parse
 
+
+class Config():
+    """
+    Configuration object which handles options passed via cli and also
+    reads/writes persistent configuration
+    """
+    LAST_TWEET_ID_FILENAME = '.twitbak.last_tweet_id'
+    
+    # Default config values
+    auto_mode = False
+    include_replies = False
+    last_tweet_id = None
+    output_path = 'tweets.txt'
+    page = 1
+    
+    def __init__(self, options):
+        if options.include_replies:
+            self.include_replies = True
+        
+        if options.last_tweet_id:
+            self.last_tweet_id = options.last_tweet_id
+            
+        if options.output_path:
+            self.output_path = options.output_path
+        
+        if options.auto_mode:
+            self.init_auto_mode()
+    
+    def init_auto_mode(self):
+        self.auto_mode = True
+        self.last_tweet_id_filepath = '%s/%s' % (os.environ.get('HOME'), self.LAST_TWEET_ID_FILENAME)
+        if os.path.exists(self.last_tweet_id_filepath):
+            f = open(self.last_tweet_id_filepath, 'r')
+            # TODO: raise exception when last_tweet_id is not found or empty
+            last_tweet_id = f.read()
+            self.last_tweet_id = last_tweet_id.rstrip()
+            f.close()
+    
+    def save_last_tweet_id(self, tweet_id):
+        # TODO: race condition - self.last_tweet_id_filepath must be set beforehand
+        f = open(self.last_tweet_id_filepath, 'w')
+        f.write(tweet_id)
+        f.close()
+        
+
 class Fetcher():
     """
     Class to execute requests to Twitter's API and fetch tweets 
@@ -16,13 +61,13 @@ class Fetcher():
     exclude_replies = 'true'
     since_id = None
         
-    def __init__(self, username, options):
+    def __init__(self, username, config):
         self.username = username
-        if options.include_replies:
+        if config.include_replies:
             self.exclude_replies = 'false'
         
-        if options.last_tweet_id:
-            self.since_id = options.last_tweet_id
+        if config.last_tweet_id:
+            self.since_id = config.last_tweet_id
             
     def set_last_tweet_id(self, tweet_id):
         self.since_id = tweet_id
@@ -41,46 +86,19 @@ class Fetcher():
         res.close()
         return raw_response
         
-    
-class Config():
-    
-    last_tweet_id = None
-    
-    def __init__(self):
-        self.last_tweet_id_file = '%s/.twitbak.last_tweet_id' % os.environ.get('HOME')
-        self.last_tweet_id = self.get_last_tweet_id()
-    
-    def get_last_tweet_id(self):
-        if os.path.exists(self.last_tweet_id_file):
-            f = open(self.last_tweet_id_file, 'r')
-            last_tweet_id = f.read()
-            f.close()
-            return last_tweet_id.rstrip()
-        return None
-    
-    def set_last_tweet_id(self, tweet_id):
-        f = open(self.last_tweet_id_file, 'r')
-        f.write(tweet_id)
-        f.close()
-    
-    
+
 class Storage():
     """
     Manages tweets storage
     """
-    final_path = 'tweets.txt'
-    tmp_path = None
-    writable_path = None
-    auto_mode = False
-    last_tweet_id_file = '.twitbak.last_tweet_id'
+    config = None
     
-    def __init__(self, options):
-        if options.output_path:
-            self.final_path = options.output_path
-        self.tmp_path = '%s.tmp' % self.final_path
+    def __init__(self, config):
+        self.config = config
         
-        if options.auto_mode:
-            self.auto_mode = True
+        self.final_path = self.config.output_path
+        self.tmp_path = '%s.tmp' % self.final_path
+        if self.config.auto_mode:
             self.writable_path = self.tmp_path
         else:
             self.writable_path = self.final_path
@@ -97,7 +115,7 @@ class Storage():
         f.close()
         
     def merge(self):
-        if self.auto_mode is False:
+        if self.config.auto_mode is False:
             return
         
         if os.path.exists(self.final_path):
@@ -143,17 +161,16 @@ class Tweet():
     def created_date(self):
         return parse(self.data['created_at']).strftime('%Y-%m-%d %H:%M:%S')
     
-def spin(options, fetcher, storage, config):
+    
+def spin(config, fetcher, storage):
     page = 1
-    #
-    # TODO: support auto mode properly
-    #
-    if options.auto_mode is True and config.last_tweet_id is not None:
+    if config.auto_mode is True:
         sys.stdout.write('Running in AUTO mode, found last tweet ID %d' % config.last_tweet_id)
-        fetcher.set_last_tweet_id(config.last_tweet_id)
+    
+    if config.auto_mode is False and config.page != page:
+        page = int(config.page)
+        sys.stdout.write('Starting retrieving tweets from page %d' % page)
         
-    if options.page is not None:
-        page = int(options.page)
     total_count = 0
     retry_limit = 3
     prev_ids_buffer = []
@@ -171,7 +188,7 @@ def spin(options, fetcher, storage, config):
             continue
         
         if tweets is None or len(tweets) == 0: 
-            sys.stdout.write("- no tweets have been retrieved, quitting\n")
+            sys.stdout.write("- no more tweets have been retrieved, quitting\n")
             break
         
         sys.stdout.write('- retrieved %d tweets ' % len(tweets))
@@ -220,10 +237,10 @@ if __name__ == "__main__":
     
     try:
         username = args[0]
-        config = Config()
-        storage = Storage(opts)
-        fetcher = Fetcher(username, opts)
-        spin(opts, fetcher, storage, config)
+        config = Config(opts)
+        storage = Storage(config)
+        fetcher = Fetcher(username, config)
+        spin(config, fetcher, storage)
         storage.merge()
     except IndexError:
         sys.stderr.write('No twitter username specified\n')
