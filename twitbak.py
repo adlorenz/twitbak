@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 import json
 import optparse
 import os
@@ -20,30 +20,35 @@ class Config():
     page = 1
     
     def __init__(self, options):
+        if options.page:
+            self.page = options.page
+        
         if options.include_replies:
             self.include_replies = True
         
         if options.last_tweet_id:
             self.last_tweet_id = options.last_tweet_id
             
-        if options.final_path:
-            self.output_path = options.final_path
+        if options.output_path:
+            self.output_path = options.output_path
         
         if options.auto_mode:
             self.init_auto_mode()
     
     def init_auto_mode(self):
         self.auto_mode = True
-        # TODO: handle cases where auto_mode cannot determine last tweet ID (raise exception?)
-        self.last_tweet_id = self.find_last_tweet_id()
+        try:
+            self.last_tweet_id = self.find_last_tweet_id()
+        except:
+            raise Exception('Unable to determine last tweet ID, try running script in non-auto mode first')
     
     def find_last_tweet_id(self):
         if os.path.exists(self.output_path):
             f = open(self.output_path, 'r')
             tweet_id = f.readline().split('\t')[2].rstrip()
             f.close()
-            return tweet_id
-        return None
+            if tweet_id: return tweet_id
+        raise Exception
         
 
 class Fetcher():
@@ -169,7 +174,7 @@ def spin(config, fetcher, storage):
     
     if config.page != page:
         page = int(config.page)
-        sys.stdout.write('Start retrieving tweets from page %d' % page)
+        sys.stdout.write('Start retrieving tweets from page %d\n' % page)
         
     total_count = 0
     retry_limit = 3
@@ -209,27 +214,27 @@ def spin(config, fetcher, storage):
 
 
 if __name__ == "__main__":
-    parser = optparse.OptionParser("Usage: %prog [options] twitter_username")
+    parser = optparse.OptionParser("Usage: %prog [options] twitter_username\n\nRetrieves given username's Twitter timeline into tweets.txt file,\nexcluding any reply tweets by default.")
     parser.add_option('-a', '--auto', 
                       action="store_true", 
                       dest="auto_mode", 
-                      help='Automatically determine the most recent tweet ID and only retrieve tweets newer than that')
-    parser.add_option('-o', '--output-path', 
-                      action="store", 
-                      dest="final_path", 
-                      help='Path to the file where tweets should be saved')
+                      help='Automatically determine the most recent tweet ID and only retrieve tweets newer than that. Note: retrieved tweets in automatic mode are stored at the beginning of the output file to maintain default reverse chronological order')
     parser.add_option('-i', '--last-tweet-id', 
                       action="store", 
                       dest="last_tweet_id", 
-                      help='Manually specify tweet ID to only retrieve tweets newer than this')
+                      help='Manually specify tweet ID to only retrieve tweets newer than that')
     parser.add_option('-p', '--page', 
                       action="store", 
                       dest="page", 
-                      help='Page number to start retrieving tweets from in Twitter\'s API (starts from page 1 by default). Useful to resume fetching after reaching hourly limit')
+                      help='Page number to start retrieving tweets from Twitter\'s API. Useful to resume fetching after exhausting hourly limit. Starts from page 1 by default')
     parser.add_option('-r', '--include-replies', 
                       action="store_true", 
                       dest="include_replies", 
                       help='Should replies (tweets starting with @) be retrieved')
+    parser.add_option('-o', '--output-path', 
+                      action="store", 
+                      dest="output_path", 
+                      help='Path to the file where tweets should be saved - local tweets.txt file by default')
 #    parser.add_option('-q', '--quiet', 
 #                      action="store_true", 
 #                      dest="quiet", 
@@ -243,8 +248,11 @@ if __name__ == "__main__":
         storage = Storage(config)
         fetcher = Fetcher(username, config)
         spin(config, fetcher, storage)
+        sys.stdout.write('\nGood bye\n')
     except IndexError:
         sys.stderr.write('No twitter username specified\n')
+    except Exception as e:
+        sys.stderr.write(str(e) + '\n')
     except KeyboardInterrupt:
         sys.stdout.write('\nReally sad to see you go...\n')
         storage.emergency_cleanup()
