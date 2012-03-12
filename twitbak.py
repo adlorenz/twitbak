@@ -43,12 +43,10 @@ class Config():
             raise Exception('Unable to determine last tweet ID, try running script in non-auto mode first')
     
     def find_last_tweet_id(self):
-        """
-        Tries to determine the most recent tweet ID from output file
-        """
+        # Tries to determine the most recent tweet ID from the output file
         if os.path.exists(self.output_path):
             f = open(self.output_path, 'r')
-            tweet_id = f.readline().split('\t')[2].rstrip()
+            tweet_id = f.readline().split('\t')[2].rstrip() # Hey, this line makes me feel like a pro
             f.close()
             if tweet_id: return tweet_id
         raise Exception
