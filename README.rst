@@ -1,8 +1,8 @@
 Twitbak
 =======
 
-Twitbak allows creating a backup of your Twitter's public timeline into a local 
-plain/text file.
+Twitbak is a simple Python script which allows creating a backup of your Twitter's 
+public timeline into a local plain/text file.
 
 
 Rationale
