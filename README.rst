@@ -13,7 +13,7 @@ any user's timeline using API, so if you've produced, say 3500 tweets in your ti
 (inluding retweets and replies), the first 300 would be gone somewhere in distant 
 Twitterverse forever.
 
-I have accidentaly found about this via `Zach Holman's blog article`_ the other day
+I have accidentally found about this via `Zach Holman's blog article`_ the other day
 and thought writing a simple fetcher script to dump tweets into an offline text file 
 would be nice Python excercise for a PHP'er keen to learn more Python.
 
